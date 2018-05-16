@@ -50,7 +50,7 @@
 20097654 2010 
 20685817 2010 
 NA 2010 null www.nar.oxfordjournals.org -1 
-NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 20081199 2010 
 20081200 2010 
 20081201 2010 
@@ -83,8 +83,8 @@ NA 2010 null www.nar.oxfordjournals.org -1
 20100801 2010 NoLink
 20139417 2010 null http://www.genetrap.de 200 null http://www.eucomm.org 301 null http://www.geneart.com -1 null http://www.geneart.com -1 null http://www.genetrap.de 200 null http://www.genetrap.de 200 null http://www.genetrap.de 200 
 20685815 2010 null S7 -1 
-NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null www.daisyginsberg.com -1 
-NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals.org -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null www.daisyginsberg.com -1 
+NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals.org -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 20110259 2010 null http://mgc.nci.nih.gov 301 
 20421206 2010 NoLink
 20071746 2010 null http://rsb.info.nih.gov/ij/ 301 

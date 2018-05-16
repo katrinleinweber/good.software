@@ -6,7 +6,7 @@
 26354861 2015 download http://cancergenome.nih.gov/ 301 null https://cghub.ucsc.edu/ 200 download http://www.ensembl.org/index.html 200 null http://biodbnet.abcc.ncifcrf.gov/ 301 here http://14.139.59.221/mythology/index.php -1 available http://scbb.ihbt.res.in/SCBB_dept/Software.php -1 
 26837576 2016 available http://www.ncbi.nlm.nih.gov/geo/ 301 
 26261210 2015 NoLink
-NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 null halinabainbridge.com -1 null http://sandrawilks.500px.com/ 404 
+NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 null halinabainbridge.com -1 null http://sandrawilks.500px.com/ 404 
 NA 2016 NoLink
 NA 2016 null www.nar.oxfordjournals.org -1 
 27257063 2016 tool http://tools.flycrispr.molbio.wisc.edu/targetFinder/ 200 
@@ -76,7 +76,7 @@ NA 2015 null www.nar.oxfordjournals.org -1
 26275774 2015 NoLink
 26385498 2015 NoLink
 NA 2015 null www.nar.oxfordjournals.org -1 
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 26245346 2015 NoLink
 26202971 2015 software https://physics.illinois.edu/cplc/software/ 302 
 26175049 2015 NoLink

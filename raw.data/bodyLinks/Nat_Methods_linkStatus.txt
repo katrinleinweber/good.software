@@ -295,7 +295,7 @@
 24317253 2014 null http://www.srmatlas.org 200 null https://panoramaweb.org 200 null http://proteomecentral.proteomexchange.org 200 available https://proteomics.fhcrc.org/CPAS/project/Published%20Experiments/International%20MRM%20Assays/begin.view? 302 null ftp://ftp.ncbi.nih.gov/gene/DATA/ 301 null http://www.geneontology.org/GO.slims.shtml 301 null http://microarraypubs.stanford.edu/woundNKI/explore.html -1 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6532 301 null http://proteomecentral.proteomexchange.org 200 available https://proteomics.fhcrc.org/CPAS/project/Published%20Experiments/International%20MRM%20Assays/begin.view? 302 
 24317254 2014 null http://jaxmice.jax.org/strain/004782.html 301 null http://jaxmice.jax.org/strain/007576.html 301 
 24292485 2013 NoLink
-24240321 2013 null http://dx.doi.org/10.1038/protex.2013.082 303 null http://dx.doi.org/10.1038/protex.2013.082 303 
+24240321 2013 null https://doi.org/10.1038/protex.2013.082 303 null https://doi.org/10.1038/protex.2013.082 303 
 24240319 2013 null http://www.flyrnai.org/SignedPPI/ 200 null http://stke.sciencemag.org/cm/ 404 null http://www.flyrnai.org/SignedPPI/ 200 null www.flyrnai.org/ -1 null http://genomernai.de/GenomeRNAi/ 301 null http://neuroblasts.imba.oeaw.ac.at/ 301 null http://bristlescreen.imba.oeaw.ac.at 301 null http://signalink.org/ 200 null http://www.genome.jp/kegg/pathway.html 200 null http://stke.sciencemag.org/cm/ 404 download www.cytoscape.org -1 code http://www.modencode.org/ 200 null www.flyrnai.org/ -1 null www.flyrnai.org/ -1 null http://cytoscapeweb.cytoscape.org/ 200 null http://lucene.apache.org/ 200 null http://www.json.org/ 200 application http://webfx.eae.net/ 200 null ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/ 301 null ftp://ftp.flybase.net/releases/current/ -1 null ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/ 404 
 25128976 2014 NoLink
 24270603 2013 available http://lilab.stanford.edu/mmPCR/ 200 null http://www.ncbi.nlm.nih.gov/SNP/ 301 null http://evs.gs.washington.edu/EVS/ 200 null http://www.ncbi.nlm.nih.gov/sra 301 software http://www.bios.unc.edu/~weisun/software/asSeq.htm 200 
@@ -490,7 +490,7 @@
 28346451 2017 null http://www.satijalab.org/clustertutorial1.html 301 null http://www.bioinformatics.bbsrc.ac.uk/projects/seqmonk 403 
 28369043 2017 NoLink
 28394337 2017 NoLink
-28394336 2017 software www.nesvilab.org/software -1 null http://dx.doi.org/xx.xxxx/protex.yyyy.xxx 404 
+28394336 2017 software www.nesvilab.org/software -1 null https://doi.org/xx.xxxx/protex.yyyy.xxx 404 
 28417999 2017 available http://crest-seq.ucsd.edu/web/ -1 null http://broadinstitute.github.io/picard 301 available https://github.com/r3fang/crest 301 
 28418000 2017 null https://github.com/catavallejos/BASiCS 301 null https://github.com/RGLab/MAST 301 null http://grants.nih.gov/stem_cells/registry/current.htm?id=29 301 null http://grants.nih.gov/stem_cells/registry/current.htm?id=414 301 
 28417997 2017 null http://expansionmicroscopy.org/ 200 

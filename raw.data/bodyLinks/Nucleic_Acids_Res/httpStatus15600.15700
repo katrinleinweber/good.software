@@ -91,7 +91,7 @@
 27913727 2017 tool https://genome.ucsc.edu/cgi-bin/hgTables 200 tool https://bedtools.readthedocs.io/en/latest/ 200 null http://www.girinst.org/repbase 301 tool http://www.jalview.org/ 200 null http://www.repeatmasker.org/ 200 null http://www.repeatmasker.org/cgi-bin/ViewRepeat?id=MADE1 500 null http://www.girinst.org/repbase 301 
 27694623 2017 NoLink
 27651452 2017 NoLink
-27899609 2017 null https://bioedge.lanl.gov/ 302 software https://lanl-bioinformatics.github.io/EDGE/ 200 null https://bioedge.lanl.gov/ 302 null http://dx.doi.org/10.1101/032250 303 null http://edge.readthedocs.org/ 301 software https://lanl-bioinformatics.github.io/EDGE/ 200 software https://github.com/LANL-Bioinformatics/edge 301 null https://edge.readthedocs.io/en/latest/installation.html#edge-vmware-ovf-image 200 null https://edge.readthedocs.io/en/latest/installation.html#edge-docker-image 200 null https://bioedge.lanl.gov/ 302 
+27899609 2017 null https://bioedge.lanl.gov/ 302 software https://lanl-bioinformatics.github.io/EDGE/ 200 null https://bioedge.lanl.gov/ 302 null https://doi.org/10.1101/032250 303 null http://edge.readthedocs.org/ 301 software https://lanl-bioinformatics.github.io/EDGE/ 200 software https://github.com/LANL-Bioinformatics/edge 301 null https://edge.readthedocs.io/en/latest/installation.html#edge-vmware-ovf-image 200 null https://edge.readthedocs.io/en/latest/installation.html#edge-docker-image 200 null https://bioedge.lanl.gov/ 302 
 27899655 2017 null https://clinicaltrials.gov/ct2/show/NCT02030275 301 
 27568003 2017 NoLink
 27899638 2017 NoLink

@@ -71,7 +71,7 @@ NA 2015 NoLink
 26261212 2015 NoLink
 26275778 2015 
 26227968 2015 null http://tucf-genomics.tufts.edu 200 software http://genie.weizmann.ac.il/software/nucleo_prediction.html 302 
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 26319014 2015 null www.pymol.org -1 
 26250110 2015 NoLink
 26001966 2015 
@@ -97,4 +97,4 @@ NA 2015 null www.nar.oxfordjournals.org -1
 26250113 2015 null www.yeastgenome.org -1 
 NA 2015 NoLink
 26365243 2015 NoLink
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 

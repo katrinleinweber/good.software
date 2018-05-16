@@ -96,5 +96,5 @@ NA 2013 null http://phagesdb.org/data/ 200
 24564516 2013 NoLink
 24268045 2013 null http://www.myelomahealth.com -1 null http://www.affymetrix.com 301 null http://www.ensembl.org/biomart/martview/ 301 null ftp://ftp.ensembl.org/pub/release-71/gtf/homo_sapiens 301 null ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2accession.gz 301 null ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz 301 null ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/ 301 null http://tophat.cbcb.umd.edu/ 200 null http://cufflinks.cbcb.umd.edu/ 200 
 24268022 2013 null http://www.ncbi.nlm.nih.gov/geo 301 null http://www.ebi.ac.uk/arrayexpress/ 301 tool http://www.ecogene.org 200 
-24266891 2013 null http://faq.web.archive.org/my-sites-not-archived-how-can-i-add-it/ 301 null http://liveweb.archive.org/ 302 null http://dx.doi.org 200 null http://purl.oclc.org 307 null http://purl.org 307 null http://purl.access.gpo.gov 301 null http://web.archive.org/web/*/ 302 
+24266891 2013 null http://faq.web.archive.org/my-sites-not-archived-how-can-i-add-it/ 301 null http://liveweb.archive.org/ 302 null https://doi.org 200 null http://purl.oclc.org 307 null http://purl.org 307 null http://purl.access.gpo.gov 301 null http://web.archive.org/web/*/ 302 
 24266910 2013 NoLink

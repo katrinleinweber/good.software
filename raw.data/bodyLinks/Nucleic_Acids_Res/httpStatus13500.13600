@@ -49,7 +49,7 @@
 25990728 2015 NoLink
 25765652 2015 null mutagenetix.utsouthwestern.edu -1 code http://www.gencodegenes.org/ 200 null www.geneontology.org -1 null http://sciencepark.mdanderson.org/labs/wood/dna_repair_genes.html 301 null mutagenetix.utsouthwestern.edu -1 
 17430966 2007 NoLink
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 25765649 2015 null http://www.r-project.org/ 200 null http://www.epigenomebrowser.org/ 200 null http://bowtie-bio.sourceforge.net/ 200 
 25800747 2015 null http://integrativemodeing.org -1 available http://www.3DGenomes.org/datasets 302 available http://www.3DGenomes.org/datasets 302 library http://www.scipy.org 301 available http://www.3DGenomes.org/datasets 302 
 25800738 2015 null https://abrc.osu.edu/ 302 
@@ -69,7 +69,7 @@ NA 2016 null www.nar.oxfordjournals.org -1
 25999343 2015 
 27060145 2016 NoLink
 26819408 2016 download https://bitbucket.org/rfs/alvis 301 available http://science-practice.com/projects/sequence-bundles 301 null http://www.ebi.ac.uk/goldman-srv/sequencebundles 301 null https://vimeo.com/146710536 301 null https://vimeo.com/146710536 301 
-NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 25779048 2015 software https://support.illumina.com/sequencing/sequencing_software/igenome.ilm 301 software http://trinityrnaseq.sourceforge.net/analysis/diff_expression_analysis.html 404 package http://www.bioconductor.org/packages/release/bioc/html/edgeR.html 200 
 25800748 2015 NoLink
 25800737 2015 null www.ingenuity.com -1 null www.graphpad.com -1 

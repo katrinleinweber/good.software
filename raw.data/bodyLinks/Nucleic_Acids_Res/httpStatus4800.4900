@@ -34,7 +34,7 @@ NA 2009 NoLink
 19553194 2009 
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19561193 2009 null FigureS1 -1 null FigureS1 -1 
 19561196 2009 
 19561199 2009 software http://gwyddion.net/ 200 
@@ -57,7 +57,7 @@ NA 2009 NoLink
 19546110 2009 
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19506027 2009 
 19506029 2009 
 19541851 2009 null SupplementalFigureS1 -1 
@@ -75,7 +75,7 @@ NA 2009 NoLink
 19828597 2009 NoLink
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
 19843608 2009 
 19797393 2009 null www.ncbi.nlm.nih.gov/SNP/ -1 null www.ncbi.nlm.nih.gov/BLAST/ -1 null www.ncbi.nlm.nih.gov/BLAST/ -1 null http://www.ncbi.nlm.nih.gov/SNP/snp_blastByOrg.cgi 301 
 19843609 2009 

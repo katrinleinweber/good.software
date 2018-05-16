@@ -36,7 +36,7 @@ NA 2012 NoLink
 22210858 2012 NoLink
 22123745 2012 null S3 -1 null S2B -1 null FiguresS3 -1 
 NA 2012 NoLink
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 22080545 2012 
 22123740 2012 tool http://EAA.mpi-bn.mpg.de 200 null http://GAA.mpi-bn.mpg.de 200 null http://www.affymetrix.com 301 null http://www.altanalyze.org/ 200 null http://www.pantherdb.org/ 200 null http://GAA.mpi-bn.mpg.de/help.php 302 null http://www.affymetrix.com 301 null http://gaa.mpi-bn.mpg.de/help.php 302 
 22123739 2012 null http://www.yeastgenome.org/ 302 null S5 -1 null S5 -1 null http://fraenkel.mit.edu/improved_map/ 200 null S1B -1 null Methodssection -1 
@@ -56,7 +56,7 @@ NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/opena
 22210887 2012 null http://www.ncbi.nlm.nih.gov/geo 301 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE3678 301 
 22135286 2012 
 22135304 2012 null S7 -1 null S9 -1 null S8 -1 null S9 -1 null S11 -1 
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2013 null www.nar.oxfordjournals.org -1 
 22210894 2012 software http://www.kimlab.org/software/musi 200 software http://www.kimlab.org/software/musi 200 
 22070883 2012 null C -1 null E -1 
@@ -73,7 +73,7 @@ NA 2013 null www.nar.oxfordjournals.org -1
 22075989 2012 null S2 -1 null S1B -1 null S2A -1 null S2B -1 null S2B -1 null S1B -1 null S1B -1 null S2B -1 null S1B -1 null S2A -1 null S2B -1 null S1B -1 null S2A -1 null S2B -1 
 24304894 2014 null http://cansar.icr.ac.uk/cansar/data-sources/ 200 null http://cansar.icr.ac.uk/cansar/documentation/ 200 
 NA 2012 null www.nar.oxfordjournals.org -1 
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 22328729 2012 
 22328731 2012 available http://genomequebec.mcgill.ca/PReMod/ 200 code http://sysimm.ifrec.osaka-u.ac.jp/download/Diego/ 301 
 22234877 2012 null http://www.jphilo.mailway.com/default.htm 200 

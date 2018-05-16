@@ -35,7 +35,7 @@
 22798499 2012 null S7 -1 
 22810208 2012 null B -1 null D -1 
 22790985 2012 NoLink
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 22810206 2012 null C -1 
 22821564 2012 null http://www.who.int/mediacentre/factsheets/fs104/en/index.html 301 null http://www.pymol.sourceforge.net 301 
 22810209 2012 NoLink
@@ -55,7 +55,7 @@ NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/opena
 22833607 2012 
 22821560 2012 null http://rebase.neb.com/cgi-bin/msublist 403 
 NA 2012 NoLink
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2012 NoLink
 22826500 2012 null S7 -1 
 22772991 2012 null B -1 null E -1 

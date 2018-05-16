@@ -19,7 +19,7 @@
 25156522 2014 download http://lifecenter.sgst.cn/schistosoma/en/schdownload.do 503 download http://lifecenter.sgst.cn/schistosoma/en/schdownload.do 503 available http://cufflinks.cbcb.umd.edu/ 200 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi 301 
 25163507 2014 null ftp://ftp.ncbi.nih.gov/genbank/genomes/Eukaryotes/vertebrates_mammals/Sus_scrofa/Sscrofa10.2/ 301 null http://bioinfo.vanderbilt.edu/webgestalt/ 200 software http://www.urogene.org/methprimer/index.html 200 software http://www.urogene.org/methprimer/index.html 200 
 25159222 2014 available https://github.com/DittmarLab/HGTector 301 null http://www.pathogenomics.sfu.ca/islandviewer 302 
-25159315 2014 null http://doi.org/10.5061/dryad.4h56c 303 null http://doi.org/10.5061/dryad.4h56c 303 
+25159315 2014 null https://doi.org/10.5061/dryad.4h56c 303 null https://doi.org/10.5061/dryad.4h56c 303 
 25159520 2014 null http://www.ncbi.nlm.nih.gov/geo/ 301 
 25159659 2014 tool https://github.com/ 301 software http://www.bioinformatics.babraham.ac.uk/projects 301 software http://www.geneious.com 301 null http://blast.ncbi.nlm.nih.gov/ 301 software http://tree.bio.ed.ac.uk/software/figtree/ 200 software https://github.com/gastonstat/arcdiagram 301 null http://www.labarchives.com 200 
 25159814 2014 null ftp://ftp.ncbi.nih.gov/genomes/Bacteria/ 301 null ftp://ftp.ncbi.nih.gov/blast/executables/LATEST/ 301 software http://align.bmr.kyushu-u.ac.jp/mafft/software/ 404 null http://atgc.lirmm.fr/phyml/ 200 software http://www.evolution.reading.ac.uk/BayesTraits.html 200 null http://purl.org/phylo/treebase/phylows/study/TB2:S16248 302 
@@ -95,6 +95,6 @@
 24524199 2014 NoLink
 24524210 2014 null http://cmgm.stanford.edu/~kimlab/aging_kidney/ 200 available http://www.bu.edu/jlab/wp-assets/ComBat/Abstract.html 200 
 24524215 2014 NoLink
-24529032 2014 null http://doi.org/10.5061/dryad.pg2kb 303 
+24529032 2014 null https://doi.org/10.5061/dryad.pg2kb 303 
 24529077 2014 null http://psort.hgc.jp/form2.html 301 null http://www.cbs.dtu.dk/services/SignalP/ 200 null http://www.uniprot.org/ 200 
 24533484 2014 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse40625 301 tool https://www.genscript.com/ssl-bin/app/primer 302 tool http://www.basic.northwestern.edu/biotools/oligocalc.html 302 available http://www.yeastgenome.org/ 302 available http://homes.esat.kuleuven.be/~bioiuser/pge 301 

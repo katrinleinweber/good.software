@@ -67,7 +67,7 @@
 25471201 2014 null http://www.ncbi.nlm.nih.gov/SNP/ 301 software http://bioinformatics.cragenomica.es/numgenomics/people/sebas/software/software.html 302 software http://www.expasy.org/ 302 available http://www.ensembl.org/info/docs/tools/vep/index.html 302 software http://bioinformatics.cragenomica.es/numgenomics/people/sebas/software/software.html 302 null http://cran.rproject.org 302 null http://www.daff.gov.au/animal-plant-health/welfare/standards-guidelines -1 
 25471284 2014 NoLink
 25476734 2014 software http://www.r-project.org 200 package http://cran.r-project.org/web/packages/lmerTest 301 null http://www.ncbi.nlm.nih.gov/geo/ 301 
-25431190 2014 null http://www.hgsc.bcm.tmc.edu 301 available http://dx.doi.org/10.6084/m9.figshare.1053093 303 available http://dx.doi.org/10.6084/m9.figshare.1053092 303 null http://dx.doi.org/10.6084/m9.figshare.1054540 303 
+25431190 2014 null http://www.hgsc.bcm.tmc.edu 301 available https://doi.org/10.6084/m9.figshare.1053093 303 available https://doi.org/10.6084/m9.figshare.1053092 303 null https://doi.org/10.6084/m9.figshare.1054540 303 
 25480362 2014 null http://www.ingenuity.com 302 null http://david.abcc.ncifcrf.gov/ 301 null http://genome.ucsc.edu/ 200 
 25480444 2014 NoLink
 25433532 2014 NoLink

@@ -10,7 +10,7 @@
 20403811 2010 
 NA 2010 NoLink
 NA 2010 NoLink
-NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 20494978 2010 null http://VIMSS.lbl.gov 200 null http://VIMSS.lbl.gov 200 package http://www.bioconductor.org/packages/2.4/bioc/html/aroma.light.html 200 null http://www.candidagenome.org/cgi-bin/GO/goTermFinder 200 
 20410075 2010 software www.ch.embnet.org/software/BOX_form.html -1 
 20410074 2010 null http://www.bmrb.wisc.edu/ 200 
@@ -55,7 +55,7 @@ NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null w
 20702420 2010 
 NA 2010 null www.nar.oxfordjournals.org -1 
 NA 2010 NoLink
-NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 20705649 2010 null FigureS6 -1 
 20705650 2010 available www.ebi.ac.uk/microarray/ -1 null www.yeastgenome.org -1 
 20705651 2010 

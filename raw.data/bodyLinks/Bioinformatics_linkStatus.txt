@@ -1430,7 +1430,7 @@ NA 2009 NoLink
 28025203 2017 available http://www.treebase.org 302 
 28011787 2017 NoLink
 28003262 2017 NoLink
-28088763 2017 null https://www.fluidigm.com/products/c1-system 301 null ftp://ftp.ensembl.org/pub/release-75/fasta/homo_sapiens/dna/ 200 available http://dx.doi.org/10.5281/zenodo.59897 303 available http://dx.doi.org/10.5281/zenodo.60139 303 
+28088763 2017 null https://www.fluidigm.com/products/c1-system 301 null ftp://ftp.ensembl.org/pub/release-75/fasta/homo_sapiens/dna/ 200 available https://doi.org/10.5281/zenodo.59897 303 available https://doi.org/10.5281/zenodo.60139 303 
 28031184 2017 NoLink
 27993779 2017 null https://vmh.uni.lu/ 200 null https://neo4j.com/ 301 
 27651482 2017 available http://pdb2cd.cryst.bbk.ac.uk 200 
@@ -1441,7 +1441,7 @@ NA 2009 NoLink
 27694198 2017 
 27694195 2017 download http://www.broadinstitute.org/gsea/msigdb 301 software http://bioinf.wehi.edu.au/software/MSigDB/index.html 200 null http://genesetdb.auckland.ac.nz/sourcedb.html 200 null www.ncbi.nlm.nih.gov/geo/as -1 
 28035024 2017 NoLink
-28158604 2017 null http://dx.doi.org/10.1101/049288 303 null http://js.cytoscape.org 200 null http://www.celeryproject.org/ 200 null https://pypi.python.org/pypi/bioservices/ 301 
+28158604 2017 null https://doi.org/10.1101/049288 303 null http://js.cytoscape.org 200 null http://www.celeryproject.org/ 200 null https://pypi.python.org/pypi/bioservices/ 301 
 28011773 2017 null https://github.com/Mathelab/ALTRE 301 null https://mathelab.github.io/ALTRE/vignette.html 301 null https://mathelab.github.io/ALTREsampledata/ 301 
 28011789 2017 NoLink
 27998939 2017 download http://datasets.pacb.com/2014/Human54x/fast 404 pipeline https://github.com/ndliberial/smrt_pipeline 301 null http://www.bio-itworld.com/2014/6/30/hunt-new-human-reference-genome.html 416 tool http://search.cpan.org/dist/BioPerl/ 200 null https://genome.ucsc.edu/cgi-bin/hgPcr 200 null http://www.pacb.com/blog/data-release-54x-long-read-coverage-for/ 200 null http://www.ncbi.nlm.nih.gov/Traces/sra/?study= 301 
@@ -1474,12 +1474,12 @@ NA 2009 NoLink
 28108448 2017 null http://arnapipe.bitbucket.org 301 
 28158396 2017 software http://www.creal.ca -1 
 28130241 2017 NoLink
-28158333 2017 null https://dx.doi.org/10.1101/047498 303 
+28158333 2017 null https://doi.org/10.1101/047498 303 
 28130228 2017 null https://github.com/shirtsgroup/InterMol 301 null https://github.com/ParmEd/ParmEd 301 
 28130230 2017 pipeline https://github.com/bfosso/MetaShot 301 
 27591082 2017 available http://apps.biocompute.org.uk/haprap 301 
 28379339 2017 NoLink
-28186221 2017 null http://timetree.org 200 null http://dx.doi.org/10.5061/dryad.9fk1s 303 
+28186221 2017 null http://timetree.org 200 null https://doi.org/10.5061/dryad.9fk1s 303 
 28137713 2017 available https://github.com/HAShihab/HIPred 301 
 28535188 2017 NoLink
 28575251 2017 null https://github.com/dvav/eQTLseq 301 

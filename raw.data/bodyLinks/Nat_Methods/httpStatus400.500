@@ -90,7 +90,7 @@
 28346451 2017 null http://www.satijalab.org/clustertutorial1.html 301 null http://www.bioinformatics.bbsrc.ac.uk/projects/seqmonk 403 
 28369043 2017 NoLink
 28394337 2017 NoLink
-28394336 2017 software www.nesvilab.org/software -1 null http://dx.doi.org/xx.xxxx/protex.yyyy.xxx 404 
+28394336 2017 software www.nesvilab.org/software -1 null https://doi.org/xx.xxxx/protex.yyyy.xxx 404 
 28417999 2017 available http://crest-seq.ucsd.edu/web/ -1 null http://broadinstitute.github.io/picard 301 available https://github.com/r3fang/crest 301 
 28418000 2017 null https://github.com/catavallejos/BASiCS 301 null https://github.com/RGLab/MAST 301 null http://grants.nih.gov/stem_cells/registry/current.htm?id=29 301 null http://grants.nih.gov/stem_cells/registry/current.htm?id=414 301 
 28417997 2017 null http://expansionmicroscopy.org/ 200 

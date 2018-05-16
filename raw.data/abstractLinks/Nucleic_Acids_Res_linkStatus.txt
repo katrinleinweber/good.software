@@ -3586,7 +3586,7 @@ NA 2015 abstractNotFound
 25634892 2015 abstractNotFound
 NA 2015 abstractNotFound
 25618852 2015 NoLink
-25578962 2015 software http://dx.doi.org/10.6084/m9.figshare.1061917 303 null https://bitbucket.org/regulatorygenomicsupf/iso-ktsp. 301 
+25578962 2015 software https://doi.org/10.6084/m9.figshare.1061917 303 null https://bitbucket.org/regulatorygenomicsupf/iso-ktsp. 301 
 25662212 2015 abstractNotFound
 25510498 2015 available http://sourceforge.net/projects/tlex 301 
 25414344 2015 NoLink

@@ -5,7 +5,7 @@
 19875417 2010 available http://www.ebi.ac.uk/microarray-as/ae/ 301 
 NA 2010 null www.nar.oxfordjournals.org -1 
 NA 2010 NoLink
-NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19906696 2010 
 20007148 2010 null http://www.viralorfeome.com 500 null http://www.apache.org/ 200 null http://www.php.net 200 null http://www.postgresql.org/ 301 null ftp://ftp.ncbi.nih.gov/pub/taxonomy/ 301 null http://www.ncbi.nlm.nih.gov/sites/entrez?db=nucleotide 301 null http://www.viralorfeome.com 500 
 19820112 2010 null http://www.dynamicproteomics.net -1 null http://www.weizmann.ac.il/mcb/UriAlon/DynamProt/ 200 null ftp://alon-serv.weizmann.ac.il/pub/dynamprot/ -1 
@@ -31,7 +31,7 @@ NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null w
 NA 2010 NoLink
 NA 2010 null www.nar.oxfordjournals.org -1 
 NA 2010 NoLink
-NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19892823 2010 available http://bioinfo.hrbmu.edu.cn/hhmd 302 null http://www.hhmd.org 200 null http://genome.ucsc.edu/cgi-bin/hgTables 200 code http://hgdownload.cse.ucsc.edu/goldenPath/hg18/wgEncodeBroadChipSeq/ 404 null http://www.bcgsc.ca/data/histone-modification 200 null http://dir.nhlbi.nih.gov/Papers/lmi/epigenomes/hgtcell.aspx 302 
 20525782 2010 null http://smog.ucsd.edu -1 code http://www.gromacs.org 200 
 19910367 2010 null http://www.genomernai.org/ 200 null supplementalmaterial -1 tool http://web-cellhts2.dkfz.de 302 

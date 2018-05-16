@@ -48,7 +48,7 @@ NA 2013 NoLink
 23963696 2013 null http://www.mirbase.org/ 200 software http://www.bioconductor.org 200 null http://www.r-project.org 200 null C -1 
 NA 2013 null www.nar.oxfordjournals.org -1 
 NA 2013 NoLink
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 23945933 2013 NoLink
 23969414 2013 
 23963698 2013 
@@ -82,7 +82,7 @@ NA 2013 null www.nar.oxfordjournals.org -1
 24013564 2013 null S11 -1 
 NA 2013 null www.nar.oxfordjournals.org -1 
 24771338 2014 null https://github.com/rhentofs/summit 301 null https://github.com/rhentofs/sictin 301 software http://www.gnu.org/software/gsl/ 200 
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 23999092 2013 null http://www.cambia.org/daisy/cambia/585 200 null SupplymentaryInformation -1 null http://www.addgene.org/ 200 
 24782521 2014 null www.broadinstitute.org/gatk//events/2038/GATKwh0-BP-1-Map_and_Dedup.pdf -1 software https://support.illumina.com/sequencing/sequencing_software/igenome.ilmn 301 code https://pypi.python.org 301 available http://github.com/CollasLab/edd 301 
 24163252 2014 tool http://www.yeastgenome.org 302 

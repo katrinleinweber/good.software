@@ -54,7 +54,7 @@
 27473048 2016 null http://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=database 301 
 27474039 2016 null www.mirbase.org -1 null http://www.targetscan.org/ 200 
 27472913 2016 code http://hgdownload.cse.ucsc.edu/goldenPath/hg18/encodeDCC/wgEncodeUwDGF/ 200 null www.ncbi.nlm.nih.gov/geo/ -1 null dir.nhlbi.nih.gov/papers/lmi/epigenomes/hgtcellnucleosomes.aspx -1 tool http://www.ncbi.nlm.nih.gov/variation/tools/1000genomes/ 301 null ftp://ftp.ncbi.nlm.nih.gov/snp/organisms/human_9606_b142_GRCh37p13/ASN1_flat/ 301 null http://www.hapmap.org 301 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1447330 301 code http://hgdownload.cse.ucsc.edu/goldenPath/hg18/encodeDCC/wgEncodeCalthechRnaSeq/ 404 
-27473854 2016 null http://dx.doi.org/10.1186/s12864-016-2465-0 303 
+27473854 2016 null https://doi.org/10.1186/s12864-016-2465-0 303 
 27454254 2016 null http://globocan.iarc.fr 200 null http://www.hepatitiscentral.com/hepatitis-c/hepatitis-c-genotypes/ 301 null https://www.ucl.ac.uk/news/news-articles/0713/15072013-How-obesity-gene-triggers-weight-gain-Batterham 200 null http://www.clcbio.com/products/clc-drug-discovery-workbench/ 302 null http://www.ncbi.nlm.nih.gov/gene/3350 301 null http://www.clcbio.com/products/clc-drug-discovery-workbench/ 302 null http://genomics.senescence.info/genes/ 200 null http://globocan.iarc.fr/factsheet.asp 404 null http://www.rcsb.org/pdb/ 302 null http://autism.mindspec.org/autdb/Welcome 404 null http://www.hepatitiscentral.com/hepatitis-c/hepatitis-c-genotypes/ 301 null www.ingenuity.com -1 null http://www.ensembl.org/index.html 302 null http://www.e-talen.org/E-TALENdesigntalens.html 302 null http://www.e-talen.org/E-TALEN/reannotate_talens.html 200 null http://bao.rice.edu/Research/BioinformaticTools/assembleTALSequences.html 403 null http://biologylabs.utah.edu/jorgensen/wayned/ape/ 200 
 27515514 2016 null ftp://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/Bacteria/all.faa.tar.gz 301 null ftp://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/Bacteria/all.frn.tar.gz 301 null http://sbb.hku.hk/COMAN 404 
 27514986 2016 NoLink
@@ -64,7 +64,7 @@
 27516204 2016 null http://www.ncbi.nlm.nih.gov/clinvar/RCV000062447/ 301 
 27488180 2016 package http://bioconductor.org/packages/devel/bioc/html/ABSSeq.html 200 download http://bowtie-bio.sourceforge.net/recount/ 200 
 27488048 2016 null http://www.phytozome.net/cassava.php 302 null http://www.dna.affrc.go.jp/PLACE/ 302 null http://www.phytozome.net/cassava.php 302 
-27491780 2016 null http://www.ncbi.nlm.nih.gov/sra/ 301 null http://dx.doi.org/10.5061/dryad.t748p 303 null https://www.addgene.org/Alex_Kentsis/ 200 null http://www.ncbi.nlm.nih.gov/sra/ 301 null http://dx.doi.org/10.5061/dryad.t748p 303 
+27491780 2016 null http://www.ncbi.nlm.nih.gov/sra/ 301 null https://doi.org/10.5061/dryad.t748p 303 null https://www.addgene.org/Alex_Kentsis/ 200 null http://www.ncbi.nlm.nih.gov/sra/ 301 null https://doi.org/10.5061/dryad.t748p 303 
 27487841 2016 NoLink
 27491876 2016 tool http://www.crisprscan.org/ 405 
 27601031 2016 null http://www.atgc-montpellier.fr/phyml/ 200 null http://bacteria.kazusa.or.jp/rhizo/ 302 null http://student4.postech.ac.kr/evpedia2_xe/xe/ 200 null http://biocyc.org/overviewsWeb/celOv.shtml 302 

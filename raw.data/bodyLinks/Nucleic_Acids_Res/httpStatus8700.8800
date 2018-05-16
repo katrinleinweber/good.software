@@ -37,7 +37,7 @@
 24753404 2014 
 NA 2012 null www.nar.oxfordjournals.org -1 
 NA 2012 NoLink
-NA 2012 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 21954438 2012 download http://genie.weizmann.ac.il/pubs/PARS10 302 
 21954440 2012 
 22039099 2012 null www.r-project.org -1 null www.bioconductor.org -1 null B -1 null D -1 null S5C -1 null 11 -1 null S9 -1 
@@ -84,7 +84,7 @@ NA 2012 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null w
 21984413 2012 
 22009676 2012 null S8 -1 null S8 -1 
 21984415 2012 available www.analyticalultracentrifugation.com/default.htm -1 null B -1 null S9 -1 
-NA 2012 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2012 NoLink
 NA 2012 null www.nar.oxfordjournals.org -1 
 22064854 2012 null http://genome.ucsc.edu 200 

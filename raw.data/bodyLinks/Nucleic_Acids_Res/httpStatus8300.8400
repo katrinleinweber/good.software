@@ -30,7 +30,7 @@ NA 2011 NoLink
 21690099 2011 null http://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi 200 tool http://www.ncbi.nlm.nih.gov/tools/primer-blast/ 301 null http://david.abcc.ncifcrf.gov/ 301 tool http://prodoric.tu-bs.de/vfp/ 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 
 21685450 2011 null ftp://ftp.ncbi.nih.gov/blast/db/ 301 
 21685455 2011 
-NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 21727090 2011 available http://mutationassessor.org 302 null http://www.uniprot.org/docs/humsavar -1 
 21666257 2011 null SupplementatyData -1 
 21685449 2011 
@@ -44,7 +44,7 @@ NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null w
 21596787 2011 
 21596780 2011 null http://nihserver.mbi.ucla.edu/twinning/ 404 
 21602265 2011 NoLink
-NA 2012 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2012 NoLink
 21602261 2011 
 21602268 2011 NoLink
@@ -87,7 +87,7 @@ NA 2012 NoLink
 21715377 2011 null S3 -1 
 21624887 2011 null FigureS1 -1 null FigureS2 -1 null FigureS3 -1 null FigureS2 -1 null FigureS1 -1 available www.tcoffee.org/blastr.html -1 
 NA 2012 NoLink
-NA 2012 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2012 null www.nar.oxfordjournals.org -1 
 21724599 2011 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://genome.ucsc.edu/ 200 code http://decode.kaist.ac.kr/ -1 code http://decode.kaist.ac.kr/ -1 null S3 -1 code http://decode.kaist.ac.kr/ -1 code http://decode.kaist.ac.kr/ -1 download www.ensembl.org -1 null http://genome.ucsc.edu/ 200 null http://enhancer.lbl.gov 301 null S3 -1 null www.geneimprint.com -1 null http://great.stanford.edu/ 302 null http://enhancer.lbl.gov 301 null http://genome.ucsc.edu/ 200 null S3 -1 code http://decode.kaist.ac.kr/ -1 available http://www.r-project.org/ 200 null http://great.stanford.edu/ 302 null http://genome.ucsc.edu/ 200 code http://decode.kaist.ac.kr/ -1 
 21724605 2011 NoLink

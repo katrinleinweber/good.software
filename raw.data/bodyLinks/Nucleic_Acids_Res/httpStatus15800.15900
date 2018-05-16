@@ -77,7 +77,7 @@ NA 2017 NoLink
 28160604 2017 NoLink
 28180298 2017 null www.oncomine.org -1 null http://string-db.org/ 301 null http://string-db.org/ 301 
 28073943 2017 library https://lifescience.roche.com/en_us/brands/universal-probe-library.html 302 
-27994033 2017 null http://www.ncbi.nlm.nih.gov/genome/ 301 null http://dx.doi.org/10.1101/056291 303 null http://www.ncbi.nlm.nih.gov/genome/ 301 
+27994033 2017 null http://www.ncbi.nlm.nih.gov/genome/ 301 null https://doi.org/10.1101/056291 303 null http://www.ncbi.nlm.nih.gov/genome/ 301 
 27899590 2017 NoLink
 28053117 2017 null https://gbcloning.upv.es/ 302 null http://djangoproject.com 301 null https://github.com/pziarsolo/goldenbraid 301 null https://gbcloning.upv.es/add/experiment/ 302 null https://gbcloning.upv.es/search/experiment/ 302 null https://gbcloning.upv.es/ 302 null https://gbcloning.upv.es/add/experiment/ 302 null https://gbcloning.upv.es/search/experiment/ 302 null https://gbcloning.upv.es/feature/GB0030/ 302 null https://gbcloning.upv.es/feature/GB0157/ 302 null https://gbcloning.upv.es/search/experiment/ 302 
 27789685 2017 null www.uniprot.org -1 null http://mfold.rna.albany.edu/?q=mfold 301 
@@ -90,7 +90,7 @@ NA 2017 NoLink
 28426094 2017 NoLink
 27940552 2017 NoLink
 28053120 2017 NoLink
-28199687 2017 tool http://hannonlab.cshl.edu/fastx_toolkit/index.html 200 null http://gtrnadb.ucsc.edu/ 200 null http://dx.doi.org/10.1101/022814 303 tool http://babelomics.bioinfo.cipf.es/ 200 
+28199687 2017 tool http://hannonlab.cshl.edu/fastx_toolkit/index.html 200 null http://gtrnadb.ucsc.edu/ 200 null https://doi.org/10.1101/022814 303 tool http://babelomics.bioinfo.cipf.es/ 200 
 27940555 2017 NoLink
 27899585 2017 null https://sequencing.qcfail.com/articles/pbat-libraries-may-generate-chimaeric-read-pairs 301 pipeline http://www.clusterflow.io 200 null http://broadinstitute.github.io/picard/ 200 null https://www.gitbook.com/book/ycl6/methylation-sequencing-analysis 301 
 28204608 2017 NoLink

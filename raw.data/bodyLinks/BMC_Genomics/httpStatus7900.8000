@@ -51,7 +51,7 @@
 26138936 2015 null http://www.ebi.ac.uk/Tools/pfa/iprscan/ 301 null http://www.ncbi.nlm.nih.gov/sra/?term=SRP056408 301 
 26138916 2015 null http://www.genome.jp/kegg/pathway.html 200 null www.arabidopsis.org -1 null http://Brassicadb.org 302 null http://brassicadb.org/brad/ 200 null http://brassicadb.org/brad/ 200 null http://brassicadb.org/brad/ 200 
 26140923 2015 software http://frodo.wi.mit.edu 301 
-26138817 2015 here http://www.qtlarchive.org/ 302 available http://dx.doi.org/10.6084/m9.figshare.726136 303 
+26138817 2015 here http://www.qtlarchive.org/ 302 available https://doi.org/10.6084/m9.figshare.726136 303 
 26141154 2015 null http://www.ncbi.nlm.nih.gov/ 301 
 26141111 2015 null http://www.ncbi.nlm.nih.gov/bioproject/199690 301 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE43255 301 null http://www.ncbi.nlm.nih.gov/nuccore 301 
 26141061 2015 NoLink

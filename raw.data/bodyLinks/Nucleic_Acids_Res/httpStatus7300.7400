@@ -5,7 +5,7 @@ NA 2011 NoLink
 NA 2011 NoLink
 NA 2011 null www.nar.oxfordjournals.org -1 
 NA 2011 NoLink
-NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 21917856 2011 
 21890896 2011 null S2 -1 null S7 -1 software http://www.scfbio-iitd.res.in/chemgenome/Tm_predictor.jsp -1 
 21965531 2011 code http://glennlab.stanford.edu 200 
@@ -75,7 +75,7 @@ NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null w
 20935043 2011 
 NA 2011 null www.nar.oxfordjournals.org -1 
 NA 2011 NoLink
-NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 null www.blender.org -1 
+NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 null www.blender.org -1 
 20935047 2011 
 20935054 2011 null http://www.yeastgenome.org/ 302 null ftp://ftp.sanger.ac.uk/pub/dmc/yeast/ -1 
 20935056 2011 

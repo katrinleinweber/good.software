@@ -23,7 +23,7 @@
 22241768 2012 NoLink
 NA 2012 NoLink
 NA 2012 null www.nar.oxfordjournals.org -1 
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 22167471 2012 NoLink
 22167470 2012 null http://ribosome.miyazaki-med.ac.jp -1 
 22167473 2012 available http://www.analyticalultracentrifugation.com 200 null www.ebi.ac.uk/pfam -1 null www.ebi.ac.uk/interpro -1 
@@ -52,7 +52,7 @@ NA 2012 NoLink
 22262732 2012 available http://qmsat.sourceforge.net/ 200 null http://gvs.gs.washington.edu/SeattleSeqAnnotation/ 404 
 25294834 2014 available http://mips.helmholtz-muenchen.de/cogere 200 null http://www.genomatix.de 200 available http://genome.ucsc.edu/ 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://discover.nci.nih.gov/cellminer/ 302 
 NA 2012 NoLink
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 22139921 2012 null www.ncbi.nlm.nih.gov/sites/entrez?db=taxonomy -1 code http://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi 301 null http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/hpc 302 software http://www.bioinf.uni-leipzig.de/software.html 200 null http://www.mysql.com/ 301 
 22139924 2012 null http://www.ncbi.nlm.nih.gov/genbank/ 301 null http://www-genome.wi.mit.edu/cgi-bin/primer/primer3_www.cgi 404 
 22140102 2012 null S4 -1 null www.geneDb.org -1 

@@ -2599,7 +2599,7 @@ NA 2009 NoLink
 19900298 2009 null http://data.gbif.org 302 null http://data.gbif.org 302 
 19900304 2009 available http://tlife.fudan.edu.cn/cvtree 301 
 19900300 2009 publicly http://www.ibarcode.org/gg 302 code http://www.dnabarcodeit.com -1 
-19900301 2009 null http://dx.doi.org/ 200 null http://www.crossref.org/openurl 400 code http://code.google.com/p/bioguid/ 405 null http://bioguid.info/ 200 null http://bioguid.info 200 code http://code.google.com/p/bioguid/ 405 null DQ402119 -1 null DQ402119 -1 null DQ402119 -1 null http://bioguid.info/openurl/ 404 null http://bioguid.info/openurl/ 404 null http://bioguid.info/ -1 null http://bioguid.info/jacc:1175-5326:1671@3 -1 null http://bioguid.info/doi:10.1093/bib/bbn022 -1 null http://dbpedia.org/resource/Glasgow 303 null http://dbpedia.org/resource/Glasgow 303 null http://dbpedia.org/resource/Glasgow 303 null http://bioguid.info/openurl/ -1 null http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=371153 200 null http://bioguid.info/ -1 null http://bioguid.info/ -1 null http://bioguid.info/services/journalsuggest?title= -1 null http://bioguid.info/services/equivalent.php -1 null http://bioguid.info/services/equivalent.php -1 null http://bioguid.info/status/ -1 null http://lsid.indexfungorum.org/ -1 null http://dx.doi.org/ 200 
+19900301 2009 null https://doi.org/ 200 null http://www.crossref.org/openurl 400 code http://code.google.com/p/bioguid/ 405 null http://bioguid.info/ 200 null http://bioguid.info 200 code http://code.google.com/p/bioguid/ 405 null DQ402119 -1 null DQ402119 -1 null DQ402119 -1 null http://bioguid.info/openurl/ 404 null http://bioguid.info/openurl/ 404 null http://bioguid.info/ -1 null http://bioguid.info/jacc:1175-5326:1671@3 -1 null http://bioguid.info/doi:10.1093/bib/bbn022 -1 null http://dbpedia.org/resource/Glasgow 303 null http://dbpedia.org/resource/Glasgow 303 null http://dbpedia.org/resource/Glasgow 303 null http://bioguid.info/openurl/ -1 null http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=371153 200 null http://bioguid.info/ -1 null http://bioguid.info/ -1 null http://bioguid.info/services/journalsuggest?title= -1 null http://bioguid.info/services/equivalent.php -1 null http://bioguid.info/services/equivalent.php -1 null http://bioguid.info/status/ -1 null http://lsid.indexfungorum.org/ -1 null https://doi.org/ 200 
 19900305 2009 NoLink
 19900303 2009 null EF539303 -1 null DQ108243 -1 null DQ108244 -1 null DQ108245 -1 null DQ108246 -1 null DQ108251 -1 null EF539302 -1 code DQ108252 -1 null EF539303 -1 null DQ108243 -1 null DQ108244 -1 null DQ108245 -1 null DQ108246 -1 null DQ108251 -1 null EF539302 -1 code DQ108252 -1 
 19900299 2009 null http://www.museum.tulane.edu/geolocate/ 200 null http://biogeomancer.org/ 302 null http://manisnet.org/Checklist.html 200 null http://olla.berkeley.edu/ornisnet/?q=node/5 -1 null http://herpnet.org/Gazetteer/GeorefChecklist.html 200 null http://www.museum.tulane.edu/coge/ 200 null http://biodiversity.colorado.edu/bgb/ -1 software http://wiki.tdwg.org/twiki/bin/view/TAPIR/TapirTester/ 404 null http://wiki.tdwg.org/twiki/bin/view/DarwinCore/GeospatialExtension 301 null http://biodiversity.colorado.edu/bgb/ -1 null http://www.biocase.org 200 null http://digir.sourceforge.net 200 null http://www.tdwg.org/activities/tapir/ 200 code http://wiki.tdwg.org/twiki/bin/view/TAPR/TapirTester/ 404 
@@ -3273,7 +3273,7 @@ NA 2010 NoLink
 20565847 2010 download 1S7B -1 null 2F2M -1 null 1JSQ -1 null 1PF4 -1 null 1Z2R -1 null 1L7V -1 null 2HYD -1 null 1s7bB -1 null 2f2mA -1 null 1jsqA -1 null 1pf4A -1 null 1z2rA -1 null 1l7vA -1 null 2hydA -1 
 20565873 2010 code 1UBD -1 code 2JP9 -1 code 2I13 -1 code 1ZAA -1 null 1alf -1 null 1mey -1 null 1jk1 -1 software http://www.bioinf.org.uk/software/profit/ 200 
 20565884 2010 
-20515448 2010 null http://brueghel.cnb.csic.es/envmine.html -1 null http://www.bckelk.ukfsn.org/words/wlist.zip 200 null http://dx.doi.org/ 200 null http://dx.doi.org/10.1016/j.femsle.2004.11.021 303 available http://brueghel.cnb.csic.es/envmine_corpuses/envmine_corpus_units.txt -1 available http://brueghel.cnb.csic.es/envmine_corpuses/envmine_corpus_locations.txt -1 
+20515448 2010 null http://brueghel.cnb.csic.es/envmine.html -1 null http://www.bckelk.ukfsn.org/words/wlist.zip 200 null https://doi.org/ 200 null https://doi.org/10.1016/j.femsle.2004.11.021 303 available http://brueghel.cnb.csic.es/envmine_corpuses/envmine_corpus_units.txt -1 available http://brueghel.cnb.csic.es/envmine_corpuses/envmine_corpus_locations.txt -1 
 20515463 2010 here http://www.genomatix.de/products/BiblioSphere/ 403 
 20565932 2010 tool http://www.psb.ugent.be/cbd/papers/BiNGO/ 301 null http://cbl-gorilla.cs.technion.ac.il/ 200 null http://cbl-gorilla.cs.technion.ac.il/ 200 algorithm http://www.matrixscience.com 200 null http://www.geneontology.org/GO.current.annotations.shtml 301 
 20565962 2010 NoLink
@@ -5897,7 +5897,7 @@ NA 2013 null http://phagesdb.org/data/ 200
 24564516 2013 NoLink
 24268045 2013 null http://www.myelomahealth.com -1 null http://www.affymetrix.com 301 null http://www.ensembl.org/biomart/martview/ 301 null ftp://ftp.ensembl.org/pub/release-71/gtf/homo_sapiens 301 null ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2accession.gz 301 null ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz 301 null ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/ 301 null http://tophat.cbcb.umd.edu/ 200 null http://cufflinks.cbcb.umd.edu/ 200 
 24268022 2013 null http://www.ncbi.nlm.nih.gov/geo 301 null http://www.ebi.ac.uk/arrayexpress/ 301 tool http://www.ecogene.org 200 
-24266891 2013 null http://faq.web.archive.org/my-sites-not-archived-how-can-i-add-it/ 301 null http://liveweb.archive.org/ 302 null http://dx.doi.org 200 null http://purl.oclc.org 307 null http://purl.org 307 null http://purl.access.gpo.gov 301 null http://web.archive.org/web/*/ 302 
+24266891 2013 null http://faq.web.archive.org/my-sites-not-archived-how-can-i-add-it/ 301 null http://liveweb.archive.org/ 302 null https://doi.org 200 null http://purl.oclc.org 307 null http://purl.org 307 null http://purl.access.gpo.gov 301 null http://web.archive.org/web/*/ 302 
 24266910 2013 NoLink
 16524471 2006 NoLink
 24341432 2013 NoLink
@@ -6169,7 +6169,7 @@ NA 2014 null http://f1000.com/posters/browse/summary/1094165 301
 24950923 2014 tool http://www.baseclear.com/bioinformatics-tools/ 301 tool http://www.baseclear.com/bioinformatics-tools/ 301 software http://www.cbcb.umd.edu/software/PBcR/closure/index.html 200 
 24944073 2014 NoLink
 24964802 2014 null http://snpsyn.biolab.si 200 
-24958009 2014 null http://edal.ipk-gatersleben.de 200 null http://edal.ipk-gatersleben.de/ 200 available http://edal.ipk-gatersleben.de/download/maven.html 200 null http://dx.doi.org/10.5447/DPPN/2014/0 303 null http://http://www.ebi.ac.uk/about/terms-of-use -1 
+24958009 2014 null http://edal.ipk-gatersleben.de 200 null http://edal.ipk-gatersleben.de/ 200 available http://edal.ipk-gatersleben.de/download/maven.html 200 null https://doi.org/10.5447/DPPN/2014/0 303 null http://http://www.ebi.ac.uk/about/terms-of-use -1 
 24447369 2014 code https://code.google.com/p/methylationpredictor/ 405 
 24970564 2014 NoLink
 24674136 2014 available http://rna.tbi.univie.ac.at/TSSAR/ 200 available http://rna.tbi.univie.ac.at/TSSAR 200 available http://rna.tbi.univie.ac.at/TSSAR/ 200 
@@ -6690,7 +6690,7 @@ NA 2015 NoLink
 25885484 2015 null http://gmlab.bio.rpi.edu 200 
 26153434 2015 NoLink
 25885646 2015 NoLink
-25887972 2015 package www.github.com/juliema/aTRAM -1 download http://www.github.com/juliema/aTRAM 301 null http://dx.doi.org/10.5061.dryad.kh886 404 null http://dx.doi.org/10.5061.dryad.kh886 404 
+25887972 2015 package www.github.com/juliema/aTRAM -1 download http://www.github.com/juliema/aTRAM 301 null https://doi.org/10.5061.dryad.kh886 404 null https://doi.org/10.5061.dryad.kh886 404 
 27842491 2016 NoLink
 25885037 2015 null www.biomart.org -1 null https://www.cosmoss.org/annotation/genonaut 200 available http://bar.utoronto.ca/interactions/cgi-bin/arabidopsis_interactions_viewer.cgi 200 
 25591988 2015 null http://www.ebi.ac.uk/ontology-lookup/ 301 null http://www.informatics.jax.org/ 200 
@@ -7009,7 +7009,7 @@ NA 2010 NoLink
 26160651 2015 software https://github.com/trgibbons/BlastGraphMetrics 301 null https://github.com/trgibbons/porthos 301 null http://korflab.ucdavis.edu/datasets/cegma/ 200 null https://github.com/trgibbons/BlastGraphMetrics.git 301 null http://korflab.ucdavis.edu/datasets/cegma/ 200 download ftp://ftp.ncbi.nih.gov/pub/COG/KOG 301 null https://github.com/trgibbons/porthos.git 301 
 26283514 2015 package http://www.bioconductor.org/packages/release/bioc/html/diffHic.html 200 package http://www.bioconductor.org/packages/release/bioc/html/diffHic.html 200 tool http://broadinstitute.github.io/picard 301 
 27716029 2016 NoLink
-26303588 2015 tool https://github.com/aavilahe/coevo_tools 301 package https://github.com/aavilahe/coevo_analysis_Rpackage 301 package https://github.com/aavilahe/coevo_analysis_pypackage 301 null https://github.com/aavilahe/infcalc 301 null 10.5061/dryad.s00vr/7 -1 package https://github.com/aavilahe/coevo_analysis_pypackage 301 null https://github.com/aavilahe/infcalc 301 download http://dca.rice.edu/portal/dca/download 200 null http://doi.org/10.1371/journal.pcbi.1003176.s002 303 null http://plmdca.csc.kth.se/ 200 download http://bioinfadmin.cs.ucl.ac.uk/downloads/PSICOV/ 200 null http://home.gna.org/comap/doc/html/index.html -1 
+26303588 2015 tool https://github.com/aavilahe/coevo_tools 301 package https://github.com/aavilahe/coevo_analysis_Rpackage 301 package https://github.com/aavilahe/coevo_analysis_pypackage 301 null https://github.com/aavilahe/infcalc 301 null 10.5061/dryad.s00vr/7 -1 package https://github.com/aavilahe/coevo_analysis_pypackage 301 null https://github.com/aavilahe/infcalc 301 download http://dca.rice.edu/portal/dca/download 200 null https://doi.org/10.1371/journal.pcbi.1003176.s002 303 null http://plmdca.csc.kth.se/ 200 download http://bioinfadmin.cs.ucl.ac.uk/downloads/PSICOV/ 200 null http://home.gna.org/comap/doc/html/index.html -1 
 26298294 2015 null http://projects.bigcat.unimaas.nl/pathvisiorpc 302 
 19480720 2009 NoLink
 26227315 2015 NoLink
@@ -7177,7 +7177,7 @@ NA 2015 NoLink
 26537885 2015 NoLink
 26538400 2015 NoLink
 26542386 2015 NoLink
-26553107 2015 null www.github.com/Looselab/AlignWise -1 null http://dx.doi.org/10.6084/m9.figshare.1245021 303 download http://www.ncbi.nlm.nih.gov/nuccore/ 301 
+26553107 2015 null www.github.com/Looselab/AlignWise -1 null https://doi.org/10.6084/m9.figshare.1245021 303 download http://www.ncbi.nlm.nih.gov/nuccore/ 301 
 25887686 2015 NoLink
 26553003 2015 NoLink
 26698293 2015 null http://smd.princeton.edu/ 200 software https://www.moleculardevices.com 301 null http://www.arabidopsis.org 200 
@@ -7356,7 +7356,7 @@ NA 2015 NoLink
 26846597 2016 NoLink
 26911705 2016 code http://bjpop.github.io/methpat/ 200 code http://bjpop.github.io/methpat/ 200 code http://bjpop.github.io/methpat/ 200 
 26911289 2016 null http://genomics.wpi.edu/gemini 301 null https://bitbucket.org/flahertylab/gemini 301 null http://creativecommons.org/licenses/by/4.0/ 301 
-26911566 2016 null http://dx.doi.org/10.5281/zenodo.32989 303 null https://github.com/jeongchans/smrf 301 null http://dx.doi.org/10.5281/zenodo.45543 303 
+26911566 2016 null https://doi.org/10.5281/zenodo.32989 303 null https://github.com/jeongchans/smrf 301 null https://doi.org/10.5281/zenodo.45543 303 
 26908256 2016 NoLink
 26911862 2016 code http://transdecoder.github.io 200 pipeline http://trinotate.github.io 200 
 26911432 2016 available http://bioinfo.eie.polyu.edu.hk/SpaPredictorServer/ 200 null http://www.proteinatlas.org/ 200 null http://www.geneontology.org 200 null http://prosite.expasy.org/ 200 null http://www.ebi.ac.uk/GOA 301 null http://www.uniprot.org/ 200 download http://www2.imm.dtu.dk/projects/spasm/ 200 
@@ -7496,7 +7496,7 @@ NA 2016 NoLink
 27230078 2016 NoLink
 27247129 2016 NoLink
 27245157 2016 NoLink
-27233515 2016 available http://dx.doi.org/10.5281/zenodo.49754 303 
+27233515 2016 available https://doi.org/10.5281/zenodo.49754 303 
 27245069 2016 NoLink
 27266516 2016 code http://code.google.com/p/randomforest-matlab/ 405 software http://www.cgl.ucsf.edu/Overview/software.html#dms 200 null http://lilab.ecust.edu.cn/NABind 302 
 27255077 2016 application http://fgcz-sushi-demo.uzh.ch 200 application http://fgcz-sushi-demo.uzh.ch/sushi_application 200 null https://github.com/uzh/sushi 301 application http://fgcz-sushi-demo.uzh.ch 200 null https://github.com/uzh/sushi 301 

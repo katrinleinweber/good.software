@@ -7,7 +7,7 @@
 27764097 2016 NoLink
 23592971 2013 null http://www.modelingimmunity.org/ 200 null www.modelingimmunity.org -1 null www.modelingimmunity.org -1 
 23592966 2013 software http://www.ebi.ac.uk/Tools/msa/clustalw2/ 301 
-23675291 2013 null http://dx.doi.org/10.5061/dryad.55t60 303 
+23675291 2013 null https://doi.org/10.5061/dryad.55t60 303 
 23592972 2013 NoLink
 23696720 2013 NoLink
 18020700 2007 NoLink
@@ -80,7 +80,7 @@ NA 2013 null scopestatement -1
 24385893 2013 here http://umrs872eq22.com/TPMT_PLOS/Phewas_codes_ICD10_ICD9.zip -1 
 24385894 2013 null www.bioinformatyk.eu -1 
 24339755 2013 NoLink
-24339756 2013 null http://dx.doi.org/10.5061/dryad.246qg 303 
+24339756 2013 null https://doi.org/10.5061/dryad.246qg 303 
 24339757 2013 NoLink
 24339770 2013 NoLink
 24339759 2013 NoLink
@@ -95,6 +95,6 @@ NA 2013 null scopestatement -1
 24339766 2013 NoLink
 24339767 2013 download http://www.drugbank.ca/downloads 301 available http://seeslab.info/downloads/drugraph/ 200 null http://github.com/seeslab/drugraph 301 
 24339768 2013 null www.3dmd.com/3dMDface -1 
-24339769 2013 available http://dx.doi.org/10.6084/m9.figshare.814470 303 
+24339769 2013 available https://doi.org/10.6084/m9.figshare.814470 303 
 24339758 2013 package www.sympy.org -1 package www.scipy.org -1 package www.numpy.org -1 
 23436991 2013 NoLink

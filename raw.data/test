@@ -1194,7 +1194,7 @@ abstract,BMC_Bioinformatics,15236648,2004,http://galaxie.cgb.ki.se/galaxieEST.ht
 abstract,Nucleic_Acids_Res,20501605,2010,http://wiki.myexperiment.org,301,0
 abstract,Bioinformatics,18710874,2008,http://domaingraph.bioinf.mpi-inf.mpg.de,200,0
 abstract,Nucleic_Acids_Res,18032438,2008,www.pharmgkb.org,-1,0
-abstract,PLoS_Comput_Biol,28394888,2017,http://doi.org/10.5281/zenodo.167136,303,0
+abstract,PLoS_Comput_Biol,28394888,2017,https://doi.org/10.5281/zenodo.167136,303,0
 abstract,Bioinformatics,26568635,2016,http://www.cmbi.ru.nl/kmad/,200,0
 abstract,Bioinformatics,23732274,2013,http://cbb.big.ac.cn/software,301,0
 abstract,Nucleic_Acids_Res,23104377,2013,http://www.clustermine360.ca/,200,0
@@ -2693,7 +2693,7 @@ abstract,Bioinformatics,26508761,2016,https://openbis-eln-lims.ethz.ch,200,0
 abstract,Bioinformatics,23044552,2012,http://dotknot.csse.uwa.edu.au/pw,301,0
 abstract,BMC_Bioinformatics,22672646,2012,http://biomine.cs.helsinki.fi,-1,0
 abstract,Nucleic_Acids_Res,17932059,2008,http://podb.nibb.ac.jp/Organellome,301,0
-abstract,PLoS_Comput_Biol,19381256,2009,http://dx.doi.org/10.1371/journal.pntd.0000228.x001,303,0
+abstract,PLoS_Comput_Biol,19381256,2009,https://doi.org/10.1371/journal.pntd.0000228.x001,303,0
 abstract,Nucleic_Acids_Res,17175540,2007,https://tandem.bu.edu/cgi-bin/trdb/trdb.exe,200,0
 abstract,Bioinformatics,22474122,2012,http://contra-cnv.sourceforge.net/,200,0
 abstract,Nucleic_Acids_Res,23700307,2013,http://bioinf.uni-greifswald.de/webaugustus,302,0
@@ -7637,7 +7637,7 @@ abstract,Nucleic_Acids_Res,15980438,2005,http://www.w3.org/TR/soap/,200,0
 abstract,Nucleic_Acids_Res,27742820,2017,http://probes.pw.usda.gov/piece,-1,0
 abstract,BMC_Bioinformatics,19426495,2009,ftp://www.ieeta.pt/~ap/maws,302,0
 abstract,Nucleic_Acids_Res,22139934,2012,http://epsf.bmad.bii.a-star.edu.sg/cube/db/html/home.html,200,0
-abstract,Nucleic_Acids_Res,25578962,2015,http://dx.doi.org/10.6084/m9.figshare.1061917,303,0
+abstract,Nucleic_Acids_Res,25578962,2015,https://doi.org/10.6084/m9.figshare.1061917,303,0
 abstract,BMC_Bioinformatics,19646231,2009,http://purl.oclc.org/NET/sscMap,302,0
 abstract,Nucleic_Acids_Res,17517781,2007,https://prosa.services.came.sbg.ac.at,302,0
 abstract,BMC_Syst_Biol,21689482,2011,http://projects.biotec.tu-dresden.de/metadbsite/,200,0
@@ -8895,7 +8895,7 @@ body,PLoS_Comput_Biol,23459081,2013,http://oxfordhla.well.ox.ac.uk,200,1
 body,Nucleic_Acids_Res,25361968,2015,http://www.genenames.org/help/search,301,0
 body,PLoS_Comput_Biol,19680425,2009,http://mpf.biol.vt.edu/research/caulobacter/SWST/pp/onlinesimulator.php,200,0
 body,Nucleic_Acids_Res,19039001,2009,http://www.broad.mit.edu/annotation/genome/aspergillus_group/MultiHome.html,301,1
-body,PLoS_Comput_Biol,24098102,2013,http://dx.doi.org/10.6019/CHEMBL2095176,303,1
+body,PLoS_Comput_Biol,24098102,2013,https://doi.org/10.6019/CHEMBL2095176,303,1
 body,Bioinformatics,20194625,2010,http://dhtmlx.com/docs/products/dhtmlxTreeGrid/,301,0
 body,BMC_Genomics,28086752,2017,http://trek.atgcdynamics.org,200,0
 body,Nucleic_Acids_Res,19700771,2009,http://swift.cmbi.kun.nl/gv/pdbfinder,-1,0
@@ -8981,7 +8981,7 @@ body,Genome_Biol,NA,2001,http://www.lionbioscience.com/,-1,0
 body,Nucleic_Acids_Res,24185701,2014,http://AitchisonLab.com/YeastEGRIN,500,0
 body,Nucleic_Acids_Res,21700670,2011,http://priithon.googlecode.com,404,0
 body,BMC_Bioinformatics,26335628,2015,http://wiki.c2b2.columbia.edu/dream/index.php/D5c4.,200,0
-body,BMC_Genomics,25431190,2014,http://dx.doi.org/10.6084/m9.figshare.1053092,303,0
+body,BMC_Genomics,25431190,2014,https://doi.org/10.6084/m9.figshare.1053092,303,0
 body,Nucleic_Acids_Res,17537822,2007,http://crispr.u-psud.fr/crispr/,403,1
 body,Nucleic_Acids_Res,26590403,2016,http://bioinformatics.wistar.upenn.edu/HemoPDB,-1,0
 body,Nucleic_Acids_Res,18411205,2008,http://atlasgeneticsoncology.org,200,0
@@ -9077,7 +9077,7 @@ body,Nucleic_Acids_Res,17151080,2007,http://cmr.tigr.org/tigr,302,0
 body,BMC_Bioinformatics,25472428,2014,http://purl.obolibrary.org/obo/NCBITaxon_9606,303,0
 body,BMC_Genomics,27809760,2016,http://purl.org/phylo/treebase/phylows/study/TB2:S19948,302,0
 body,BMC_Bioinformatics,28259142,2017,http://setrank.vital-it.ch,302,0
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H43T9F5P,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H43T9F5P,303,0
 body,BMC_Genomics,23126637,2012,http://www-huber.embl.de/users/anders/HTSeq/doc/overview.html,200,1
 body,Nucleic_Acids_Res,20631008,2010,http://www.genet.sickkids.on.ca/cftr/app,200,0
 body,BMC_Genomics,25956907,2015,https://github.com/z0on/tag-based_RNAseq,301,0
@@ -9133,7 +9133,7 @@ body,PLoS_Comput_Biol,28151932,2017,https://creativecommons.org/licenses/by/4.0/
 body,BMC_Syst_Biol,23282411,2012,http://www.geneontology.org/GO.downloads.database.shtml,301,0
 body,Nucleic_Acids_Res,27907889,2017,http://122.228.158.106/NPdenovo/,-1,0
 body,PLoS_Comput_Biol,18463698,2008,www.cis.upenn.edu/,-1,0
-body,Bioinformatics,28158333,2017,https://dx.doi.org/10.1101/047498,303,0
+body,Bioinformatics,28158333,2017,https://doi.org/10.1101/047498,303,0
 body,BMC_Bioinformatics,26208945,2015,https://github.com/albina-a/Web_and_Mobile_applications,301,0
 body,BMC_Syst_Biol,24188919,2013,http://cran.r-project.org/web/packages/clusterSim/clusterSim.pdf,200,0
 body,BMC_Bioinformatics,20482883,2010,http://www.cancerresearch.unsw.edu.au/CRCWeb.nsf/page/flutyper,302,1
@@ -9328,7 +9328,7 @@ body,Bioinformatics,18922806,2008,http://medusa.jrc.it,301,0
 body,Nucleic_Acids_Res,25428362,2015,https://github.com/solgenomics/sgn,301,0
 body,BMC_Bioinformatics,19091072,2008,http://proline.physics.iisc.ernet.in/pocketmatch/,200,0
 body,Nucleic_Acids_Res,19671526,2009,http://www.biosino.org/de.cleaved.repressed,404,1
-body,Nucleic_Acids_Res,NA,2008,http://dx.doi.org/,200,1
+body,Nucleic_Acids_Res,NA,2008,https://doi.org/,200,1
 body,BMC_Syst_Biol,21791051,2011,ftp://ftpmips.gsf.de/catalogue/annotation_data,-1,0
 body,Nucleic_Acids_Res,16381927,2006,http://imex.sourceforge.net/,301,1
 body,BMC_Genomics,23171372,2012,http://www.ToxoDB.org.,301,0
@@ -9483,7 +9483,7 @@ body,PLoS_Comput_Biol,17559300,2007,http://www.smartdraw.com,302,0
 body,BMC_Genomics,21342532,2011,http://earray.chem.agilent.com/earray/,302,0
 body,Nucleic_Acids_Res,24185695,2014,http://www.rcsb.org/pdb-101,302,0
 body,Genome_Biol,NA,2000,http://isis.bit.uq.edu.au/,-1,0
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H4BC3WGH,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H4BC3WGH,303,0
 body,Genome_Biol,28274275,2017,https://github.com/michaelchess/gene-lookup,301,0
 body,Nucleic_Acids_Res,16963491,2006,http://prodes.toulouse.inra.fr/multalin/,-1,1
 body,Bioinformatics,26873931,2016,https://github.com/wangxiao1254/idash_competition,301,0
@@ -9593,7 +9593,7 @@ body,BMC_Genomics,25540073,2014,http://babelomics3.bioinfo.cipf.es/,200,0
 body,Genome_Biol,25001498,2014,http://www.economist.com/node/17723223,200,0
 body,Nat_Methods,23685885,2013,www.broadinstitute.org/gtex,-1,0
 body,Nucleic_Acids_Res,16977698,2006,http://www.allergenonline.com,200,0
-body,BMC_Genomics,24884992,2014,http://doi.org/10.5061/dryad.p58hb,303,1
+body,BMC_Genomics,24884992,2014,https://doi.org/10.5061/dryad.p58hb,303,1
 body,Nucleic_Acids_Res,26338778,2015,http://yelab.net/software/SLEP/,200,0
 body,BMC_Genomics,27535125,2016,http://www.diabetes.org/,200,0
 body,BMC_Bioinformatics,20359363,2010,ftp://ftp.ncbi.nlm.nih.gov/gene/GeneRIF,301,1
@@ -10097,7 +10097,7 @@ body,PLoS_Comput_Biol,18052545,2007,http://www.hapmap.org/genotypes/,301,0
 body,Nucleic_Acids_Res,22080546,2012,http://www.insdc.org/documents/status_document.html,200,0
 body,BMC_Genomics,21791039,2011,http://www.geneontology.org/godatabase/archive/full/2009-03-01/,301,0
 body,PLoS_Comput_Biol,16477325,2005,http://www.cmol.nbi.dk/models/compar/compar.html,200,0
-body,PLoS_Comput_Biol,26275208,2015,http://dx.doi.org/10.5061/dryad.hj6mr,303,0
+body,PLoS_Comput_Biol,26275208,2015,https://doi.org/10.5061/dryad.hj6mr,303,0
 body,BMC_Genomics,25765449,2015,http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE62488,301,1
 body,BMC_Bioinformatics,28222698,2017,http://atgc-sur.inta.gob.ar,303,0
 body,Nucleic_Acids_Res,21984412,2012,http://ppsp.biocuckoo.org,200,0
@@ -10222,7 +10222,7 @@ body,Nucleic_Acids_Res,17130145,2007,http://www.ncibi.org,200,1
 body,BMC_Bioinformatics,16351753,2005,http://www.mitokor.com,200,0
 body,BMC_Syst_Biol,27655224,2016,https://youtu.be/YCyCfzl7yFY?t=12,302,0
 body,Nucleic_Acids_Res,25223786,2014,https://www.oncomine.com,302,1
-body,PLoS_Comput_Biol,25393548,2014,http://dx.doi.org/10.6084/m9.figshare.1029084,303,0
+body,PLoS_Comput_Biol,25393548,2014,https://doi.org/10.6084/m9.figshare.1029084,303,0
 body,BMC_Bioinformatics,21612636,2011,http://sourceforge.net/projects/ondex/files/supp/BMC_Lysenko_2011/ONDEX.zip/download,301,1
 body,Genome_Med,25328540,2014,https://ngsl.esat.kuleuven.be,303,0
 body,Nucleic_Acids_Res,27580718,2017,https://apex.oracle.com/,302,0
@@ -10885,7 +10885,7 @@ body,BMC_Genomics,20553621,2010,http://wheatdb.ucdavis.edu,-1,1
 body,Genome_Biol,25853392,2015,http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE55763,301,0
 body,Nucleic_Acids_Res,18281313,2008,http://pawsonlab.mshri.on.ca/,302,0
 body,Bioinformatics,25861964,2015,http://www.ebi.ac.uk/fg/sym/submit#examples,301,0
-body,PLoS_Comput_Biol,25211603,2014,http://dx.doi.org/10.6084/m9.figshare.831432,303,0
+body,PLoS_Comput_Biol,25211603,2014,https://doi.org/10.6084/m9.figshare.831432,303,0
 body,Nucleic_Acids_Res,15608223,2005,http://www.fruitfly.org/annot/release4.html,200,0
 body,BMC_Genomics,26194190,2015,http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67428,301,0
 body,Nucleic_Acids_Res,24848013,2014,http://ncbr.muni.cz/MotiveValidator/MotifsNAG,301,0
@@ -11240,7 +11240,7 @@ body,Nucleic_Acids_Res,17088289,2007,http://www.ensembl.org/Homo_sapiens/martvie
 body,BMC_Genomics,28606056,2017,http://sourceforge.net/projects/bbmap,301,0
 body,Genome_Biol,27717381,2016,http://www.encodeproject.org/data/annotations/v2,301,0
 body,BMC_Genomics,25881124,2015,ftp://ftpmips.gsf.de/fungi/FGDB/v32/,-1,1
-body,BMC_Genomics,26556056,2015,http://doi.org/10.15454/1.4454357532232493E12,303,1
+body,BMC_Genomics,26556056,2015,https://doi.org/10.15454/1.4454357532232493E12,303,1
 body,BMC_Genomics,19917101,2009,http://wFleaBase.org,200,1
 body,Nucleic_Acids_Res,26704980,2016,http://www.bioconductor.org/packages/release/bioc/html/GOstats.html,200,0
 body,BMC_Bioinformatics,25887037,2015,https://github.com/ma-tech,301,0
@@ -11249,7 +11249,7 @@ body,BMC_Bioinformatics,26289158,2015,http://lmc.uab.cat/TMalphaDB/info.php,200,
 body,Nucleic_Acids_Res,21288879,2011,http://fold.it/portal/,200,0
 body,Nucleic_Acids_Res,15894797,2005,http://www.gelbuddy.org,-1,0
 body,BMC_Bioinformatics,16677380,2006,http://bio.site.uottawa.ca/software/seed/,200,0
-body,Genome_Biol,26936376,2016,http://dx.doi.org/10.5281/zenodo.45514,303,0
+body,Genome_Biol,26936376,2016,https://doi.org/10.5281/zenodo.45514,303,0
 body,BMC_Bioinformatics,19128472,2009,http://web.bioinformatics.cicbiogune.es/CD/tutorialCont.html,404,0
 body,BMC_Genomics,18681951,2008,http://www.doe-mbi.ucla.edu/Services/MTBreg/,404,0
 body,PLoS_Comput_Biol,25254639,2014,http://github.com/veg/idepi/,301,0
@@ -11443,7 +11443,7 @@ body,BMC_Genomics,19302708,2009,http://www.affymetrix.com/support/technical/anno
 body,BMC_Bioinformatics,24884391,2014,http://www.martinrijlaarsdam.nl/DMRforPairs/,200,0
 body,Genome_Biol,NA,2000,http://wwwmgs.bionet.nsc.ru/mgs/papers/ignatieva/es-trrd/,200,0
 body,Nucleic_Acids_Res,21059681,2011,http://tr.nci.nih.gov/iSpy,-1,0
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H4H41PC2,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H4H41PC2,303,0
 body,BMC_Genomics,28155652,2016,http://downloads.yeastgenome.org/sequence/S288C_reference/chromosomes/fasta/,302,0
 body,Nucleic_Acids_Res,25883153,2015,https://genome.ucsc.edu/goldenPath/help/customTrack.html,200,0
 body,Nucleic_Acids_Res,22228834,2012,http://code.google.com/p/gh-validprime/downloads/list,405,0
@@ -11600,7 +11600,7 @@ body,BMC_Bioinformatics,24564446,2014,http://glassfish.java.net/,302,0
 body,BMC_Genomics,28056767,2017,https://cge.cbs.dtu.dk//services/NDtree/,302,0
 body,PLoS_Comput_Biol,25928184,2015,http://www.hfsp.org/,200,0
 body,BMC_Genomics,23889895,2013,http://web.expasy.org/compute_pi/,200,1
-body,Nucleic_Acids_Res,27899659,2017,http://dx.doi.org/10.5281/zenodo.49234,303,0
+body,Nucleic_Acids_Res,27899659,2017,https://doi.org/10.5281/zenodo.49234,303,0
 body,BMC_Genomics,27506765,2016,http://trinityrnaseq.github.io,200,1
 body,BMC_Bioinformatics,15958165,2005,http://genome-www.stanford.edu/sutech/download/nci60,403,0
 body,Nucleic_Acids_Res,28053166,2017,www.oecd.org/sti/biotechnology/brc,-1,0
@@ -11674,7 +11674,7 @@ body,Bioinformatics,25957352,2015,www.shinyapps.io,-1,0
 body,Nucleic_Acids_Res,16914446,2006,ftp://ca.expasy.org/databases/complete_proteomes,302,0
 body,BMC_Genomics,11472632,2001,http://www.arabidopsis.org/cgi-bin/maps/Schrom,200,0
 body,BMC_Genomics,24581041,2014,http://www.wormbook.org/toc_wormmethods.html,200,0
-body,Nucleic_Acids_Res,26819407,2016,http://dx.doi.org/10.5061/dryad.hn8gp,303,1
+body,Nucleic_Acids_Res,26819407,2016,https://doi.org/10.5061/dryad.hn8gp,303,1
 body,Nucleic_Acids_Res,16381824,2006,http://cgap.nci.nih.gov/Tissues/GXS,301,0
 body,Nat_Methods,27525976,2016,https://ccb.jhu.edu/software/tophat/index.shtml/,404,0
 body,BMC_Bioinformatics,22607449,2012,http://processing.org/,301,1
@@ -11734,7 +11734,7 @@ body,Nucleic_Acids_Res,16845063,2006,http://hgdownload.cse.ucsc.edu/goldenPath/h
 body,Nucleic_Acids_Res,15608229,2005,ftp://ftp.blueprint.org/pub/BIND/data/bindflatfiles/bindindex/,404,0
 body,BMC_Genomics,20950480,2010,http://www.dnastar.com/t-products-seqman-ngen.aspx,301,1
 body,Nucleic_Acids_Res,21062810,2011,http://phospho.elm.eu.org/pELMBlastSearch.html,200,0
-body,BMC_Genomics,24950855,2014,http://dx.doi.org/10.6084/m9.figshare.873865,303,1
+body,BMC_Genomics,24950855,2014,https://doi.org/10.6084/m9.figshare.873865,303,1
 body,Nucleic_Acids_Res,16381900,2006,http://www.hprd.org/FAQ,200,0
 body,BMC_Genomics,25952680,2015,http://sysbio.harvard.edu,200,0
 body,BMC_Bioinformatics,26335531,2015,http://www.myexperiment.org/workflows/3693.html,200,1
@@ -11801,7 +11801,7 @@ body,PLoS_Comput_Biol,27043913,2016,www.gadm.org,-1,0
 body,Bioinformatics,20435580,2010,http://genome.ucsc.edu/goldenPath/help/bedgraph.html,200,0
 body,BMC_Syst_Biol,22540944,2012,http://tdrtargets.org/,200,0
 body,Nucleic_Acids_Res,23042683,2012,http:www.sanger.ac.uk/Software/Pfam/,-1,0
-body,Genome_Biol,25886852,2015,http://dx.doi.org/10.6084/m9.figshare.785718,303,0
+body,Genome_Biol,25886852,2015,https://doi.org/10.6084/m9.figshare.785718,303,0
 body,BMC_Genomics,26732811,2016,http://seedsofdiscovery.org,200,1
 body,BMC_Genomics,19099596,2008,http://www.orioncell.org,200,1
 body,BMC_Syst_Biol,23281810,2012,http://www.scandb.org,200,1
@@ -12169,7 +12169,7 @@ body,Nucleic_Acids_Res,27899579,2017,https://sourceforge.net/projects/samtools/f
 body,Nucleic_Acids_Res,25414345,2015,http://supfam.org/SUPERFAMILY/cgi-bin/gen_list.cgi?genome=up;subgenome=all,200,0
 body,BMC_Genomics,20233449,2010,http://www.ncbi.nlm.nih.gov/entrez?db=nuccore,301,0
 body,BMC_Bioinformatics,28964254,2017,http://geminivirus.org:8080/geminivirusdw/discoveryGeminivirus.jsp,200,1
-body,BMC_Genomics,25880816,2015,http://dx.doi.org/10.4225/08/54FF7B03DB181,303,0
+body,BMC_Genomics,25880816,2015,https://doi.org/10.4225/08/54FF7B03DB181,303,0
 body,Nucleic_Acids_Res,21478163,2011,ftp://genome.wustl.edu/pub/organism/Other_Single_Celled_Organisms/Physarum_polycephalum/assembly/,404,0
 body,Nucleic_Acids_Res,23180781,2013,http://www.innatedb.com/news,302,0
 body,BMC_Bioinformatics,16253142,2005,http://www.ics.uci.edu/~bobc/hexdiff.html,404,0
@@ -12347,7 +12347,7 @@ body,Nucleic_Acids_Res,22067444,2012,http://digitalhymn.com/argilla/tipmage/,403
 body,BMC_Bioinformatics,19426459,2009,(http://www.eumodic.org/documents/EMPReSSslim%20pipelines.pdf),-1,0
 body,Nucleic_Acids_Res,27899610,2017,http://www.uniprot.org/docs/humdisease,200,0
 body,BMC_Bioinformatics,27923367,2016,http://tcng.hgc.jp/index.html,200,0
-body,Nucleic_Acids_Res,24288369,2014,http://dx.doi.org/10.1016/j.jmb.2013.01.006,303,0
+body,Nucleic_Acids_Res,24288369,2014,https://doi.org/10.1016/j.jmb.2013.01.006,303,0
 body,BMC_Genomics,22900646,2012,http://www-is.biotoul.fr/is.html,404,0
 body,Nucleic_Acids_Res,15673715,2005,http://www.rtc.riken.go.jp/jouhou/pronit/pronit_search.html,-1,0
 body,Nucleic_Acids_Res,18931379,2009,http-request,-1,0
@@ -12443,7 +12443,7 @@ body,BMC_Genomics,24885693,2014,http://plantsp.genomics.purdue.edu/,200,0
 body,BMC_Bioinformatics,18005434,2007,http://bioinfo2.weizmann.ac.il/geneannot/customcdf.html,-1,0
 body,PLoS_Comput_Biol,19557160,2009,http://www.yale.edu/townsend/datasets.html,301,0
 body,Nucleic_Acids_Res,27098035,2016,https://www.rabbitmq.com,200,0
-body,BMC_Genomics,25027790,2014,http://dx.doi.org/10.4225/08/538FD6C5C9897,303,0
+body,BMC_Genomics,25027790,2014,https://doi.org/10.4225/08/538FD6C5C9897,303,0
 body,Nucleic_Acids_Res,22589414,2012,http://www.rdkit.org,200,1
 body,Nucleic_Acids_Res,20501605,2010,http://accelrys.org/pipelinepilot/index.html,301,0
 body,Nucleic_Acids_Res,16377776,2005,http://lifesciences.chem.agilent.com/scripts/LiteraturePDF.asp?iWHID=31889,-1,0
@@ -12700,7 +12700,7 @@ body,Nucleic_Acids_Res,25488812,2015,www.pymol.org/,-1,1
 body,Nucleic_Acids_Res,17178752,2007,http://trafac.cchmc.org,302,0
 body,Nucleic_Acids_Res,17090589,2007,http://genome.ucsc.edu/cgi-bin/hgNear/,200,0
 body,Genome_Med,22494390,2012,http://PersonalGenomics.org,301,0
-body,Genome_Biol,27036497,2016,http://dx.doi.org/10.7488/ds/1306,303,0
+body,Genome_Biol,27036497,2016,https://doi.org/10.7488/ds/1306,303,0
 body,Nucleic_Acids_Res,22584624,2012,http://genome.ucsc.edu/cgi-bin/hgTracks,200,1
 body,BMC_Genomics,23171218,2012,http://www.pangloss.com/seidel/Protocols/venn.cgi,200,1
 body,BMC_Bioinformatics,12067419,2002,http://www.ncbi.nlm.nih.gov/entrez/utils/pmneighbor.fcgi?pmidfepmid=PMID,301,0
@@ -13119,7 +13119,7 @@ body,BMC_Genomics,26330221,2015,http://www.fresnostate.edu/ssrfinder/,404,0
 body,Nucleic_Acids_Res,18927115,2009,http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=handbook.chapter.ch14,301,0
 body,PLoS_Comput_Biol,20098500,2010,www.rosettacommons.org,-1,1
 body,BMC_Genomics,23984798,2013,http://abs.cit.nih.gov/MSCLtoolbox,302,0
-body,BMC_Genomics,24996778,2014,http://dx.doi.org/10.13013/J6MW2F2B,303,1
+body,BMC_Genomics,24996778,2014,https://doi.org/10.13013/J6MW2F2B,303,1
 body,BMC_Bioinformatics,20167070,2010,http://search.cpan.org/~dburdick/Boost-Graph-1.2/Graph.pm,200,0
 body,BMC_Bioinformatics,24884964,2014,http://skelk.sdf-eu.org/cyclekiller,301,1
 body,Nucleic_Acids_Res,24174536,2014,http://www.geneprof.org/show?id=gpXP_000385,302,0
@@ -13426,7 +13426,7 @@ body,BMC_Bioinformatics,20946597,2010,ftp://ftp.cs.cornell.edu/pub/smart/English
 body,Nucleic_Acids_Res,20855289,2011,http://frontend.bioinfo.rpi.edu,200,0
 body,Nucleic_Acids_Res,20929872,2011,ftp://ftp.rcsb.org/pdb/,404,0
 body,BMC_Genomics,25511820,2014,http://www.genome.jp/dbget-bin/www_bget?hsa04975,200,0
-body,Nat_Methods,24240321,2013,http://dx.doi.org/10.1038/protex.2013.082,303,1
+body,Nat_Methods,24240321,2013,https://doi.org/10.1038/protex.2013.082,303,1
 body,BMC_Syst_Biol,26968941,2016,http://es.mathworks.com/matlabcentral/fileexchange/39215,301,0
 body,BMC_Genomics,26715155,2015,http://compbio.mit.edu/cummeRbund/manual_2_0.html,200,0
 body,Nucleic_Acids_Res,20350929,2010,www.ebi.ac.uk/enright/sylamer/sylamer.html,-1,0
@@ -13561,7 +13561,7 @@ body,BMC_Syst_Biol,29145845,2017,http://lmmd.ecust.edu.cn/methods/sdtSDTNBI/,200
 body,BMC_Genomics,25994131,2015,http://www.broadinstitute.org/annotation/genome/Geomyces_destructans/MultiHome.html,301,0
 body,BMC_Bioinformatics,28407731,2017,https://github.com/eafyounian/Segmentum,301,1
 body,BMC_Syst_Biol,24565134,2013,http://www.tfacts.org,200,0
-body,BMC_Genomics,24903263,2014,http://dx.doi.org/10.6070/H4N58J9R,303,0
+body,BMC_Genomics,24903263,2014,https://doi.org/10.6070/H4N58J9R,303,0
 body,BMC_Syst_Biol,21762505,2011,http://www.vensim.com/,301,0
 body,PLoS_Comput_Biol,18787685,2008,http://www.cellml.org/,301,1
 body,PLoS_Comput_Biol,23071428,2012,http://cran.r-project.org/web/packages/PMA/,200,1
@@ -13638,7 +13638,7 @@ body,Nucleic_Acids_Res,16381881,2006,http://obda.open-bio.org,200,0
 body,Nucleic_Acids_Res,17586822,2007,http://firstglance.jmol.org,302,1
 body,Nucleic_Acids_Res,15608269,2005,http://www3.oup.co.uk/nar/database/summary/505,-1,0
 body,Genome_Biol,27009100,2016,http://www.mkomo.com/cost-per-gigabyte,405,0
-body,BMC_Genomics,25257395,2014,http://dx.doi.org/10.6070/H40V89S4,303,0
+body,BMC_Genomics,25257395,2014,https://doi.org/10.6070/H40V89S4,303,0
 body,BMC_Genomics,19835609,2009,http://eichlerlab.gs.washington.edu/database.html,200,1
 body,BMC_Bioinformatics,29166852,2017,http://arep.med.harvard.edu/,200,0
 body,Genome_Biol,16522224,2006,http://www.eccb05.org,200,0
@@ -13919,7 +13919,7 @@ body,Genome_Med,28754123,2017,http://download.baderlab.org/EM_Genesets/,200,0
 body,BMC_Bioinformatics,19796398,2009,http://www.w3.org/TR/skos-reference/,200,0
 body,BMC_Genomics,24387266,2014,http://trace.ncbi.nlm.nih.gov/Traces/sra_sub/sub.cgi,301,1
 body,Nucleic_Acids_Res,21030438,2010,http://www.wistar.org/research_facilities/noma/pubdata.htm,301,1
-body,PLoS_Comput_Biol,28640806,2017,http://doi.org/doi:10.1371/journal.pone.0065848,303,0
+body,PLoS_Comput_Biol,28640806,2017,https://doi.org/doi:10.1371/journal.pone.0065848,303,0
 body,BMC_Genomics,26494482,2015,http://www.soybase.org/soyseq/,302,0
 body,Nucleic_Acids_Res,28460012,2017,https://toolshed.g2.bx.psu.edu/view/xuebing/kplogo,307,0
 body,BMC_Genomics,16824208,2006,http://ccgb.umn.edu:8088/ForestTreeDB/nimbus/project.do?project=ForestTreeDB,-1,0
@@ -14357,7 +14357,7 @@ body,BMC_Genomics,19149906,2009,http://wheat.pw.usda.gov/PhysicalMapping/progres
 body,BMC_Bioinformatics,18945362,2008,http://dimreduction.incubadora.fapesp.br/,-1,0
 body,BMC_Genomics,25887115,2015,http://sourceforge.net/projects/bio-bwa/files/,301,1
 body,Nucleic_Acids_Res,23658221,2013,https://github.com/sak042/Reprever,301,0
-body,BMC_Genomics,24884429,2014,http://doi.org/10.5061/dryad.nq38s,303,0
+body,BMC_Genomics,24884429,2014,https://doi.org/10.5061/dryad.nq38s,303,0
 body,Nucleic_Acids_Res,23761446,2013,www.tmanavigator.org/help,-1,0
 body,BMC_Bioinformatics,18570686,2008,http://snp.istech21.com/snpanalyzer/2.0/,-1,0
 body,Genome_Biol,28274275,2017,http://phenolyzer.wglab.org/,200,0
@@ -14633,7 +14633,7 @@ body,Nucleic_Acids_Res,20494977,2010,http://www.extjs.com/,301,0
 body,BMC_Bioinformatics,17493290,2007,ftp://ftp.ncbi.nih.gov/gene/DATA,301,1
 body,BMC_Bioinformatics,18410691,2008,http://leili-lab.cmb.usc.edu/yeastaging/projects/ptr/,-1,0
 body,BMC_Bioinformatics,20682041,2010,http://www.gib.fi.upm.es/en/PrimerXtractor,404,0
-body,BMC_Genomics,28807002,2017,http://doi.org/10.5281/zenodo.840606,303,0
+body,BMC_Genomics,28807002,2017,https://doi.org/10.5281/zenodo.840606,303,0
 body,PLoS_Comput_Biol,20221257,2010,http://exprecommender.princeton.edu,-1,1
 body,Nucleic_Acids_Res,22373926,2012,http://lancelot.otago.ac.nz/CisRegRNA/,200,1
 body,Nucleic_Acids_Res,17259222,2007,http://www.sanger.ac.uk/Software/Rfam/index.shtml,301,1
@@ -14707,7 +14707,7 @@ body,BMC_Genomics,19930592,2009,http://cran.r-project.org/web/packages/qvalue/in
 body,BMC_Bioinformatics,25431162,2014,https://github.com/Pymol-Scripts/Pymol-script-repo,301,0
 body,BMC_Bioinformatics,28288556,2017,http://deskgen.com,302,0
 body,BMC_Genomics,19958552,2009,http://wheat.pw.usda.gov/cgi-bin/graingenes/browse.cgi?class=allele;query=DArT*,302,0
-body,BMC_Genomics,25956247,2015,http://doi.org/10.5061/dryad.8kb37,303,0
+body,BMC_Genomics,25956247,2015,https://doi.org/10.5061/dryad.8kb37,303,0
 body,Nucleic_Acids_Res,23155064,2013,http://www.minas.uzh.ch/,200,0
 body,BMC_Bioinformatics,20370931,2010,http://www.sheephapmap.org/,200,1
 body,BMC_Genomics,25196513,2014,http://www.goldenhelix.com,301,0
@@ -14749,7 +14749,7 @@ body,Nucleic_Acids_Res,17584796,2007,www.yed.com,-1,0
 body,BMC_Bioinformatics,15725347,2005,http://bioinformatics.org.au/gann/,404,0
 body,BMC_Bioinformatics,18721473,2008,http://math.bu.edu/people/kolaczyk/software.html,200,0
 body,BMC_Bioinformatics,24629125,2014,http://www.HapMap.org,301,1
-body,BMC_Bioinformatics,27233515,2016,http://dx.doi.org/10.5281/zenodo.49754,303,0
+body,BMC_Bioinformatics,27233515,2016,https://doi.org/10.5281/zenodo.49754,303,0
 body,BMC_Genomics,25326687,2014,https://usegalaxy.org/u/cic19/h/mesenchymal-stem-cells-rnaseq,307,0
 body,BMC_Bioinformatics,24885957,2014,http://staff.ustc.edu.cn/~ketang/cec2012/lsgo_competition.htm,200,1
 body,BMC_Genomics,20158880,2010,http://www.cancer-genetics.org,200,0
@@ -15091,7 +15091,7 @@ body,Nucleic_Acids_Res,16845088,2006,http://dpdb.uab.es,302,1
 body,BMC_Bioinformatics,20426874,2010,http://graphviz.org,200,0
 body,Nucleic_Acids_Res,20699269,2010,http://nuit-blanche.blogspot.com/,200,0
 body,BMC_Genomics,24090429,2013,http://www.multid.se,200,1
-body,Nucleic_Acids_Res,15608200,2005,http://dx.doi.org/10.1007/bergeysoutline,303,0
+body,Nucleic_Acids_Res,15608200,2005,https://doi.org/10.1007/bergeysoutline,303,0
 body,BMC_Genomics,19958505,2009,http://www.biomedcentral.com/1471-2105/10?issue=S15,302,1
 body,BMC_Genomics,21306613,2011,http://plantrepeats.plantbiology.msu.edu/brassicaceae.html,404,0
 body,BMC_Bioinformatics,15488147,2004,http://ncbi.nlm.nih.gov,301,1
@@ -15171,7 +15171,7 @@ body,BMC_Genomics,22823947,2012,https://compbio.ornl.gov/mspipeline/besc/Ctherm_
 body,BMC_Bioinformatics,25350283,2014,ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase1/analysis_results/integrated_call_sets/,200,1
 body,BMC_Bioinformatics,25886935,2015,www.rstudio.com,-1,0
 body,BMC_Genomics,15527499,2004,http://www.hgsc.bcm.tmc.edu/projects/honeybee/,301,1
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H47M05WJ,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H47M05WJ,303,0
 body,BMC_Genomics,22827734,2012,http://urgi.versailles.inra.fr/cgibin/gbrowse/wheat_,302,0
 body,Nucleic_Acids_Res,27625397,2016,http://www.compbio.dundee.ac.uk/jpred/index.html,200,0
 body,Nucleic_Acids_Res,28031372,2017,http://www.clipz.unibas.ch/snoRNAchimeras/,200,0
@@ -15242,7 +15242,7 @@ body,BMC_Bioinformatics,23815072,2013,http://ftp.ncbi.nlm.nih.gov/blast/executab
 body,Nucleic_Acids_Res,25414324,2015,http://tools.ietf.org/html/rfc6749,301,0
 body,Nucleic_Acids_Res,23175611,2013,http://nmr.cmbi.ru.nl/icing/,302,0
 body,Bioinformatics,21088027,2011,http://www.nvidia.com/object/tesla_bioworkbench.html,404,0
-body,BMC_Bioinformatics,20515448,2010,http://dx.doi.org/10.1016/j.femsle.2004.11.021,303,0
+body,BMC_Bioinformatics,20515448,2010,https://doi.org/10.1016/j.femsle.2004.11.021,303,0
 body,BMC_Genomics,21083884,2010,http://www.ch.embnet.org/software/LALIGN_form.html,302,1
 body,BMC_Bioinformatics,24990571,2014,http://tinyurl.com/8zo558l,301,0
 body,Bioinformatics,20228128,2010,www.ucl.ac.be/mlg/index.php?page=Softwares,-1,0
@@ -15480,7 +15480,7 @@ body,Nucleic_Acids_Res,20007150,2010,http://riodb01.ibase.aist.go.jp/sdbs/,301,0
 body,BMC_Genomics,20462421,2010,http://www.imtech.res.in/raghava/pslpred/index.html,301,0
 body,PLoS_Comput_Biol,24550717,2014,http://sourceforge.net/projects/statespaceminer,301,0
 body,PLoS_Comput_Biol,26699810,2015,http://cansar.icr.ac.uk/,200,0
-body,PLoS_Comput_Biol,28030541,2016,https://dx.doi.org/10.6084/m9.figshare.3493010.v2,303,0
+body,PLoS_Comput_Biol,28030541,2016,https://doi.org/10.6084/m9.figshare.3493010.v2,303,0
 body,BMC_Syst_Biol,23046838,2012,http://webbook.nist.gov/chemistry/,200,0
 body,PLoS_Comput_Biol,23459081,2013,http://www.b58cgene.sgul.ac.uk/,302,0
 body,BMC_Bioinformatics,20946593,2010,http://www.nature.com/nbt/journal/v24/n9/extref/nbt1239-S5.txt,303,1
@@ -15495,7 +15495,7 @@ body,BMC_Genomics,21143935,2010,http://www.broadinstitute.org/science/data,301,0
 body,BMC_Bioinformatics,29141580,2017,http://togows.org/api/ucsc/mm10/TargetSite_GenomicCoordinates.fasta,400,0
 body,Nucleic_Acids_Res,22156162,2012,http://rsat.bigre.ulb.ac.be/~rsat/supp_material_peak-motifs/,-1,0
 body,BMC_Bioinformatics,16026594,2005,http://www.MCBIOS.org,301,1
-body,BMC_Genomics,25887584,2015,http://doi.org/10.5285/b6900166-ded6-4f7a-8734-484b6f77b2f1,303,1
+body,BMC_Genomics,25887584,2015,https://doi.org/10.5285/b6900166-ded6-4f7a-8734-484b6f77b2f1,303,1
 body,Nucleic_Acids_Res,18776214,2009,http://www.enzyme-database.org/changes.php,200,0
 body,PLoS_Comput_Biol,18369415,2008,http://www.ebi.ac.uk/atd/humrel1.html,301,0
 body,BMC_Bioinformatics,28764645,2017,http://github.com/txje/F-seq,301,0
@@ -15862,7 +15862,7 @@ body,PLoS_Comput_Biol,25188415,2014,www.autophagy.lu,-1,0
 body,Nucleic_Acids_Res,19073698,2009,http://genome.ucsu.edu,-1,0
 body,BMC_Genomics,28558786,2017,http://borreliabase.org/,200,0
 body,BMC_Genomics,23268561,2012,ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/),301,0
-body,BMC_Genomics,25880986,2015,http://dx.doi.org/10.1016/j.fgb.2008.04.005,303,0
+body,BMC_Genomics,25880986,2015,https://doi.org/10.1016/j.fgb.2008.04.005,303,0
 body,Bioinformatics,21414991,2011,http://www.ondex.org/,302,0
 body,BMC_Bioinformatics,18840280,2008,http://darkhorse.ucsd.edu/,200,0
 body,Nucleic_Acids_Res,18755709,2008,http://ndbserver.rutgers.edu/services/index.html,404,0
@@ -15946,7 +15946,7 @@ body,BMC_Bioinformatics,19796404,2009,http://www.hospitaldoctor.ie/hospital_doct
 body,Nucleic_Acids_Res,NA,2017,https://pixabay.com/en/users/mcmurryjulie-2375405/,301,0
 body,BMC_Genomics,25384908,2014,http://mbio-serv2.mbioekol.lu.se/NematodeTrappingFungi/,200,0
 body,Genome_Biol,24176187,2013,http://www.nejm.org/doi/full/10.1056/NEJM198110013051408,302,0
-body,BMC_Genomics,26699528,2015,http://dx.doi.org/10.5061/dryad.8t53k,303,1
+body,BMC_Genomics,26699528,2015,https://doi.org/10.5061/dryad.8t53k,303,1
 body,Nucleic_Acids_Res,20693534,2010,http://lowelab.ucsc.edu/snoRNAdb/Archaea/Mja-align.htmlwere,404,0
 body,BMC_Bioinformatics,25350283,2014,ftp://ftp.ensembl.org/pub/release-75/variation/VEP/homo_sapiens_vep_75.tar.gz,200,0
 body,Nucleic_Acids_Res,24163257,2014,http://www.informatics.jax.org/gxd,405,1
@@ -16093,7 +16093,7 @@ body,PLoS_Comput_Biol,28715501,2017,ftp.patricbrc.org/patric2,-1,0
 body,BMC_Bioinformatics,15960837,2005,http://www.biojudiciary.org/glossary/index.asp?flt=p,302,0
 body,Genome_Biol,27039378,2016,https://sourceforge.net/projects/multitrans/files/,301,0
 body,Nucleic_Acids_Res,24319146,2014,http://www.ebi.ac.uk/thornton-srv/databases/CSS,301,0
-body,BMC_Genomics,27491780,2016,http://dx.doi.org/10.5061/dryad.t748p,303,1
+body,BMC_Genomics,27491780,2016,https://doi.org/10.5061/dryad.t748p,303,1
 body,Nucleic_Acids_Res,17933780,2007,http://www.ccg.unam.mx/Computational_Genomics/TRNS/TopologyvsCellsensing/,200,0
 body,Nucleic_Acids_Res,18676448,2008,http://snugenome.snu.ac.kr/Mestortho/,-1,0
 body,Nucleic_Acids_Res,26271990,2016,http://www.bcgsc.ca/platform/bioinfo/software/mirna-profiling,-1,0
@@ -16112,7 +16112,7 @@ body,BMC_Bioinformatics,19538710,2009,ftp://ftp.ncbi.nih.gov/refseq/release/rele
 body,PLoS_Comput_Biol,26436655,2015,http://www.moonlightingproteins.org/,301,0
 body,Nucleic_Acids_Res,17178749,2007,http://biodev.hgen.pitt.edu/enologos,301,0
 body,BMC_Genomics,19775440,2009,http://www.nematodes.org/NeglectedGenomes/MOLLUSCA/,200,0
-body,BMC_Genomics,25511458,2014,http://dx.doi.org/10.5281/zenodo.12626,303,1
+body,BMC_Genomics,25511458,2014,https://doi.org/10.5281/zenodo.12626,303,1
 body,BMC_Genomics,28143400,2017,http://www.traitgenetics.de,200,0
 body,Nucleic_Acids_Res,25753659,2015,http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/,301,0
 body,BMC_Genomics,25007843,2014,http://goo.gl/ECKmA9,301,0
@@ -16418,7 +16418,7 @@ body,BMC_Bioinformatics,24564474,2013,http://www.culatools.com/,200,0
 body,BMC_Genomics,27852226,2016,http://phagesdb.org,200,1
 body,PLoS_Comput_Biol,17676979,2007,http://www.genebio.com,403,0
 body,BMC_Bioinformatics,17577412,2007,http://www.room220.com/crt,301,1
-body,Bioinformatics,28158604,2017,http://dx.doi.org/10.1101/049288,303,0
+body,Bioinformatics,28158604,2017,https://doi.org/10.1101/049288,303,0
 body,Nucleic_Acids_Res,19270062,2009,http://yeast.utgenome.org/],404,0
 body,Bioinformatics,25189778,2015,www.nextflow.io,-1,0
 body,Genome_Biol,18598376,2008,http://www.bobbyjindal.com,301,0
@@ -16581,7 +16581,7 @@ body,BMC_Bioinformatics,21859449,2011,http://www.bioscholar.org/.,302,0
 body,Nucleic_Acids_Res,18723573,2008,http://www.avidity.com,301,1
 body,PLoS_Comput_Biol,23516352,2013,http://www.ohloh.net/p/Chaste,-1,0
 body,BMC_Genomics,23885787,2013,https://caintegrator.nci.nih.gov/rembrandt/,-1,1
-body,Nucleic_Acids_Res,28645172,2017,http://dx.doi.org/10.14806/ej.17.1.200,303,0
+body,Nucleic_Acids_Res,28645172,2017,https://doi.org/10.14806/ej.17.1.200,303,0
 body,BMC_Genomics,28073363,2017,https://hycom.org,301,0
 body,Nucleic_Acids_Res,17537808,2007,http://www.ks.uiuc.edu/Research/vmd/,200,1
 body,Genome_Biol,25103624,2014,https://pypi.python.org/pypi/MethylPurify,301,0
@@ -17345,7 +17345,7 @@ body,Nucleic_Acids_Res,21087992,2011,http://www.mirz.unibas.ch/software.php,200,
 body,BMC_Bioinformatics,29141580,2017,http://fantom.gsc.riken.jp/5/datafiles/latest/extra/Enhancers/,200,0
 body,Nucleic_Acids_Res,25779053,2015,http://www.selleckchem.com,200,0
 body,Bioinformatics,19628508,2009,http://www.pharmgkb.org,301,1
-body,BMC_Genomics,24581117,2014,http://doi.org/10.5061/dryad.b341k,303,0
+body,BMC_Genomics,24581117,2014,https://doi.org/10.5061/dryad.b341k,303,0
 body,Genome_Med,28549478,2017,http://www.cs.tau.ac.il/~roded/GLADIATOR.zip,200,0
 body,Nucleic_Acids_Res,24293649,2014,http://www.arb-silva.de/projects/living-tree,301,0
 body,BMC_Genomics,24350644,2013,http://www.broadinstitute.org/gsea/doc/GSEAUserGuideFrame.html,301,1
@@ -17425,7 +17425,7 @@ body,BMC_Genomics,26654230,2015,http://stofnfiskur.is/,200,0
 body,Nucleic_Acids_Res,NA,2007,http://www.webpagesthatsuck.com/,200,0
 body,BMC_Genomics,22967170,2012,http://primerdigital.com/fastpcr.html,200,1
 body,BMC_Genomics,15287962,2004,http://www.expasy.org/cgi-bin/niceprot.pl?Q8YAS7,302,0
-body,Nucleic_Acids_Res,27899609,2017,http://dx.doi.org/10.1101/032250,303,0
+body,Nucleic_Acids_Res,27899609,2017,https://doi.org/10.1101/032250,303,0
 body,Nucleic_Acids_Res,19820114,2009,http://mlg.ucd.ie/profisi,404,0
 body,Nucleic_Acids_Res,25361969,2015,http://www.sph.umich.edu/csg/abecasis/MACH/download/1000G.2012-02-14.html,301,0
 body,BMC_Bioinformatics,29162056,2017,https://github.com/rhysf/Synima,301,0
@@ -17458,7 +17458,7 @@ body,Nucleic_Acids_Res,24304895,2014,wwwblast,-1,0
 body,Nucleic_Acids_Res,22904070,2012,http://benham.genomecenter.ucdavis.edu/sibz/,200,1
 body,BMC_Syst_Biol,26969117,2016,https://github.com/SBRG/GEMPro/blob/master/GEMPro_recon/Tmaritima/tutorials/Classify_PDB_Mols.ipynb,301,0
 body,BMC_Genomics,26651996,2015,https://cran.r-project.org/web/packages/biganalytics/index.html,200,0
-body,Genome_Biol,25886852,2015,http://dx.doi.org/10.6084/m9.figshare.1154004,303,0
+body,Genome_Biol,25886852,2015,https://doi.org/10.6084/m9.figshare.1154004,303,0
 body,BMC_Genomics,22111877,2011,http://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi,200,1
 body,BMC_Genomics,24948191,2014,http://hgdownload.soe.ucsc.edu/downloads.html#cow,200,0
 body,Nucleic_Acids_Res,25332394,2015,http://lncrnadb.org/tools/,200,0
@@ -17667,7 +17667,7 @@ body,BMC_Genomics,21827708,2011,http://emboss.sourceforge.net/apps/cvs/emboss/ap
 body,BMC_Bioinformatics,20515448,2010,http://brueghel.cnb.csic.es/envmine_corpuses/envmine_corpus_units.txt,-1,0
 body,Genome_Biol,15774031,2005,http://www.president.harvard.edu/speeches/2005/nber.html,-1,0
 body,PLoS_Comput_Biol,28827824,2017,http://portal.nersc.gov/dna/RD/ChIP-Seq/LEG_trackhub/hub.txt,200,0
-body,BMC_Syst_Biol,26260760,2015,http://dx.doi.org/10.6070/H4513W6X,303,0
+body,BMC_Syst_Biol,26260760,2015,https://doi.org/10.6070/H4513W6X,303,0
 body,BMC_Bioinformatics,15507142,2004,http://www.biowiki.org/,302,1
 body,Nucleic_Acids_Res,28184449,2017,http://www.poissonboltzmann.org,200,0
 body,Nucleic_Acids_Res,18987008,2009,http://www.pubmed.org/,-1,0
@@ -17950,7 +17950,7 @@ body,PLoS_Comput_Biol,19436720,2009,http://funsimmat.bioinf.mpi-inf.mpg.de/index
 body,BMC_Genomics,22340203,2012,http://hgdownload.cse.ucsc.edu/goldenPath/hg18/bigZips,301,0
 body,PLoS_Comput_Biol,26418249,2015,http://www.broadinstitute.org/ccle,301,1
 body,BMC_Genomics,22748112,2012,http://www.bioconductor.org/packages/release/bioc/html/ddCt.html,200,0
-body,Nucleic_Acids_Res,27079975,2016,http://dx.doi.org/10.5281/zenodo.45278,303,0
+body,Nucleic_Acids_Res,27079975,2016,https://doi.org/10.5281/zenodo.45278,303,0
 body,Nucleic_Acids_Res,23109555,2013,http://www.standup2cancer.org/dream_teams/view/an_integrated_approach_to_targeting_breast_cancer_molecular_subtypes_and_th,301,0
 body,Nat_Methods,22020067,2011,http://www.sanger.ac.uk/resources/software/smalt/,301,1
 body,Nucleic_Acids_Res,15608210,2005,http://EcoCyc.org/contributors.shtml,302,0
@@ -17970,7 +17970,7 @@ body,Nucleic_Acids_Res,17158157,2007,http://idconverter.bioinfo.cipf.es/,200,0
 body,Nucleic_Acids_Res,23221643,2013,http://www.ebi.ac.uk/Tools/emboss/cpgplot/,301,1
 body,PLoS_Comput_Biol,24039567,2013,http://template-toolkit.org/python/index.html,200,0
 body,Genome_Med,28126037,2017,http://egg2.wustl.edu/roadmap/data/byFileType/chromhmmSegmentations/ChmmModels/core_K27ac/jointModel/final,301,0
-body,Nucleic_Acids_Res,27899614,2017,http://dx.doi.org/10.4225/23/581055ddcb1ce,303,0
+body,Nucleic_Acids_Res,27899614,2017,https://doi.org/10.4225/23/581055ddcb1ce,303,0
 body,Nucleic_Acids_Res,25392413,2015,http://coffee-genome.org/coffeacanephora,200,0
 body,BMC_Bioinformatics,23164367,2012,http://noble.gs.washington.edu/proj/crux,302,0
 body,BMC_Genomics,21995669,2011,http://microrna.org,302,1
@@ -17999,7 +17999,7 @@ body,BMC_Genomics,26283093,2015,www.PhosphOrtholog.com,-1,0
 body,Nucleic_Acids_Res,17142235,2007,https://patric.vbi.vt.edu/documents/,503,0
 body,Bioinformatics,25940563,2015,http://dat-data.com/,403,0
 body,Nucleic_Acids_Res,19822575,2009,http://www.anst.uu.se/stenr451/goseq/goseq/,-1,0
-body,Genome_Biol,25517360,2014,http://dx.doi.org/10.6084/m9.figshare.1117723,303,0
+body,Genome_Biol,25517360,2014,https://doi.org/10.6084/m9.figshare.1117723,303,0
 body,BMC_Bioinformatics,26087842,2015,www.rdml.org,-1,0
 body,Bioinformatics,22826540,2012,www.wikiproteins.org,-1,0
 body,BMC_Bioinformatics,15005801,2004,http://psidev.sourceforge.net/proteomics,404,0
@@ -18338,7 +18338,7 @@ body,BMC_Bioinformatics,19210776,2009,http://www.ncbi.nlm.nih.gov/Entrez/,301,1
 body,BMC_Bioinformatics,26289158,2015,http://lmc.uab.cat/TMbetaDB/info.php,200,0
 body,Nucleic_Acids_Res,27084937,2016,http://www.mathworks.co.uk/matlabcentral/fileexchange/25500-peakfinder,301,0
 body,BMC_Genomics,28431521,2017,http://planex.plantbioinformatics.org/co-expression-search,200,0
-body,BMC_Genomics,25431190,2014,http://dx.doi.org/10.6084/m9.figshare.1054540,303,0
+body,BMC_Genomics,25431190,2014,https://doi.org/10.6084/m9.figshare.1054540,303,0
 body,Genome_Biol,27139377,2016,https://github.com/slundberg/ChromNet.jl,301,0
 body,Nucleic_Acids_Res,25414333,2014,www.hscic.gov.uk,-1,0
 body,Nucleic_Acids_Res,17170010,2007,www.php.net,-1,1
@@ -18490,7 +18490,7 @@ body,PLoS_Comput_Biol,22792053,2012,http://www.cs.technion.ac.il/~tomersh/tools/
 body,PLoS_Comput_Biol,27832067,2016,www.bioconductor.org/packages/release/bioc/html/EnrichmentBrowser.html,-1,0
 body,BMC_Bioinformatics,24564710,2014,http://humancyc.org,302,1
 body,PLoS_Comput_Biol,21124869,2010,www.1001genomes.org,-1,0
-body,BMC_Genomics,25480530,2014,http://dx.doi.org/10.5061/dryad.s1f22,303,0
+body,BMC_Genomics,25480530,2014,https://doi.org/10.5061/dryad.s1f22,303,0
 body,BMC_Genomics,26081755,2015,http://tomateba.github.io/p53retriever,301,0
 body,PLoS_Comput_Biol,23133342,2012,www.fmrib.ox.ac.uk/fsl,-1,0
 body,BMC_Syst_Biol,21129191,2010,http://zen.dom.uab.edu:8080/phase/demo/,-1,1
@@ -18845,7 +18845,7 @@ body,Nucleic_Acids_Res,26032772,2015,http://openseq.org/cplx.php?mode=pdb,200,0
 body,Nucleic_Acids_Res,25873627,2015,http://itbtools.ba.itb.cnr.it/utrscan/help,200,0
 body,Genome_Biol,28446220,2017,https://github.com/yuchaojiang/SCALE,301,0
 body,Nucleic_Acids_Res,18801847,2008,http://www.gnu.org/software/octave,301,0
-body,Bioinformatics,28186221,2017,http://dx.doi.org/10.5061/dryad.9fk1s,303,0
+body,Bioinformatics,28186221,2017,https://doi.org/10.5061/dryad.9fk1s,303,0
 body,BMC_Bioinformatics,20646284,2010,http://www.ebi.ac.uk/uniref/,301,1
 body,BMC_Genomics,25495232,2014,http://metazoa.ensembl.org/index.html,200,1
 body,BMC_Genomics,24564186,2014,http://www.brainspan.org,200,1
@@ -18930,7 +18930,7 @@ body,BMC_Genomics,26076733,2015,http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?ac
 body,BMC_Bioinformatics,19758431,2009,http://twiki.org/,200,1
 body,BMC_Genomics,27801298,2016,https://bioinfo.uth.edu//TSGene1.0/,-1,0
 body,Nucleic_Acids_Res,20959289,2011,http://www.violinet.org/vaccineontology,301,1
-body,BMC_Genomics,24589353,2014,http://dx.doi.org/10.5061/dryad.8f61v,303,0
+body,BMC_Genomics,24589353,2014,https://doi.org/10.5061/dryad.8f61v,303,0
 body,PLoS_Comput_Biol,27832061,2016,https://sensuapp.org/,301,0
 body,Nucleic_Acids_Res,16282588,2005,http://myhits.isb-sib.ch/cgi-bin/pattern_search,301,0
 body,PLoS_Comput_Biol,24146606,2013,http://fcon_1000.projects.nitrc.org/,200,0
@@ -19111,8 +19111,8 @@ body,BMC_Genomics,27334470,2016,http://search.cpan.org/~ajpage/Bio-MLST-Check,30
 body,BMC_Genomics,19405940,2009,http://appliedbioinformatics.wur.nl/murnall/,-1,0
 body,Nucleic_Acids_Res,16145053,2005,http://www.cs.ubc.ca/labs/beta/Software/DnaCodeDesign,403,0
 body,BMC_Bioinformatics,28187709,2017,http://flygutseq.buchonlab.com/resources,200,0
-body,Nucleic_Acids_Res,27079975,2016,http://dx.doi.org/10.5281/zenodo.45238,303,0
-body,Genome_Biol,26429547,2015,http://dx.doi.org/10.6084/m9.figshare.1529822,303,0
+body,Nucleic_Acids_Res,27079975,2016,https://doi.org/10.5281/zenodo.45238,303,0
+body,Genome_Biol,26429547,2015,https://doi.org/10.6084/m9.figshare.1529822,303,0
 body,PLoS_Comput_Biol,23028268,2012,https://www.coursera.org,301,1
 body,Nucleic_Acids_Res,18299282,2008,http://mmb.pcb.ub.es/software/pcasuite.html,404,0
 body,BMC_Genomics,28830339,2017,http://en.wikipedia.org/wiki/KEGG,301,0
@@ -19143,7 +19143,7 @@ body,BMC_Genomics,23046547,2012,http://www.cottonmarker.org/,403,1
 body,BMC_Genomics,25057111,2014,http://www.genome.gov/admin/gwascatalog.txt,301,0
 body,Bioinformatics,19570805,2009,http://www.affymetrix.com/partners_programs/programs/developer/tools/powertools.affx,301,1
 body,Nucleic_Acids_Res,15608263,2005,http://zlab.bu.edu/HugeIndex/index.htm,301,0
-body,PLoS_Comput_Biol,22761561,2012,http://dx.doi.org/10.5061/dryad.h3s0r,303,0
+body,PLoS_Comput_Biol,22761561,2012,https://doi.org/10.5061/dryad.h3s0r,303,0
 body,BMC_Genomics,25539629,2014,http://yiplab.cse.cuhk.edu.hk/MTB/,-1,0
 body,Nucleic_Acids_Res,20110256,2010,www.genosplice.com,-1,1
 body,BMC_Genomics,25150411,2014,http://www.icrisat.org/gt-bt/ICGGC/GenomeManuscript.htm,404,1
@@ -19546,7 +19546,7 @@ body,Nucleic_Acids_Res,19906713,2010,www3.niaid.nih.gov/topics/BiodefenseRelated
 body,Nucleic_Acids_Res,23143105,2013,http://butterflygenome.org/,200,1
 body,Nucleic_Acids_Res,25904630,2015,http://bayesfactorpcl.r-forge.r-project.org/,200,0
 body,Nucleic_Acids_Res,24194600,2014,https://www.mousephenotype.org/imits,302,0
-body,BMC_Genomics,24069909,2013,http://doi.org/10.5061/dryad.gh7h8,303,0
+body,BMC_Genomics,24069909,2013,https://doi.org/10.5061/dryad.gh7h8,303,0
 body,PLoS_Comput_Biol,17274684,2007,http://bruker-medical.de,-1,1
 body,BMC_Genomics,19930670,2009,http://silkworm.swu.edu.cn/microarray,-1,0
 body,BMC_Bioinformatics,22574887,2012,http://www.ebi.ac.uk/projects/BARGEN/download/HyperLasso,301,0
@@ -19597,7 +19597,7 @@ body,BMC_Genomics,24673816,2014,http://www.ncbi.nlm.nih.gov/sra/?term=SRR364804,
 body,BMC_Genomics,20950470,2010,http://www.phytozome.net/cucumber.php#A,302,1
 body,Nucleic_Acids_Res,16381949,2006,http://genex.hgu.mrc.ac.uk/Emage/database/,-1,0
 body,Nucleic_Acids_Res,16912992,2006,http://www.pantherdb.org/tools/hmmScoreForm.jsp,200,0
-body,Nucleic_Acids_Res,24311565,2014,http://dx.doi.org/10.5772/52050,303,0
+body,Nucleic_Acids_Res,24311565,2014,https://doi.org/10.5772/52050,303,0
 body,BMC_Bioinformatics,19706156,2009,http://www.ailab.si/dictyExpress,301,1
 body,BMC_Genomics,21985689,2011,http://www.kegg.com/,-1,0
 body,BMC_Genomics,25047861,2014,http://1000.fungalgenomes.org/home/,200,0
@@ -19801,7 +19801,7 @@ body,Nucleic_Acids_Res,22904076,2012,http://rsat.ulb.ac.be/,-1,1
 body,BMC_Bioinformatics,26627443,2015,http://gigaton.sigenae.org,200,0
 body,BMC_Bioinformatics,19958516,2009,http://www.biomedcentral.com/1471-2164/10?issue=S3,302,1
 body,BMC_Bioinformatics,21235804,2011,http://www.cellml.org/tools/pmr/installation,301,0
-body,Nucleic_Acids_Res,25452337,2015,http://dx.doi.org/10.1101/002824,303,0
+body,Nucleic_Acids_Res,25452337,2015,https://doi.org/10.1101/002824,303,0
 body,BMC_Genomics,26169280,2015,www.genome.jp,-1,0
 body,Nucleic_Acids_Res,18003657,2008,www.gmod.org,-1,1
 body,Nucleic_Acids_Res,26687719,2016,https://twitter.com/ensembl,301,0
@@ -20137,7 +20137,7 @@ body,BMC_Genomics,20920358,2010,http://www.broadinstitute.org/,301,1
 body,BMC_Syst_Biol,19154620,2009,http://www.flight.licr.org/,-1,0
 body,Nat_Methods,25194848,2014,www.cni.stanford.edu,-1,0
 body,Bioinformatics,21685106,2011,http://www-01.ibm.com/software/integration/optimization/cplex-optimizer/,301,0
-body,Genome_Biol,25886852,2015,http://dx.doi.org/10.6084/m9.figshare.1154010,303,0
+body,Genome_Biol,25886852,2015,https://doi.org/10.6084/m9.figshare.1154010,303,0
 body,BMC_Bioinformatics,19087293,2008,http://www.zcni.zju.edu.cn/en/db_peej.htm,404,1
 body,Nucleic_Acids_Res,25883154,2015,http://cytoscape.github.io/cytoscape.js/,301,0
 body,Nucleic_Acids_Res,27694308,2016,http://www.bioimaging-center.uni-konstanz.de,301,0
@@ -20920,7 +20920,7 @@ body,PLoS_Comput_Biol,22194678,2011,http://accelrys.com/,200,1
 body,BMC_Genomics,28747151,2017,www.nanoporetech.com,-1,0
 body,Nucleic_Acids_Res,23203867,2013,http://ophid.utoronto.ca/networx/singleid,302,0
 body,Bioinformatics,20624783,2010,http://www.ncbi.nlm.nih.gov/collab/FT/,301,0
-body,BMC_Genomics,26138817,2015,http://dx.doi.org/10.6084/m9.figshare.726136,303,0
+body,BMC_Genomics,26138817,2015,https://doi.org/10.6084/m9.figshare.726136,303,0
 body,BMC_Genomics,24984568,2014,https://genomevolution.org/CoGe/,302,1
 body,Nucleic_Acids_Res,17151077,2007,http://pga.gs.washington.edu,200,1
 body,Genome_Biol,27468850,2016,https://en.wikipedia.org/wiki/Thermus_aquaticus,301,0
@@ -21040,7 +21040,7 @@ body,BMC_Genomics,25467400,2014,http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?ac
 body,Nucleic_Acids_Res,24369421,2014,http://motif.bmi.ohio-state.edu/GESS_Web/,-1,0
 body,PLoS_Comput_Biol,24901223,2014,https://bitbucket.org/mkuhn/ccalign,301,0
 body,BMC_Bioinformatics,18315861,2008,ftp://ftp.sanger.ac.uk/pub/yeast/pombe/CDS_bases/ALL_CDS_bases,-1,0
-body,Genome_Biol,25908251,2015,http://dx.doi.org/10.5061/dryad.52hj2,303,0
+body,Genome_Biol,25908251,2015,https://doi.org/10.5061/dryad.52hj2,303,0
 body,PLoS_Comput_Biol,23055912,2012,http://elm.eu.org/elms/browse_instances.html,302,0
 body,BMC_Genomics,21269513,2011,http://www.ensembl.org/info/docs/api/compara/index.html,302,1
 body,BMC_Genomics,20028505,2009,http://www.ornl.gov/TechResources/Human_Genome/project/50yr.html,301,0
@@ -21422,7 +21422,7 @@ body,PLoS_Comput_Biol,27662185,2016,https://www.bioconductor.org/packages/releas
 body,Nucleic_Acids_Res,21051339,2011,www.w3.org/RDF/,-1,1
 body,BMC_Bioinformatics,19102773,2008,http://www.rppacentral.org/,-1,0
 body,Bioinformatics,27551105,2016,http://www.rcsb.org/pdb/chromosome.do,200,0
-body,PLoS_Comput_Biol,28945740,2017,http://dx.doi.org/10.5061/dryad.pd40m,303,0
+body,PLoS_Comput_Biol,28945740,2017,https://doi.org/10.5061/dryad.pd40m,303,0
 body,PLoS_Comput_Biol,25928184,2015,http://www.bbsrc.ac.uk/funding/internationalfunding/nsfbio-lead-agency-pilot.aspx,301,0
 body,BMC_Bioinformatics,18315850,2008,http://antigen.i2r.a-star.edu.sg/hh/HTML/faq.html#Q5,-1,0
 body,BMC_Genomics,28105925,2016,http://www.biomedcentral.com/bmcsystbiol/supplements/9/S2,301,0
@@ -21468,7 +21468,7 @@ body,Genome_Biol,NA,2005,http://genomebiology.com/reports/F1000/gb-2005-6-12-362
 body,BMC_Genomics,24965948,2014,http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE58367,301,0
 body,BMC_Bioinformatics,12493080,2002,http://www.proteinstrukturfabrik.de,200,0
 body,BMC_Genomics,21595870,2011,http://cnrgv.toulouse.inra.fr/en/library/barley,301,0
-body,PLoS_Comput_Biol,26599213,2015,http://dx.doi.org/10.5281/zenodo.18898,303,0
+body,PLoS_Comput_Biol,26599213,2015,https://doi.org/10.5281/zenodo.18898,303,0
 body,Nat_Methods,24122041,2013,ftp.uniprot.org,-1,0
 body,Nucleic_Acids_Res,18442988,2008,http://crispr.u-psud.fr/CRISPRcompar/index.php,403,0
 body,BMC_Bioinformatics,19534743,2009,http://www.ebioinformatics.org/ebiox/,301,0
@@ -22226,7 +22226,7 @@ body,BMC_Bioinformatics,22151573,2011,http://www.cisd.ethz.ch/software/openBIS,-
 body,BMC_Genomics,19630942,2009,http://pipmaker.bx.psu.edu/cgi-bin/multipipmaker,200,0
 body,BMC_Bioinformatics,20819233,2010,http://www.pathwayapi.com/api/API_GetDBPathways.php?DatabaseName=KEGG,404,0
 body,BMC_Genomics,28870170,2017,http://www.ncbi.nlm.nih.gov/nuccore/AYRD00000000,301,0
-body,BMC_Genomics,25216596,2014,http://doi.org/10.1594/PANGAEA.833705,303,0
+body,BMC_Genomics,25216596,2014,https://doi.org/10.1594/PANGAEA.833705,303,0
 body,BMC_Genomics,26017153,2015,http://figshare.com/,301,1
 body,BMC_Bioinformatics,17945017,2007,http://www.ebi.ac.uk/Tools/picr/client/picr_demo.zip,200,0
 body,Bioinformatics,19478014,2009,http://www.jenner.ac.uk/AntiJen/,404,0
@@ -22284,7 +22284,7 @@ body,Nucleic_Acids_Res,26896799,2016,https://cran.r-project.org/web/packages/inT
 body,BMC_Bioinformatics,19758464,2009,http://www.kinase.com/kinbase,301,1
 body,Nucleic_Acids_Res,17085479,2007,http://java.sun.com/products/servlet/,301,1
 body,Nucleic_Acids_Res,22645320,2012,http://www.systembio.com/services/microrna/oncomir-collection,302,0
-body,BMC_Genomics,24438217,2014,http://doi.org/10.5061/dryad.gs135,303,0
+body,BMC_Genomics,24438217,2014,https://doi.org/10.5061/dryad.gs135,303,0
 body,Nucleic_Acids_Res,24304894,2014,http://cansar.icr.ac.uk/cansar/documentation/,200,1
 body,PLoS_Comput_Biol,16846250,2006,http://www.rcsb.org/pdb,302,1
 body,Nucleic_Acids_Res,17284462,2007,http://recombineering.ncifcrf.gov/Protocol.asp,-1,0
@@ -22309,7 +22309,7 @@ body,PLoS_Comput_Biol,23028268,2012,http://webcast.berkeley.edu,200,0
 body,Nucleic_Acids_Res,18974185,2009,http://cassandra.visac.uq.edu.au/zf,-1,0
 body,Nucleic_Acids_Res,NA,2008,http://www.oxfordjournals.org/ethicalpolicies.html,302,1
 body,PLoS_Comput_Biol,24722319,2014,http://subst-bma.googlecode.com/,404,0
-body,BMC_Genomics,23594279,2013,http://dx.doi.org/10.1186/1471-2164-12-604,303,0
+body,BMC_Genomics,23594279,2013,https://doi.org/10.1186/1471-2164-12-604,303,0
 body,Nucleic_Acids_Res,21572104,2011,http://www.bhsai.org/downloads/quartets/quartets_prokaryotes_orthologs.tar.gz,302,0
 body,BMC_Genomics,26581393,2015,https://lipm-browsers.toulouse.inra.fr/pub/xanthomix/,301,1
 body,BMC_Genomics,26335922,2015,http://web.expasy.org/docs/swiss-prot_guideline.html,200,1
@@ -22434,7 +22434,7 @@ body,Nucleic_Acids_Res,23716643,2013,https://github.com/BGSU-RNA/,301,0
 body,BMC_Genomics,24079827,2013,http://genome.gsc.riken.jp/plessy-20130430/find_strand_invasion-20130307.pl,200,0
 body,Bioinformatics,19689959,2009,http://www.heliagene.org,301,1
 body,BMC_Genomics,25380807,2014,http://www.lrrfinder.com/,200,0
-body,BMC_Genomics,27604083,2016,http://dx.doi.org/10.5061/dryad.b34s4,303,0
+body,BMC_Genomics,27604083,2016,https://doi.org/10.5061/dryad.b34s4,303,0
 body,BMC_Genomics,25887517,2015,http://iae.fafu.edu.cn/DBM/family/PxGSTs.php,200,1
 body,Bioinformatics,19357099,2009,http://bowtie-bio.sourceforge.net/manual.shtml,200,1
 body,Nucleic_Acids_Res,16204448,2005,http://www.piercenet.com,301,0
@@ -22927,7 +22927,7 @@ body,Nucleic_Acids_Res,25332394,2015,http://www.genenames.org/rna/LNCRNA,301,0
 body,Nucleic_Acids_Res,24068555,2014,ftp.wormbase.org,-1,1
 body,Nucleic_Acids_Res,17537827,2007,http://share.gene.com/mutation_classification,-1,0
 body,Nucleic_Acids_Res,17151072,2007,http://genome.wustl.edu/tools/software/overgo.cgi,301,1
-body,BMC_Genomics,24734872,2014,http://doi.org/10.5061/dryad.rc6m9,303,0
+body,BMC_Genomics,24734872,2014,https://doi.org/10.5061/dryad.rc6m9,303,0
 body,Nucleic_Acids_Res,25934797,2015,http://phantomjs.org,200,1
 body,BMC_Genomics,21639908,2011,http://www.peptideatlas.org/builds/honeybee/,200,1
 body,PLoS_Comput_Biol,18369428,2008,http://www.scivee.tv,403,1
@@ -22951,7 +22951,7 @@ body,BMC_Bioinformatics,20630057,2010,http://informatics.systemsbiology.net/info
 body,Nucleic_Acids_Res,19502494,2009,http://bioinfo.cipf.es/gesbap/www/index.jsp,302,0
 body,Nucleic_Acids_Res,20965964,2011,http://openbabel.org/wiki/FP4,200,0
 body,Nucleic_Acids_Res,27789705,2017,https://bioconda.github.io,200,1
-body,BMC_Genomics,26694822,2015,http://dx.doi.org/10.5061/dryad.t80d3,303,0
+body,BMC_Genomics,26694822,2015,https://doi.org/10.5061/dryad.t80d3,303,0
 body,BMC_Genomics,20003445,2009,http://www.fluxus-engineering.com/,200,0
 body,PLoS_Comput_Biol,21966263,2011,http://bioinformatics.cs.vt.edu/~murali/software/gain,301,0
 body,Nucleic_Acids_Res,26243776,2015,http://hcv.lanl.gov/content/sequence/ELIMDUPES/elimdupes.html,302,0
@@ -23078,7 +23078,7 @@ body,BMC_Genomics,24767513,2014,http://medicago.org/genome/IMGAG/,301,0
 body,Nucleic_Acids_Res,22053088,2012,http://rna.tbi.univie.ac.at/egi-bin/RNAfold.cgi,404,0
 body,Bioinformatics,19091771,2009,http://www.genenetwork.org/genotypes/BXD.geno,200,1
 body,BMC_Bioinformatics,27627880,2016,https://dtai.cs.kuleuven.be/clus/hmcdatasets/,302,0
-body,BMC_Genomics,25023612,2014,http://dx.doi.org/10.6070/H4NV9G6V,303,0
+body,BMC_Genomics,25023612,2014,https://doi.org/10.6070/H4NV9G6V,303,0
 body,Nucleic_Acids_Res,17766929,2007,http://cmr.tigr.org/tigr-scripts/CMR/shared/AnnotationSearch.cgi,302,0
 body,BMC_Genomics,19671175,2009,http://viromics.washington.edu,-1,0
 body,BMC_Genomics,24912738,2014,http://www.ncbi.nlm.nih.gov/bioproject/PRJNA219226,301,0
@@ -23192,7 +23192,7 @@ body,Bioinformatics,23329413,2013,http://rnaseq.crg.es/project/HBM/tab/experimen
 body,PLoS_Comput_Biol,21589886,2011,http://www.chbmeng.ohio-state.edu/~feinberg/crntwin/,302,1
 body,BMC_Genomics,25408241,2014,http://www.atgc.org/SeqsExtractor/,200,0
 body,BMC_Genomics,21143797,2010,http://wilab.inha.ac.kr/GeneNetFinder/supplements_1.htm,200,0
-body,PLoS_Comput_Biol,28545068,2017,http://dx.doi.org/10.21227/H2901H,303,0
+body,PLoS_Comput_Biol,28545068,2017,https://doi.org/10.21227/H2901H,303,0
 body,Nucleic_Acids_Res,15608269,2005,http://www.w3.org/,200,1
 body,BMC_Syst_Biol,24885538,2014,http://www.unc.edu/~farkouh/usefull/chi.html,404,0
 body,BMC_Genomics,24215720,2013,http://www.ebi.ac.uk/IPI/,301,1
@@ -23897,7 +23897,7 @@ body,BMC_Bioinformatics,19210776,2009,http://research.umbc.edu/~erill,301,0
 body,BMC_Genomics,26493315,2015,www.grenoble.prabi.fr/obiwarehouse/unipathway,-1,0
 body,BMC_Genomics,15369602,2004,http://www.genome.wi.mit.edu/cgi-bin/primer/primer3_www.cgi,404,1
 body,BMC_Bioinformatics,12487631,2002,http://www.ncbi.nlm.nih.gov/PMGifs/Genomes/PDB_bact.html,301,0
-body,BMC_Genomics,26556056,2015,http://doi.org/10.15454/1.44543859671938E12,303,1
+body,BMC_Genomics,26556056,2015,https://doi.org/10.15454/1.44543859671938E12,303,1
 body,BMC_Bioinformatics,28764645,2017,http://github.com/txje/sequence-bias-adjustment,301,0
 body,Nucleic_Acids_Res,17151068,2007,http://www.gmod.org/flashgviewer/,404,0
 body,BMC_Genomics,22424262,2012,http://forestgen.ffpri.affrc.go.jp/en/info_cj.html,200,0
@@ -23992,7 +23992,7 @@ body,PLoS_Comput_Biol,28640814,2017,www.uqtr.ca/LaboMarcGermain,-1,0
 body,BMC_Bioinformatics,28659129,2017,https://sourceforge.net/projects/slmsuite,301,0
 body,BMC_Genomics,22646700,2012,http://funcgen.vectorbase.org/gdav,302,0
 body,Nucleic_Acids_Res,15980527,2005,http://jfree.org/jfreechart,301,1
-body,PLoS_Comput_Biol,25188426,2014,http://dx.doi.org/10.6084/m9.figshare.1119727,303,0
+body,PLoS_Comput_Biol,25188426,2014,https://doi.org/10.6084/m9.figshare.1119727,303,0
 body,Nucleic_Acids_Res,16381847,2006,http://www.efamily.org.uk,302,0
 body,PLoS_Comput_Biol,29023441,2017,http://gender-api.com,301,0
 body,PLoS_Comput_Biol,17907796,2007,http://www.ncbi.nlm.nih.gov/GenBank,301,1
@@ -24207,7 +24207,7 @@ body,BMC_Syst_Biol,23281790,2012,http://www.agre.org,302,1
 body,Nucleic_Acids_Res,23143104,2013,http://www.stanford.edu/group/nolan/protocols/pro_helper_dep.html,301,0
 body,Nucleic_Acids_Res,23361460,2013,http://consurftest.tau.ac.il/,503,0
 body,BMC_Genomics,15113398,2004,http://www.prostategenomics.org,302,1
-body,BMC_Genomics,27577050,2016,http://dx.doi.org/10.5061/dryad.rg22j,303,0
+body,BMC_Genomics,27577050,2016,https://doi.org/10.5061/dryad.rg22j,303,0
 body,BMC_Bioinformatics,15960838,2005,http://www.coli.uni-sb.de/~thorsten/tnt/,301,0
 body,BMC_Bioinformatics,19674444,2009,http://www.mrc.gm,200,1
 body,Nucleic_Acids_Res,17932064,2008,http://www.google.com/apis/maps/,301,0
@@ -24456,7 +24456,7 @@ body,Nucleic_Acids_Res,15985683,2005,http://www.bioinfo.rpi.edu/applications/mfo
 body,Nucleic_Acids_Res,20167639,2010,http://bit.ly/85Hhgd,301,0
 body,BMC_Genomics,28095783,2017,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63774,301,0
 body,BMC_Genomics,18442384,2008,http://bioinformatics.upmc.edu/SKEW/index.html,-1,0
-body,BMC_Genomics,25341737,2014,http://dx.doi.org/10.5061/dryad.qn474,303,1
+body,BMC_Genomics,25341737,2014,https://doi.org/10.5061/dryad.qn474,303,1
 body,Nucleic_Acids_Res,21062807,2011,www.nlm.nih.gov,-1,0
 body,BMC_Bioinformatics,25420551,2014,http://www.sci.unisannio.it/docenti/rampone/,200,0
 body,BMC_Genomics,28870170,2017,http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-717,302,0
@@ -24720,7 +24720,7 @@ body,PLoS_Comput_Biol,26098109,2015,http://klustakwik.sourceforge.net,200,0
 body,Genome_Biol,27122015,2016,http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61242,301,0
 body,Nucleic_Acids_Res,25378340,2015,http://europepmc.org/orcid/import,200,0
 body,BMC_Genomics,25879764,2015,https://vamps.mbl.edu,301,0
-body,Nucleic_Acids_Res,25414342,2014,http://dx.doi.org/10.6084/m9.figshare.1197171.,404,0
+body,Nucleic_Acids_Res,25414342,2014,https://doi.org/10.6084/m9.figshare.1197171.,404,0
 body,Nucleic_Acids_Res,17576674,2007,http://eurogentec.com,301,1
 body,Nucleic_Acids_Res,21609950,2011,http://www.clusterresources.com/products/maui/docs/pbsintegration.shtml,302,0
 body,Nucleic_Acids_Res,26578557,2016,ftp://ftp.kazusa.or.jp/pub/lotus/lotus_r2.5/,404,0
@@ -24751,7 +24751,7 @@ body,Nucleic_Acids_Res,16381974,2006,http://www.maizegenetics.net/gdpdm/,404,1
 body,BMC_Bioinformatics,20426836,2010,http://bioinformatics.ua.pt/quext,302,0
 body,BMC_Bioinformatics,25371041,2014,http://www.nhlbi.nih.gov/resources/ltrc.htm,302,0
 body,BMC_Syst_Biol,24725437,2014,http://www.mathworks.com/matlabcentral/answers/uploaded_files/5693/ODE_Solvers.zip,301,0
-body,BMC_Genomics,25159315,2014,http://doi.org/10.5061/dryad.4h56c,303,1
+body,BMC_Genomics,25159315,2014,https://doi.org/10.5061/dryad.4h56c,303,1
 body,BMC_Bioinformatics,15757517,2005,http://darwin.zoology.gla.ac.uk/~rpage/portal/,404,0
 body,BMC_Genomics,27566279,2016,http://hgdownload.cse.ucsc.edu/goldenPath/susScr3/bigZips/susScr3.fa.gz,200,0
 body,Nucleic_Acids_Res,19789270,2009,http://idconverter.bioinfo.cnio.es,302,0
@@ -25056,7 +25056,7 @@ body,BMC_Genomics,25765188,2015,http://www.melonomics.net,200,1
 body,Nucleic_Acids_Res,27634930,2017,http://khatrilab.stanford.edu/metacomparison,301,0
 body,Nucleic_Acids_Res,28334833,2017,http://broadinstitute.org/igv,301,0
 body,Bioinformatics,21911333,2011,http://beast.bio.ed.ac.uk,301,1
-body,BMC_Bioinformatics,26911566,2016,http://dx.doi.org/10.5281/zenodo.45543,303,0
+body,BMC_Bioinformatics,26911566,2016,https://doi.org/10.5281/zenodo.45543,303,0
 body,BMC_Genomics,28915793,2017,https://www.ncbi.nlm.nih.gov/genome/annotation_euk/process/,301,1
 body,BMC_Bioinformatics,22111509,2011,http://bioinfo.bti.cornell.edu/tool/iAssembler,301,0
 body,BMC_Genomics,18973671,2008,http://www.targetscan.org/vert_42,301,0
@@ -25366,7 +25366,7 @@ body,Bioinformatics,27307645,2016,http://www.genome.gov/,301,0
 body,BMC_Genomics,27161480,2016,http://www.ncbi.nlm.nih.gov/sra/SRX1046562%5Baccn%5D,301,0
 body,BMC_Bioinformatics,18371228,2008,http://www.bioperl.org/,301,1
 body,BMC_Bioinformatics,18947404,2008,http://webpages.uncc.edu/~rgharaib/nnfit/FitNN.zip,301,0
-body,BMC_Genomics,26728943,2016,http://dx.doi.org/10.5061/dryad.56986,303,0
+body,BMC_Genomics,26728943,2016,https://doi.org/10.5061/dryad.56986,303,0
 body,BMC_Genomics,27580854,2016,http://genome.uscs.edu,-1,0
 body,BMC_Genomics,25887273,2015,http://www.disgenet.org/,200,1
 body,BMC_Bioinformatics,25887958,2015,www.usu.edu/westcent/procyc,-1,0
@@ -25624,7 +25624,7 @@ body,Bioinformatics,23162087,2013,http://yh.genomics.org.cn/download.jsp,200,0
 body,Nucleic_Acids_Res,24214964,2014,http://cancergenome.nih.gov/abouttcga/policies/publicationguidelines,301,0
 body,Nucleic_Acids_Res,23175603,2013,http://compbio.mit.edu/encode-motifs/,200,0
 body,Nucleic_Acids_Res,16381842,2006,http://www.uniprot.org/support/docs/sp_news.html,301,0
-body,Genome_Biol,19090975,2008,http://dx.doi.org/10.1007/978-3-540-88562-7,303,0
+body,Genome_Biol,19090975,2008,https://doi.org/10.1007/978-3-540-88562-7,303,0
 body,Nucleic_Acids_Res,18927114,2009,http://www.1000genomes.org/page.php,301,1
 body,BMC_Bioinformatics,20932336,2010,http://www.ficcs.org/data/data-files/,-1,0
 body,BMC_Genomics,22214349,2012,http://www.strawberrygenome.org,301,0
@@ -25652,7 +25652,7 @@ body,Nucleic_Acids_Res,19398429,2009,http://atol.sdsc.edu,-1,0
 body,Genome_Biol,26653294,2015,http://amigo.geneontology.org/rte,200,1
 body,Nucleic_Acids_Res,16547198,2006,http://chimiotheque-nationale.enscm.fr,-1,0
 body,PLoS_Comput_Biol,27764089,2016,https://www.futurelearn.com/courses/the-science-of-medicines,301,0
-body,BMC_Genomics,25311640,2014,http://dx.doi.org/10.6070/H4NG4NK5,303,0
+body,BMC_Genomics,25311640,2014,https://doi.org/10.6070/H4NG4NK5,303,0
 body,Nat_Methods,22688413,2012,http://hmpdacc.org/HMMCP,302,1
 body,Nucleic_Acids_Res,25104025,2014,http://www.ncbi.nlm.nih.gov/blast/html/megablast.html,301,0
 body,BMC_Genomics,21699715,2011,http://disulfind.dsi.unifi.it,200,0
@@ -26009,7 +26009,7 @@ body,Nat_Biotechnol,27159373,2016,https://sourceforge.net/projects/hitselect/,30
 body,BMC_Genomics,25879806,2015,http://www.miru-vntrplus.org/,200,1
 body,Bioinformatics,24215022,2014,http://www.illumina.com/platinumgenomes/with,301,0
 body,BMC_Syst_Biol,19454027,2009,http://stagbeetle.animal.uiuc.edu/Beehive/,404,0
-body,PLoS_Comput_Biol,25768983,2015,http://dx.doi.org/10.6084/m9.figshare.1120663,303,0
+body,PLoS_Comput_Biol,25768983,2015,https://doi.org/10.6084/m9.figshare.1120663,303,0
 body,Bioinformatics,21258063,2011,ftp://ftp.ncbi.nih.gov/refseq/H_sapiens/mRNA_Prot/human.rna.gbff.gz,301,0
 body,BMC_Bioinformatics,28545462,2017,http://cic.scu.edu.cn/bioinformatics/predict_ppi/default.html,200,0
 body,BMC_Genomics,18954448,2008,ftp://ftp.ncbi.nlm.nih.gov/snp/organisms/human_9606/database/organism_data,301,0
@@ -26720,7 +26720,7 @@ body,Nucleic_Acids_Res,15980566,2005,www.bioperl.org,-1,1
 body,BMC_Genomics,25432521,2014,http://www.PremierBiosoft.com,200,0
 body,BMC_Bioinformatics,25128017,2014,http://bejerano.stanford.edu/help/display/GREAT/Genes,200,0
 body,Genome_Biol,27286965,2016,https://github.com/DRL/GenomeBiology2016_globodera_rostochiensis,301,1
-body,PLoS_Comput_Biol,24098098,2013,http://dx.doi.org/10.6084/m9.figshare.765452,303,0
+body,PLoS_Comput_Biol,24098098,2013,https://doi.org/10.6084/m9.figshare.765452,303,0
 body,Genome_Med,22830651,2012,http://wannovar.usc.edu/,200,1
 body,BMC_Genomics,25081589,2014,http://training.bioinformatics.ucdavis.edu/docs/2013/02/bootcamp/galaxy/qa-and-i.html,301,0
 body,BMC_Bioinformatics,20137077,2010,http://atlasgeneticsoncology.org/,200,1
@@ -26743,7 +26743,7 @@ body,Nucleic_Acids_Res,23396444,2013,http://biomart.org/,200,0
 body,Nucleic_Acids_Res,16845010,2006,http://genealign.hccvs.hc.edu.tw/genealign_help.htm,-1,0
 body,BMC_Genomics,26502986,2015,http://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi/,200,1
 body,BMC_Bioinformatics,21569281,2011,http://code.google.com/p/writeback/,405,0
-body,BMC_Genomics,27473854,2016,http://dx.doi.org/10.1186/s12864-016-2465-0,303,0
+body,BMC_Genomics,27473854,2016,https://doi.org/10.1186/s12864-016-2465-0,303,0
 body,Nucleic_Acids_Res,15886393,2005,http://dbtss.hgc.jp/samp_home.html,301,1
 body,PLoS_Comput_Biol,NA,2007,http://cl.sdsc.edu,200,0
 body,PLoS_Comput_Biol,23300416,2012,http://bioportal.bioontology.org/recommender,200,0
@@ -27460,7 +27460,7 @@ body,Genome_Med,27562213,2016,http://www.hufflab.org/software/VARPRISM/,405,0
 body,BMC_Bioinformatics,18854055,2008,ftp://pbil.univ-lyon1.fr/pub/logiciel/Optimism,404,0
 body,Nucleic_Acids_Res,17526528,2007,http://www.bioinfo.tsinghua.edu.cn/%7Ehn/CTKPred/index.html,-1,0
 body,Nucleic_Acids_Res,16971460,2006,http://www.jens-meiler.de/,200,0
-body,Genome_Biol,27139377,2016,http://dx.doi.org/10.5281/zenodo.45900,303,0
+body,Genome_Biol,27139377,2016,https://doi.org/10.5281/zenodo.45900,303,0
 body,Nucleic_Acids_Res,15661851,2005,http://www.biophys.kyoto-u.ac.jp/~katoh/programs/align/mafft/suppl/,404,1
 body,Nucleic_Acids_Res,15608201,2005,http://www.ebi.ac.uk/GenomeReviews,301,1
 body,Nucleic_Acids_Res,15608210,2005,http://BioCyc.org/ecocyc/release-notes.shtml,302,0
@@ -27534,7 +27534,7 @@ body,BMC_Bioinformatics,27884103,2016,https://sourceforge.net/projects/amplimeth
 body,BMC_Genomics,21310019,2011,http://www.animalgenome.org/cgi-bin/QTLdb/BT/index,301,1
 body,Bioinformatics,27423893,2016,http://shiny.rstudio.com,200,1
 body,Nucleic_Acids_Res,15608166,2005,http://www.cs.ualberta.ca/~bioinfo/PA/,301,0
-body,Bioinformatics,28088763,2017,http://dx.doi.org/10.5281/zenodo.60139,303,0
+body,Bioinformatics,28088763,2017,https://doi.org/10.5281/zenodo.60139,303,0
 body,BMC_Genomics,27829353,2016,http://www.ars.usda.gov/main/docs.htm?docid=23813,301,0
 body,BMC_Genomics,26920390,2016,http://bgi-international.com/us/?id=,301,0
 body,Nucleic_Acids_Res,17726045,2007,http://www.uni-duesseldorf.de/rna/,301,0
@@ -27688,7 +27688,7 @@ body,BMC_Genomics,21211035,2011,http://www.broadinstitute.org/gsea/index.jsp,301
 body,BMC_Bioinformatics,26817459,2016,https://github.com/CellProfiler/CPCharm,301,0
 body,BMC_Genomics,15453915,2004,http://splicenest.molgen.mpg.de/Hs7/tissue-tumor-specificity.html,403,0
 body,BMC_Genomics,19958493,2009,http://www.biomedcentral.com/1471-2105/10?issue=S15,404,1
-body,Genome_Biol,26936376,2016,http://dx.doi.org/10.5281/zenodo.45513,303,0
+body,Genome_Biol,26936376,2016,https://doi.org/10.5281/zenodo.45513,303,0
 body,PLoS_Comput_Biol,19696881,2009,http://cbr.jic.ac.uk/dicks/software/mpp/index.html,200,0
 body,PLoS_Comput_Biol,19876381,2009,http://bioinf.ibun.unal.edu.co/servicios/BLEE/,200,0
 body,BMC_Genomics,19650930,2009,http://genome.jgi-psf.org/finished_microbes/decar/decar.home.html,302,0
@@ -27942,7 +27942,7 @@ body,BMC_Bioinformatics,25420514,2014,https://github.com/ANGSD,301,0
 body,Nucleic_Acids_Res,26117540,2015,http://fantom.gsc.riken.jp/5/data,200,0
 body,PLoS_Comput_Biol,21490721,2011,www.scitech.com.au,-1,0
 body,BMC_Genomics,25214207,2014,http://koalagenome.org,200,0
-body,Nat_Methods,28394336,2017,http://dx.doi.org/xx.xxxx/protex.yyyy.xxx,404,0
+body,Nat_Methods,28394336,2017,https://doi.org/xx.xxxx/protex.yyyy.xxx,404,0
 body,BMC_Genomics,28938868,2017,https://github.com/stql/start/wiki/Install-START-in-your-own-cluster,301,1
 body,Nucleic_Acids_Res,18974181,2009,http://www.biocyc.org/webQueryDoc.html,302,0
 body,Nucleic_Acids_Res,21062828,2011,http://www.brenda-enzymes.org/enzyme_proposal/display_submissions.php,500,0
@@ -28196,7 +28196,7 @@ body,BMC_Genomics,26169061,2015,http://sourceforge.net/apps/mediawiki/dnaa/,301,
 body,Nat_Biotechnol,27701403,2016,http://centipede.uchicago.edu/,200,1
 body,BMC_Bioinformatics,16872501,2006,http://kinemage.biochem.duke.edu/software/king.php,200,1
 body,PLoS_Comput_Biol,17907791,2007,http://smcg.ccg.unam.mx/,200,0
-body,Nucleic_Acids_Res,17478501,2007,http://dx.doi.org/10.2210/pdb1vrg/pdb,303,0
+body,Nucleic_Acids_Res,17478501,2007,https://doi.org/10.2210/pdb1vrg/pdb,303,0
 body,Nucleic_Acids_Res,23625967,2013,http://hgdownload.cse.ucsc.edu/goldenPath/hg18/multiz44way/,200,0
 body,Bioinformatics,25172923,2014,http://www.genomesize.com/result_species.php?id=4474,200,0
 body,Nucleic_Acids_Res,23143106,2013,http://ecolistudentportal.org,200,0
@@ -29066,7 +29066,7 @@ body,BMC_Genomics,26466991,2015,http://genome.sph.umich.edu/wiki/BamUtil,302,1
 body,BMC_Bioinformatics,20438641,2010,http://www.statgen.org/main/index.php/Downloads/Downloads,302,1
 body,BMC_Bioinformatics,18761753,2008,http://jgap.sourceforge.net/,200,0
 body,Nucleic_Acids_Res,20167639,2010,www.biobrickparts.org,-1,0
-body,BMC_Genomics,24969089,2014,http://doi.org/10.5061/dryad.12773,303,0
+body,BMC_Genomics,24969089,2014,https://doi.org/10.5061/dryad.12773,303,0
 body,Bioinformatics,20529902,2010,http://millar.bio.ed.ac.uk/data.htm,200,0
 body,Nucleic_Acids_Res,28472458,2017,http://pv.readthedocs.io/en/v1.8.1/index.html,200,0
 body,BMC_Bioinformatics,24766777,2014,http://www.few.vu.nl/~mavdwiel/ShrinkBayes.html,200,0
@@ -29198,7 +29198,7 @@ body,Nucleic_Acids_Res,17439961,2007,http://harvest.ucr.edu/,200,1
 body,BMC_Genomics,26076733,2015,http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE47093,301,0
 body,BMC_Genomics,26141111,2015,http://www.ncbi.nlm.nih.gov/bioproject/199690,301,0
 body,BMC_Genomics,21679437,2011,http://rapdb.dna.affrc.go.jp/download/index.html,404,0
-body,BMC_Syst_Biol,26935435,2016,https://dx.doi.org/10.6084/m9.figshare.2070124,303,0
+body,BMC_Syst_Biol,26935435,2016,https://doi.org/10.6084/m9.figshare.2070124,303,0
 body,Genome_Biol,25994056,2015,http://egg2.wustl.edu/roadmap/data/byFileType/chromhmmSegmentations/ChmmModels/coreMarks/jointModel/final/,200,0
 body,Nucleic_Acids_Res,22064857,2012,http://s.fungidb.org/pipeline_methods,301,0
 body,Nucleic_Acids_Res,18511464,2008,http://www.ebi.ac.uk/Tools/clustalw/index.html,301,1
@@ -29335,7 +29335,7 @@ body,PLoS_Comput_Biol,16322765,2005,http://www.ncbi.nlm.nih.gov/entrez/query.fcg
 body,BMC_Genomics,25056427,2014,http://snpsig.biofold.org/2013/docs/snp-sig-2013-programme.pdf,200,0
 body,PLoS_Comput_Biol,23505356,2013,http://bigwww.epfl.ch/sage/soft/watershed/index.html,200,0
 body,BMC_Bioinformatics,25474679,2014,http://csse.szu.edu.cn/staff/youzh/MCDPPI.zip,404,0
-body,BMC_Genomics,24529032,2014,http://doi.org/10.5061/dryad.pg2kb,303,0
+body,BMC_Genomics,24529032,2014,https://doi.org/10.5061/dryad.pg2kb,303,0
 body,Genome_Biol,12093372,2002,http://pombe.biols.susx.ac.uk/,-1,0
 body,Nucleic_Acids_Res,21036869,2011,www.droidb.org/ppisummary.jsp?gene_ids_for_imbrowser=FBgn#,-1,0
 body,Nucleic_Acids_Res,19858103,2010,http://www.genomics.org.cn/,200,0
@@ -29633,7 +29633,7 @@ body,Genome_Biol,16515725,2006,http://www.genome.jp/kegg/glycan,301,1
 body,BMC_Genomics,21114852,2010,http://aspendb.uga.edu/poparray,404,1
 body,BMC_Genomics,27356755,2016,https://sourceforge.net/projects/hotdriver/,301,0
 body,Nucleic_Acids_Res,25428351,2015,http://en.wikipedia.org/wiki/Sensitivity_and_specificity,301,0
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H4QJ7F83,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H4QJ7F83,303,0
 body,Nucleic_Acids_Res,26590264,2016,http://mutationaligner.org/api/domains,200,0
 body,BMC_Bioinformatics,29072141,2017,http://bioputer.mimuw.edu.pl/transcendence,301,0
 body,Nucleic_Acids_Res,21247882,2011,http://modencode.oicr.on.ca/fgb2/gbrowse/fly/,-1,1
@@ -30248,7 +30248,7 @@ body,BMC_Genomics,22759612,2012,http://jcclab.science.oregonstate.edu/node/view/
 body,BMC_Genomics,29096603,2017,www.adnid.fr,-1,0
 body,Genome_Biol,15186487,2004,http://www.keystonesymposia.org,200,0
 body,Nucleic_Acids_Res,20430828,2010,www.eyesopen.com,-1,0
-body,Genome_Biol,27139377,2016,http://dx.doi.org/10.5281/zenodo.45768,303,0
+body,Genome_Biol,27139377,2016,https://doi.org/10.5281/zenodo.45768,303,0
 body,BMC_Bioinformatics,20074352,2010,http://www.mirmaid.org,-1,1
 body,BMC_Genomics,25168356,2014,http://www.sanger.ac.uk/cgi-bin/blast/submitblast/Echinococcus,200,0
 body,Nucleic_Acids_Res,28431131,2017,http://dnaprodb.usc.edu/cgi-bin/contact,200,0
@@ -30295,7 +30295,7 @@ body,PLoS_Comput_Biol,22479173,2012,http://cbdm.mdc-berlin.de/tools/hippie/,200,
 body,BMC_Bioinformatics,20003433,2009,ftp://ftp.jgi-psf.org/pub/JGI_data,404,0
 body,BMC_Bioinformatics,28964254,2017,www.geminivirus.org,-1,0
 body,Genome_Med,26803900,2016,https://www.broadinstitute.org/mpg/goshifter/,301,0
-body,BMC_Genomics,25374366,2014,http://dx.doi.org/10.6070/H4GH9FWD,303,0
+body,BMC_Genomics,25374366,2014,https://doi.org/10.6070/H4GH9FWD,303,0
 body,BMC_Bioinformatics,16677390,2006,http://www.math.umass.edu/~conlon/research/BayesPoolMicro/,301,0
 body,BMC_Bioinformatics,21605356,2011,http://biostor.org/reference/n,-1,0
 body,Nucleic_Acids_Res,20100800,2010,www.cisred.org/c.elegans4/group_content_view?aid=,-1,0
@@ -30688,7 +30688,7 @@ body,Nucleic_Acids_Res,24880689,2014,http://www.abgent.com/sumoplot,200,1
 body,BMC_Genomics,25156522,2014,http://lifecenter.sgst.cn/schistosoma/en/schdownload.do,503,1
 body,BMC_Bioinformatics,28693417,2017,http://genome.zju.edu.cn/software/ace/,200,0
 body,PLoS_Comput_Biol,27308864,2016,http://isolate.fusariumdb.org,200,0
-body,BMC_Bioinformatics,25887972,2015,http://dx.doi.org/10.5061.dryad.kh886,404,1
+body,BMC_Bioinformatics,25887972,2015,https://doi.org/10.5061.dryad.kh886,404,1
 body,Nucleic_Acids_Res,17148474,2007,http://racerx00.tamu.edu/bee_resources.html,-1,0
 body,Nucleic_Acids_Res,23788679,2013,http://gibk26.bio.kyutech.ac.jp/jouhou/image/dna-protein/all/all.html,-1,0
 body,Genome_Biol,27654999,2016,https://github.com/mvaniterson/wbccPredictor,301,1
@@ -30919,7 +30919,7 @@ body,BMC_Genomics,24252253,2013,http://www.personal.psu.edu/fsl/ExpCentral,301,0
 body,BMC_Genomics,27301885,2016,http://csb5.github.io/lofreq/,200,0
 body,Nucleic_Acids_Res,17526528,2007,http://bioinf.xmu.edu.cn/software/cytosvm/PredictReceptor.php,404,0
 body,PLoS_Comput_Biol,26488417,2015,www.mdanalysis.org,-1,0
-body,PLoS_Comput_Biol,23675291,2013,http://dx.doi.org/10.5061/dryad.55t60,303,0
+body,PLoS_Comput_Biol,23675291,2013,https://doi.org/10.5061/dryad.55t60,303,0
 body,BMC_Genomics,22827772,2012,http://code.google.com/p/max-accuracy-genetic-pred/,405,0
 body,Genome_Biol,28219438,2017,http://www.ncbi.nlm.nih.gov/sra/SRX202873,301,0
 body,Bioinformatics,20562413,2010,http://www.ensembl.org/info/docs/variation/index.html,302,0
@@ -31371,7 +31371,7 @@ body,Nucleic_Acids_Res,21646339,2011,http://samtools.sourceforge.net/tabix.shtml
 body,BMC_Genomics,20579359,2010,http://genomes.ucsd.edu/leechmaster/transcriptome-paper/,200,0
 body,BMC_Bioinformatics,22876807,2012,http://www.spec.org/cpu2006/results/cpu2006.html,200,0
 body,BMC_Genomics,25253444,2014,http://asia.ensembl.org/index.html,302,1
-body,PLoS_Comput_Biol,27105344,2016,http://dx.doi.org/10.5061/dryad.hf93c,303,0
+body,PLoS_Comput_Biol,27105344,2016,https://doi.org/10.5061/dryad.hf93c,303,0
 body,Nucleic_Acids_Res,18276646,2008,http://rsb.info.nih.gov/ij/index.html,301,1
 body,PLoS_Comput_Biol,17352530,2007,http://mendel.cs.rhul.ac.uk/mendel.php?topic=plantprom,-1,0
 body,Nucleic_Acids_Res,16006622,2005,http://www.rangueil.inserm.fr/IRESdatabase,-1,1
@@ -31495,7 +31495,7 @@ body,BMC_Genomics,21989191,2011,http://sdmc.i2r.astar.edu.sg/rp/ColonTumor/Colon
 body,Nucleic_Acids_Res,22362754,2012,http://mirna.jnu.ac.in/cidmirna/,-1,1
 body,BMC_Bioinformatics,21798033,2011,http://pelopas.uop.gr/~egian/VIP/index.html,302,0
 body,PLoS_Comput_Biol,19730672,2009,http://www.ihes.fr/~materials,404,0
-body,BMC_Genomics,25952680,2015,http://dx.doi.org/10.5061/dryad.tk2fn,303,0
+body,BMC_Genomics,25952680,2015,https://doi.org/10.5061/dryad.tk2fn,303,0
 body,BMC_Genomics,27189621,2016,http://imed.med.ucm.es/Tools/sias.html,200,1
 body,BMC_Genomics,25547158,2014,http://www.phagesdb.org,301,1
 body,BMC_Bioinformatics,26283601,2015,https://sourceforge.net/projects/canova/,301,0
@@ -31620,7 +31620,7 @@ body,PLoS_Comput_Biol,28968401,2017,https://www.nih.gov,301,0
 body,BMC_Genomics,23067000,2012,http://mfold.rit.albany.edu,301,0
 body,BMC_Bioinformatics,19038052,2008,http://www.broad.mit.edu/publications/broad991s,301,0
 body,PLoS_Comput_Biol,19911048,2009,http://cssb.biology.gatech.edu/skolnick/webservice/DBD-Threader/,404,1
-body,PLoS_Comput_Biol,27814353,2016,http://dx.doi.org/10.5061/dryad.92h5d,303,0
+body,PLoS_Comput_Biol,27814353,2016,https://doi.org/10.5061/dryad.92h5d,303,0
 body,BMC_Bioinformatics,12854978,2003,http://www.bitincka.com/ledion/matgat,-1,0
 body,Nucleic_Acids_Res,NA,2016,https://academic.oup.com/nar/subscribe,301,1
 body,BMC_Genomics,26475325,2015,http://genome.jgi-psf.org/Aurli1/Aurli1.home.html,302,0
@@ -32350,7 +32350,7 @@ body,BMC_Genomics,25081589,2014,http://www.bioconductor.org/packages/2.13/bioc/h
 body,Nucleic_Acids_Res,23125366,2013,ftp://ftp.xenbase.org/,-1,0
 body,BMC_Bioinformatics,25253206,2014,http://genome.ucf.edu/ProbeAlign,301,0
 body,Nucleic_Acids_Res,17132832,2007,http://firedb.bioinfo.cnio.es/GeneFun/results.html,404,0
-body,PLoS_Comput_Biol,25393548,2014,http://dx.doi.org/10.6084/m9.figshare.1029085,303,0
+body,PLoS_Comput_Biol,25393548,2014,https://doi.org/10.6084/m9.figshare.1029085,303,0
 body,Nucleic_Acids_Res,26762978,2016,https://www.addgene.org/static/cms/filer_public/95/12/951238bb-870a-42da-b2e8--5e38b37d4fe1/zhang_lab_grna_cloning_protocol.pdf,302,0
 body,BMC_Genomics,18652646,2008,http://www.itb.cnr.it/estree,301,0
 body,Nucleic_Acids_Res,27130947,2016,https://github.com/gem-pasteur/Integron_Finder/,301,0
@@ -32381,7 +32381,7 @@ body,BMC_Genomics,25471357,2014,http://mips.helmholtz-muenchen.de/funcatDB/,200,
 body,Genome_Biol,NA,2005,http://genomebiology.com/reports/F1000/gb-2005-6-12-362.asp#Kliebenstein,301,0
 body,Nucleic_Acids_Res,18096621,2008,http://pheasant.gsf.de/DEPARTMENT/dt40.html,-1,1
 body,Nucleic_Acids_Res,26527726,2016,www.inetbio.org/mousenet/,-1,0
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H4CC0XNB,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H4CC0XNB,303,0
 body,BMC_Genomics,24274039,2013,http://micr.vub.ac.be,200,1
 body,Nucleic_Acids_Res,28132031,2017,http://www.brainspan.org/static/download,200,0
 body,Nucleic_Acids_Res,28402567,2017,http://ciliate.org/,302,0
@@ -32449,7 +32449,7 @@ body,Nucleic_Acids_Res,23620291,2013,http://gwyddion.net,200,0
 body,PLoS_Comput_Biol,22876171,2012,https://sourceforge.net/projects/mctimme/,301,0
 body,Nucleic_Acids_Res,16381953,2006,http://db.apache.org/ojb/,200,1
 body,BMC_Bioinformatics,21554720,2011,http://bitbucket.org/mkuhn/stringtools/src/tip/prior_correction/discard_channels_cogs.py,301,0
-body,BMC_Genomics,25027790,2014,http://dx.doi.org/10.4225/08/535DB2C141C8A,303,1
+body,BMC_Genomics,25027790,2014,https://doi.org/10.4225/08/535DB2C141C8A,303,1
 body,Nucleic_Acids_Res,24782521,2014,http://github.com/CollasLab/edd,301,0
 body,Nucleic_Acids_Res,27924025,2017,http://www.brenda-enzymes.org/tutorial.php,200,0
 body,BMC_Genomics,26283093,2015,ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/,404,0
@@ -32938,7 +32938,7 @@ body,Nucleic_Acids_Res,19820115,2010,ftp://bioinformatics.ksu.edu/pub/BeetleBase
 body,Nucleic_Acids_Res,19502495,2009,http://www.dasmi.de,200,0
 body,Nucleic_Acids_Res,17537813,2007,http://mml.sjtu.edu.cn/MobilomeFINDER/ycv.htm,404,0
 body,Nucleic_Acids_Res,16738136,2006,http://www.wormbook.org,200,1
-body,BMC_Genomics,25408163,2014,http://doi.org/10.5061/dryad.h8j92,303,0
+body,BMC_Genomics,25408163,2014,https://doi.org/10.5061/dryad.h8j92,303,0
 body,Nucleic_Acids_Res,21646335,2011,http://gene3d.biochem.ucl.ac.uk/Gene3DDataServices/rest/GoFunctions/v9.1.0/superfamilies/2.10.10.10/TAS,503,0
 body,BMC_Genomics,29145801,2017,http://genome.jgi.doe.gov/Conpu1/Conpu1.home.html,302,0
 body,PLoS_Comput_Biol,16848638,2006,http://www.cocomac.org,-1,1
@@ -33036,7 +33036,7 @@ body,Nucleic_Acids_Res,16199750,2005,http://www.perl.org,200,1
 body,PLoS_Comput_Biol,16854211,2006,http://www.ebi.ac.uk/intact/,301,1
 body,Nucleic_Acids_Res,20460462,2010,http://casegroup.rutgers.edu/,200,0
 body,Bioinformatics,18586721,2008,http://theory.cs.uvic.ca/cos.html,-1,0
-body,PLoS_Comput_Biol,21079678,2010,http://dx.doi.org/10.5061/dryad.1922,303,0
+body,PLoS_Comput_Biol,21079678,2010,https://doi.org/10.5061/dryad.1922,303,0
 body,PLoS_Comput_Biol,22807659,2012,http://www.wtccc.org.uk/,301,1
 body,Bioinformatics,21450709,2011,http://bit.ly/ax0UWK,301,0
 body,BMC_Genomics,20302666,2010,http://www.hugo-international.org,200,0
@@ -33205,7 +33205,7 @@ body,BMC_Syst_Biol,24099179,2013,http://navicell.curie.fr/pages/guide.html,302,0
 body,BMC_Genomics,23834441,2013,http://blocks.fhcrc.org/blocks/codehop.html,200,0
 body,Genome_Biol,12620114,2003,http://www.hutchison-mrc.cam.ac.uk/,301,0
 body,BMC_Bioinformatics,28732459,2017,http://crispulator.ucsf.edu,200,1
-body,Bioinformatics,28088763,2017,http://dx.doi.org/10.5281/zenodo.59897,303,0
+body,Bioinformatics,28088763,2017,https://doi.org/10.5281/zenodo.59897,303,0
 body,Nucleic_Acids_Res,17158163,2007,http://rsat.ccb.sickkids.ca/,-1,1
 body,BMC_Genomics,26334313,2015,http://www.css.msu.edu/varietytrials/soybean/Soybean_Home_Page.htm,302,0
 body,Nucleic_Acids_Res,19854941,2009,http://rna.ucsc.edu/rnacenter/xrna/xrna.html,200,1
@@ -33500,7 +33500,7 @@ body,BMC_Bioinformatics,23514033,2013,http://www.bbsoftware.co.uk/BBFlashBackExp
 body,BMC_Genomics,24219589,2013,http://www.ebi.ac.uk/ena/data/view/ERP002386,301,0
 body,BMC_Genomics,22257641,2012,http://www.lgtc.nl\GAPSS,-1,0
 body,PLoS_Comput_Biol,21998563,2011,https://scifinder.cas.org/scifinder,302,0
-body,BMC_Genomics,24417976,2014,http://doi.org/10.5061/dryad.np597,303,0
+body,BMC_Genomics,24417976,2014,https://doi.org/10.5061/dryad.np597,303,0
 body,PLoS_Comput_Biol,25375136,2014,http://www.robots.ox.ac.uk/~vgg/software/SelfSimilarity/,200,0
 body,PLoS_Comput_Biol,19578431,2009,http://amigo.geneontology.org/,302,1
 body,Nucleic_Acids_Res,22140100,2012,http://riodb.ibase.aist.go.jp/hgpd/sys_info/help.html#w120_gw,301,0
@@ -33838,7 +33838,7 @@ body,Nucleic_Acids_Res,24185701,2014,http://biochemie.web.med.uni-muenchen.de/YT
 body,Bioinformatics,25161240,2014,www.bioinf.manchester.ac.uk/naccess,-1,0
 body,Nucleic_Acids_Res,15886390,2005,http://yeastgenome.org,302,1
 body,BMC_Syst_Biol,21194434,2010,http://www.functionalnet.org/aranet/,200,0
-body,Genome_Biol,28870226,2017,http://doi.org/10.5281/zenodo.830056,303,0
+body,Genome_Biol,28870226,2017,https://doi.org/10.5281/zenodo.830056,303,0
 body,BMC_Genomics,26040196,2015,http://www.ebi.ac.uk/Tools/webservices/services/msa/muscle_soap,301,0
 body,PLoS_Comput_Biol,17319737,2007,http://www.shogun-toolbox.org,200,1
 body,Nucleic_Acids_Res,16162810,2005,http://www.tripos.com,301,1
@@ -33850,7 +33850,7 @@ body,Nucleic_Acids_Res,20947564,2011,www.expasy.org/viralzone/all_by_species/678
 body,Nucleic_Acids_Res,26578570,2016,http://planmine.mpi-cbg.de/planmine/PlanMine_Help.html#contig-identifier-naming-scheme,200,1
 body,Nat_Biotechnol,26258538,2015,http://ehp.niehs.nih.gov/1408775/,301,0
 body,BMC_Bioinformatics,20034383,2009,http://adios.tau.ac.il/DME,301,1
-body,PLoS_Comput_Biol,25393548,2014,http://dx.doi.org/10.6084/m9.figshare.1027609,303,0
+body,PLoS_Comput_Biol,25393548,2014,https://doi.org/10.6084/m9.figshare.1027609,303,0
 body,Nucleic_Acids_Res,28053115,2017,http://www.pacb.com/uncategorized/new-data-release-arabidopsis-assembly/,200,0
 body,BMC_Genomics,21352554,2011,http://faostat.fao.org,301,1
 body,Nucleic_Acids_Res,23729470,2013,http://weizhong-lab.ucsd.edu/cdhit_suite/cgi-bin/index.cgi,200,0
@@ -33864,7 +33864,7 @@ body,Nucleic_Acids_Res,26615198,2016,http://3dg.umassmed.edu/my5Cheatmap/heatmap
 body,PLoS_Comput_Biol,17983265,2007,http://www.mitoproteome.org,200,0
 body,Nucleic_Acids_Res,15980466,2005,ftp://ftp.arabidopsis.org/home/tair/Sequences/blast_datasets,-1,0
 body,BMC_Genomics,28347272,2017,ftp://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/footprints/jan2011/,200,0
-body,BMC_Genomics,27846808,2016,http://dx.doi.org/10.5061/dryad.5pv1k,303,0
+body,BMC_Genomics,27846808,2016,https://doi.org/10.5061/dryad.5pv1k,303,0
 body,BMC_Genomics,24341782,2013,http://www.phytozome.net/cotton.php,302,1
 body,PLoS_Comput_Biol,22028635,2011,www.ReplicationDomain.org,-1,0
 body,BMC_Genomics,19077264,2008,http://align.genome.jp,-1,1
@@ -33901,7 +33901,7 @@ body,PLoS_Comput_Biol,20975932,2010,http://code.google.com/p/non-centered-spike-
 body,PLoS_Comput_Biol,26001086,2015,www.llamp.net,-1,0
 body,PLoS_Comput_Biol,28640806,2017,https://github.com/dib-lab/khmer,301,0
 body,BMC_Bioinformatics,21627824,2011,http://www.openbioinformatics.org/penncnv/penncnv_tutorial_affy_gw6.html,302,1
-body,BMC_Genomics,26699528,2015,http://dx.doi.org/10.5061/,404,0
+body,BMC_Genomics,26699528,2015,https://doi.org/10.5061/,404,0
 body,BMC_Bioinformatics,25073721,2014,http://tdwg-rdf.googlecode.com/,404,0
 body,Bioinformatics,24665131,2014,http://www.reactome.org/biopax/48887Pathway991,301,0
 body,BMC_Bioinformatics,17241466,2007,http://rulai.cshl.edu/storm,301,0
@@ -34141,7 +34141,7 @@ body,BMC_Genomics,23497368,2013,http://gcpcr.grinfo.net/files/cr_files/gcpcr_fil
 body,BMC_Bioinformatics,26695733,2015,http://syrah.luar.dcc.ufmg.br/FluxMED,302,1
 body,Nucleic_Acids_Res,15980533,2005,http://evolution.genetics.washington.edu/phylip.html,200,1
 body,Nucleic_Acids_Res,18974179,2009,http://dictybase.org/promoters/query.html,200,0
-body,PLoS_Comput_Biol,28166222,2017,http://doi.org/10.5281/zenodo.250558,303,0
+body,PLoS_Comput_Biol,28166222,2017,https://doi.org/10.5281/zenodo.250558,303,0
 body,BMC_Bioinformatics,11707150,2001,http://www-igbmc.u-strasbg.fr/BioInfo/ClustalX/Top.html,301,1
 body,Nucleic_Acids_Res,24297257,2014,http://www.hgvs.org/dblist/dblist.html,404,0
 body,Nucleic_Acids_Res,18234719,2008,www.mrc-cpe.cam.ac.uk,-1,1
@@ -34341,7 +34341,7 @@ body,PLoS_Comput_Biol,19390613,2009,http://www.mitophenome.org,200,0
 body,BMC_Genomics,21791101,2011,http://cshprotocols.cshlp.org/cgi/content/full/2009/6/pdb.prot5237,301,0
 body,BMC_Bioinformatics,25519981,2014,http://yoric.mit.edu/dfbalab,200,1
 body,BMC_Genomics,26470872,2015,http://sites.psu.edu/axtell/software/cleaveland4/,403,0
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H4V9860T,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H4V9860T,303,0
 body,Nucleic_Acids_Res,16845016,2006,http://dockground.bioinformatics.ku.edu,302,1
 body,BMC_Genomics,25623424,2015,http://www.ebi.ac.uk/ena/data/view/SRR674059,301,0
 body,BMC_Genomics,25511286,2014,http://ggkbase.berkeley.edu/,200,1
@@ -34474,7 +34474,7 @@ body,BMC_Bioinformatics,15890080,2005,http://function.princeton.edu/GeneVAnD,301
 body,Nucleic_Acids_Res,25934797,2015,http://smpdb.ca/pathwhiz/guides,200,0
 body,BMC_Syst_Biol,24565409,2013,http://bioputer.mimuw.edu.pl/papers/enhancer_prediction,301,1
 body,BMC_Genomics,18831736,2008,http://www.ebi.ac.uk/asd/altsplice/humrel3-dist-data.html,301,0
-body,Genome_Biol,25886852,2015,http://dx.doi.org/10.6084/m9.figshare.1224365,303,0
+body,Genome_Biol,25886852,2015,https://doi.org/10.6084/m9.figshare.1224365,303,0
 body,BMC_Syst_Biol,25403319,2014,www.graphpad.com/quickcalcs/index.cfm,-1,0
 body,Nucleic_Acids_Res,27084938,2016,https://www.encodeproject.org/targets/,301,0
 body,BMC_Genomics,23324215,2013,http://cbr.jic.ac.uk/dicks/software/Grid_Map/,200,0
@@ -34756,7 +34756,7 @@ body,Nucleic_Acids_Res,26040700,2015,http://api.highcharts.com,302,1
 body,BMC_Genomics,22251412,2012,http://http:poplar.cgrb.oregonstate.edu,-1,0
 body,Bioinformatics,19420054,2009,www.genomatica.com,-1,0
 body,Nucleic_Acids_Res,15608162,2005,http://aosearch.cgb.ki.se,-1,0
-body,Nucleic_Acids_Res,27994038,2017,http://dx.doi.org/10.13140/RG.2.2.22940.49286,303,0
+body,Nucleic_Acids_Res,27994038,2017,https://doi.org/10.13140/RG.2.2.22940.49286,303,0
 body,BMC_Bioinformatics,19828077,2009,http://asp.uma.es/Protopia/index.jsp,-1,0
 body,Nucleic_Acids_Res,27899609,2017,https://github.com/LANL-Bioinformatics/edge,301,0
 body,Nucleic_Acids_Res,15728744,2005,http://www.gaussian.com,301,1
@@ -34849,7 +34849,7 @@ body,BMC_Genomics,27066897,2016,http://Rfam.sanger.ac.uk/,301,0
 body,BMC_Bioinformatics,28646877,2017,http://sbmlmod.uit.no/SBMLmod.wsdl,200,0
 body,Nat_Methods,26780093,2015,http://complexsearch.kelleher.northwestern.edu,200,1
 body,Nucleic_Acids_Res,22080511,2012,http://gmod.org/wiki/GBrowse_Configuration_HOWTO,200,0
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H4RJ4GC1,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H4RJ4GC1,303,0
 body,PLoS_Comput_Biol,28033360,2016,https://en.wikipedia.org/wiki/WP:ISCB2016,301,0
 body,Nucleic_Acids_Res,19920125,2010,http://hgdownload.cse.ucsc.edu/goldenPath/hg18/encodeDCC,301,0
 body,Nucleic_Acids_Res,17981844,2008,http://www.gmod.org/wiki/index.php/GBrowse,301,0
@@ -36553,7 +36553,7 @@ body,Nucleic_Acids_Res,26240386,2015,www.sibcb.ac.cn/hui.asp,-1,1
 body,Nucleic_Acids_Res,16381956,2006,http://pubchem.ncbi.nlm.nih.gov/,301,1
 body,BMC_Genomics,27506390,2016,http://csbl.bmb.uga.edu/dbCAN/index.php,200,0
 body,Nucleic_Acids_Res,NA,2016,https://academic.oup.com/journals/pages/about_us/ethical_policies,301,1
-body,BMC_Bioinformatics,26303588,2015,http://doi.org/10.1371/journal.pcbi.1003176.s002,303,0
+body,BMC_Bioinformatics,26303588,2015,https://doi.org/10.1371/journal.pcbi.1003176.s002,303,0
 body,PLoS_Comput_Biol,22396635,2012,http://neuroscience.aecom.yu.edu/labs/schwartzlab/code/standard.zip,404,1
 body,Nucleic_Acids_Res,21051339,2011,www.uniprot.org/faq/28,-1,1
 body,BMC_Bioinformatics,15921531,2005,http://cbis.anu.edu.au/software/,-1,0
@@ -37281,7 +37281,7 @@ body,Bioinformatics,24021382,2013,https://github.com/lptolik/SPKappaR/wiki/Suple
 body,Nucleic_Acids_Res,21227922,2011,http://www.uniklinikum-giessen.de/genome/index.html,-1,0
 body,BMC_Genomics,15904493,2005,http://est.llnl.gov/forensics,-1,1
 body,Nucleic_Acids_Res,26527721,2016,http://www.transplantdb.eu/videos,200,0
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H4MS3QPR,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H4MS3QPR,303,0
 body,BMC_Bioinformatics,18184432,2008,http://www.seqan.de,200,0
 body,BMC_Bioinformatics,24885193,2014,http://insilicogenome.sourceforge.net,200,0
 body,Nucleic_Acids_Res,23945942,2013,http://fly-fish.ccbr.utoronto.ca/,200,1
@@ -37568,7 +37568,7 @@ body,PLoS_Comput_Biol,17983265,2007,http://www.ebi.ac.uk/proteome,301,0
 body,BMC_Bioinformatics,22963049,2012,http://cmf.bioinf.med.uni-goettingen.de,200,0
 body,BMC_Bioinformatics,19860866,2009,http://www.eie.gr/nhrf/institutes/ibrb/programmes/metabolicengineering-softwaretools.html,200,0
 body,BMC_Genomics,23171218,2012,http://www.blackwell-synergy.com/doi/,404,0
-body,BMC_Genomics,25404466,2014,http://doi.org/10.5061/dryad.p680f,303,0
+body,BMC_Genomics,25404466,2014,https://doi.org/10.5061/dryad.p680f,303,0
 body,Nucleic_Acids_Res,17986450,2008,http://www.arabidopsis.org/sitemap.jsp,200,0
 body,Nucleic_Acids_Res,28132028,2017,ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/DRR/DRR002/DRR002194,301,0
 body,Nucleic_Acids_Res,23222129,2013,http://tuberculist.epfl.ch,301,1
@@ -37682,7 +37682,7 @@ body,BMC_Bioinformatics,18811979,2008,http://modem.ucsd.edu/shenli/gbnet.tgz,200
 body,BMC_Bioinformatics,19573245,2009,ftp://ftp.ncbi.nih.gov/pub/SPEER,301,0
 body,Nucleic_Acids_Res,26819412,2016,http://www.sph.uth.tmc.edu/Retnet/home.htm,301,0
 body,BMC_Bioinformatics,24059758,2013,http://bioinf.icm.uu.se/~pfms/,200,1
-body,BMC_Genomics,27129402,2016,http://dx.doi.org/10.5061/dryad.dp20h,303,0
+body,BMC_Genomics,27129402,2016,https://doi.org/10.5061/dryad.dp20h,303,0
 body,BMC_Genomics,29126393,2017,https://www.arb-silva.de/,301,0
 body,BMC_Bioinformatics,27766951,2016,http://soykb.org/Pegasus/index.php,200,0
 body,Nucleic_Acids_Res,16040595,2005,http://genesilico.pl/meta/,302,1
@@ -37825,7 +37825,7 @@ body,Nucleic_Acids_Res,28431131,2017,http://dnaprodb.usc.edu/documentation,404,0
 body,Nat_Methods,26569599,2015,https://simtk.org/home/mmtools,301,0
 body,BMC_Genomics,20163706,2010,http://www.vumc.nl/braindataset,302,0
 body,PLoS_Comput_Biol,16103904,2005,ftp://ftpmips.gsf.de,-1,0
-body,BMC_Syst_Biol,22640921,2012,http://dx.doi.org/10.6070/H47P8W9B,303,0
+body,BMC_Syst_Biol,22640921,2012,https://doi.org/10.6070/H47P8W9B,303,0
 body,BMC_Bioinformatics,25128017,2014,http://www.broadinstitute.org/software/igv/igvtools,301,0
 body,Nucleic_Acids_Res,21330354,2011,http://espript.ibcp.fr/ESPript/ESPript/,200,1
 body,BMC_Bioinformatics,21342567,2011,http://dtp.nci.nih.gov/index.html,301,1
@@ -37915,7 +37915,7 @@ body,Nucleic_Acids_Res,25053842,2014,http://159.226.126.177/mirpara/download.htm
 body,PLoS_Comput_Biol,19876381,2009,http://bioinformate.uniandes.edu.co,302,0
 body,BMC_Bioinformatics,22129216,2011,http://math.la.asu.edu/~yy/cgmm.html,301,1
 body,Nat_Biotechnol,20657582,2010,http://compbio.mit.edu/ChromatinStates/,200,0
-body,BMC_Genomics,25056288,2014,http://doi.org/10.5061/dryad.22v18,303,0
+body,BMC_Genomics,25056288,2014,https://doi.org/10.5061/dryad.22v18,303,0
 body,BMC_Genomics,26939550,2016,https://github.com/chawillia/phylogenetic_data_2016,301,0
 body,Nucleic_Acids_Res,19483092,2009,http://bioportal.nci.nih.gov/ncbo/faces/index.xhtml,302,1
 body,BMC_Genomics,24997985,2014,http://mitos.bioinf.uni-leipzig.de/help.py,200,0
@@ -38199,7 +38199,7 @@ body,Nucleic_Acids_Res,24875477,2014,www.sbi.uni-rostock.de/triplexrna,-1,0
 body,PLoS_Comput_Biol,25122495,2014,http://research.mssm.edu/integrative-network-biology/Software.html,200,0
 body,Nat_Methods,28319112,2017,https://github.com/biosinodx/SCcaller,301,0
 body,BMC_Bioinformatics,19852798,2009,http://www.nactem.ac.uk/software/termine/,200,1
-body,BMC_Genomics,26265132,2015,http://dx.doi.org/10.6070/H4GH9FZ9,303,0
+body,BMC_Genomics,26265132,2015,https://doi.org/10.6070/H4GH9FZ9,303,0
 body,PLoS_Comput_Biol,23028300,2012,http://tron-mainz.de/tron-facilities/computational-medicine/,404,0
 body,BMC_Genomics,26380971,2015,http://www.bioconductor.org/packages/release/bioc/html/topGO.html,200,1
 body,BMC_Bioinformatics,22676296,2012,http://emouseatlas.org/eAtlasViewer_ema/application/ema/wlz/EMA80.php,302,0
@@ -38348,7 +38348,7 @@ body,Nucleic_Acids_Res,22675074,2012,http://encodeproject.org/ENCODE/,301,1
 body,Nucleic_Acids_Res,27084938,2016,http://dcc.blueprint-epigenome.eu,200,0
 body,Nucleic_Acids_Res,16049029,2005,http://www.gene-regulation.com/,301,1
 body,Bioinformatics,28062445,2017,https://portal.xsede.org/tacc-stampede,302,0
-body,PLoS_Comput_Biol,25837826,2015,http://dx.doi.org/10.5061/dryad.s38n5,303,0
+body,PLoS_Comput_Biol,25837826,2015,https://doi.org/10.5061/dryad.s38n5,303,0
 body,Nucleic_Acids_Res,16381824,2006,http://www.biobase.de/pages/products/transpro.html,404,0
 body,BMC_Genomics,26822616,2016,http://omicslab.genetics.ac.cn/psRobot/index.php,200,0
 body,BMC_Genomics,NA,2016,http://216.48.92.133/Softwares/PlantGenomes/index.htm,200,1
@@ -38423,7 +38423,7 @@ body,Nucleic_Acids_Res,23761451,2013,www.nextbio.com,-1,1
 body,BMC_Genomics,25534632,2014,http://miare.sourceforge.net,302,1
 body,BMC_Bioinformatics,21210980,2010,http://github.com/devrkel/IPRStats,301,0
 body,BMC_Genomics,21092286,2010,http://www.ambainc.org/media/AMBA_PDFs/Press_Releases/GUIDELINES.pdf,301,0
-body,Genome_Biol,26541514,2015,http://dx.doi.org/10.5061/dryad.d3j00,303,0
+body,Genome_Biol,26541514,2015,https://doi.org/10.5061/dryad.d3j00,303,0
 body,BMC_Genomics,25015319,2014,http://www.genome.jp/kaas-bin/kaas_main?mode=partial,200,0
 body,BMC_Genomics,27295982,2016,http://www.biotech.cornell.edu/,200,0
 body,BMC_Genomics,22251276,2012,http://www.ifr.ac.uk/Safety/Microarrays/default.html#protocols,301,0
@@ -39020,7 +39020,7 @@ body,Nat_Methods,21532582,2011,http://penglab.janelia.org/proj/brainaligner,-1,0
 body,BMC_Bioinformatics,19534747,2009,http://darwin.zoology.gla.ac.uk/~rpage/treeviewx/,200,0
 body,BMC_Genomics,27556417,2016,http://www.broadinstitute.org/gatk/media/docs/Samtools.pdf,301,0
 body,BMC_Genomics,26578069,2015,http://purl.org/phylo/treebase/phylows/study/TB2:S18360,302,0
-body,PLoS_Comput_Biol,24391483,2014,http://dx.doi.org/10.6084/m9.figshare.858799,303,0
+body,PLoS_Comput_Biol,24391483,2014,https://doi.org/10.6084/m9.figshare.858799,303,0
 body,Nucleic_Acids_Res,21051339,2011,www.uniprot.org/help/text-search,-1,1
 body,BMC_Bioinformatics,23941167,2013,http://bioinformatics.roslin.ed.ac.uk/arkmap/,200,0
 body,BMC_Genomics,26847793,2016,http://jspecies.ribohost.com/jspeciesws/,200,0
@@ -39897,7 +39897,7 @@ body,BMC_Genomics,19291316,2009,http://www.phrap.com,200,1
 body,Nucleic_Acids_Res,27105845,2016,https://github.com/sanger-pathogens/companion-publication,301,0
 body,BMC_Bioinformatics,25077693,2014,https://www.molnac.unisa.it/BioTools/mdcons/index.php/MDcons,302,1
 body,BMC_Genomics,26572248,2015,http://genome.jgi.doe.gov/Thaps3_bd/Thaps3_bd.home.html,302,0
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H4028PF8,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H4028PF8,303,0
 body,Nucleic_Acids_Res,24150940,2014,http://publists.sanger.ac.uk/mailman/listinfo/decipher-announce,301,0
 body,PLoS_Comput_Biol,25786242,2015,http://broadinstitute.org/cmap/,301,0
 body,BMC_Genomics,21810203,2011,http://services.cbu.uib.no/tools/lipo,200,0
@@ -40019,7 +40019,7 @@ body,BMC_Bioinformatics,25350354,2014,http://www.effectors.org/,200,0
 body,BMC_Genomics,24734784,2014,http://hgdownload.soe.ucsc.edu/goldenPath/hg19/database/wgRna.txt.gz,200,0
 body,Genome_Biol,19664197,2009,http://genomics.princeton.edu/singhlab/netgrep,301,0
 body,PLoS_Comput_Biol,24068902,2013,www.ldc.upenn.edu,-1,0
-body,PLoS_Comput_Biol,26536029,2015,http://dx.doi.org/10.6084/m9.figshare.1570957,303,0
+body,PLoS_Comput_Biol,26536029,2015,https://doi.org/10.6084/m9.figshare.1570957,303,0
 body,PLoS_Comput_Biol,21573205,2011,http://pcidb.russelllab.org/,200,1
 body,Nucleic_Acids_Res,21071423,2011,www.yasara.org/biotools/,-1,0
 body,Nucleic_Acids_Res,26527728,2016,https://cran.r-project.org/web/packages/colorfulVennPlot/,200,0
@@ -40325,7 +40325,7 @@ body,BMC_Genomics,24138339,2013,http://www.gen-info.osaka-u.ac.jp,200,0
 body,Nucleic_Acids_Res,28158838,2017,ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/pilot_data/release/2010_07/,200,0
 body,Nucleic_Acids_Res,17478507,2007,http://zhang.bioinformatics.ku.edu/LOMETS/benchmark.html,302,0
 body,BMC_Bioinformatics,15819989,2005,http://www.lirmm.fr/~guindon/simul/,403,0
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H4KW5CZP,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H4KW5CZP,303,0
 body,BMC_Bioinformatics,19900299,2009,http://wiki.tdwg.org/twiki/bin/view/DarwinCore/GeospatialExtension,301,0
 body,BMC_Genomics,28629322,2017,http://alumni.cs.ucr.edu/~yonghui/mstmap.html,200,0
 body,Bioinformatics,25505093,2015,www.cas.org,-1,0
@@ -40355,7 +40355,7 @@ body,Nucleic_Acids_Res,19264808,2009,http://lcsciences.com/,301,0
 body,Nucleic_Acids_Res,19211664,2009,http://quadbase.igib.res.in/Geneexpression.html,404,0
 body,BMC_Genomics,21392393,2011,https://www.gydle.com/arborea/gcat/,302,0
 body,BMC_Bioinformatics,21605356,2011,http://bioguid.info/openurl/,404,0
-body,Genome_Biol,26673150,2015,http://dx.doi.org/10.1101/019596,303,0
+body,Genome_Biol,26673150,2015,https://doi.org/10.1101/019596,303,0
 body,Nucleic_Acids_Res,19483099,2009,http://www.unaids.org/en/KnowledgeCentre/HIVData/GlobalReport/2008/,404,0
 body,Genome_Med,25621014,2014,www.ncbi.nlm.nih.gov/bioproject/28331,-1,0
 body,Nucleic_Acids_Res,25326323,2015,http://actor.epa.gov/actor/faces/ACToRHome.jsp,302,1
@@ -40387,7 +40387,7 @@ body,BMC_Bioinformatics,20152020,2010,http://mips.gsf.de/genre/proj/corum,302,0
 body,BMC_Bioinformatics,16225674,2005,http://www.birc.au.dk/Software/CoaSim,301,0
 body,BMC_Genomics,27506390,2016,http://ramularia.org/jbrowse,301,0
 body,BMC_Bioinformatics,22726705,2012,ftp://ftp.ncbi.nih.gov/refseq/release/release-catalog/,301,0
-body,Genome_Biol,22805712,2012,http://dx.doi.org/10.5524/100034,303,0
+body,Genome_Biol,22805712,2012,https://doi.org/10.5524/100034,303,0
 body,BMC_Bioinformatics,21044328,2010,http://software.cagrid.org/taverna2/,-1,0
 body,BMC_Bioinformatics,15831105,2005,ftp://ftp.cgb.ki.se/pub/prog/SAM_HMMER/,-1,0
 body,BMC_Bioinformatics,28476106,2017,www.ncbi.nlm.nih.gov/projects/gorf/,-1,0
@@ -40922,7 +40922,7 @@ body,Nucleic_Acids_Res,23002139,2013,http://romualdi.bio.unipd.it/,200,0
 body,BMC_Bioinformatics,NA,2017,http://binf1.memphis.edu/gcat/,200,0
 body,BMC_Genomics,19788762,2009,http://www.WGIN.org.uk,200,0
 body,BMC_Bioinformatics,20819233,2010,http://www.pathwayapi.com/api/API_GetPathway.php?Pathway=Apoptosis,404,0
-body,Nat_Biotechnol,27918546,2016,http://dx.doi.org/10.17863/CAM.4374,303,0
+body,Nat_Biotechnol,27918546,2016,https://doi.org/10.17863/CAM.4374,303,0
 body,Genome_Biol,20812422,2010,http://report.nih.gov/index.aspx,301,0
 body,BMC_Genomics,20346137,2010,http://www.biotec.boku.ac.at/acbr.html,301,0
 body,PLoS_Comput_Biol,17722975,2007,http://alto.compbio.ucsf.edu/pibase/,-1,0
@@ -40944,7 +40944,7 @@ body,BMC_Genomics,21392393,2011,http://www.arborea.ulaval.ca/research/sequencing
 body,BMC_Syst_Biol,21702910,2011,http://atoc.colorado.edu/research/wavelets/,200,0
 body,Nucleic_Acids_Res,16147987,2005,http://search.cpan.org/dist/GO-TermFinder/,200,1
 body,Nucleic_Acids_Res,24304889,2014,http://github.com/gxa/atlas,301,0
-body,PLoS_Comput_Biol,27689803,2016,https://dx.doi.org/10.6084/m9.figshare.3593046,303,0
+body,PLoS_Comput_Biol,27689803,2016,https://doi.org/10.6084/m9.figshare.3593046,303,0
 body,BMC_Genomics,24192013,2013,http://www.ebi.ac.uk/Tools/psa/emboss_needle/,301,1
 body,BMC_Genomics,26679344,2015,http://realtimegenomics.com,301,0
 body,Nucleic_Acids_Res,16381842,2006,http://www.uniprot.org/support/docs/sp_soon.html,301,0
@@ -41495,7 +41495,7 @@ body,BMC_Bioinformatics,29137598,2017,https://github.com/billzt/gff3sort,301,0
 body,BMC_Genomics,22883983,2012,http://www.ebi.ac.uk/Tools/msa/clustalw2/,301,1
 body,Genome_Biol,22204450,2011,http://moma.ki.au.dk/prj/mammals/,200,1
 body,BMC_Genomics,20089203,2010,http://ibi.hzau.edu.cn/digap/statistics.php#4,200,0
-body,Genome_Biol,27250555,2016,http://dx.doi.org/10.5281/zenodo.49500,303,0
+body,Genome_Biol,27250555,2016,https://doi.org/10.5281/zenodo.49500,303,0
 body,Nucleic_Acids_Res,21245035,2011,http://rebase.neb.com/cgi-bin/mslist,403,0
 body,BMC_Bioinformatics,25128017,2014,http://hgdownload.cse.ucsc.edu/goldenPath/hg18/encodeDCC/wgEncodeYaleChIPseq,301,0
 body,BMC_Bioinformatics,23126499,2012,http://code.google.com/p/ehu-bio/wiki/PAnalyzer,405,0
@@ -41576,7 +41576,7 @@ body,PLoS_Comput_Biol,20617200,2010,ftp://ftp.cs.brown.edu/pub/nlparser/rerankin
 body,Nucleic_Acids_Res,15608241,2005,http://inparanoid.cgb.ki.se,302,0
 body,BMC_Genomics,24138407,2013,http://www.chlamy.org,302,0
 body,Nucleic_Acids_Res,19854951,2010,http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16238,200,0
-body,PLoS_Comput_Biol,26751373,2016,http://dx.doi.org/10.5061/dryad.149m8,303,0
+body,PLoS_Comput_Biol,26751373,2016,https://doi.org/10.5061/dryad.149m8,303,0
 body,Nucleic_Acids_Res,23658225,2013,http://dbsgap.versailles.inra.fr/portail/,-1,0
 body,BMC_Bioinformatics,23130999,2012,http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/mGOASVM.html,200,0
 body,PLoS_Comput_Biol,25329069,2014,http://pleioexp.epi.bris.ac.uk/cca/geneNphenHive.html,-1,0
@@ -42072,7 +42072,7 @@ body,PLoS_Comput_Biol,28114391,2017,https://github.com/JuliaStats/StatsBase.jl,3
 body,Nucleic_Acids_Res,16893954,2006,http://theory.med.buffalo.edu/PINUP,-1,0
 body,Nucleic_Acids_Res,16381922,2006,http://www.genome.ad.jp/kegg,301,1
 body,Nucleic_Acids_Res,22102587,2012,http://www.virtual-liver.de/,200,0
-body,BMC_Bioinformatics,24958009,2014,http://dx.doi.org/10.5447/DPPN/2014/0,303,0
+body,BMC_Bioinformatics,24958009,2014,https://doi.org/10.5447/DPPN/2014/0,303,0
 body,BMC_Genomics,22165947,2011,http://www.geneontology.org/GO.downloads.ontology.shtml,301,1
 body,Nucleic_Acids_Res,17151068,2007,http://rgd.mcw.edu/newsletter/,404,0
 body,BMC_Syst_Biol,28950861,2017,http://github.com/wulingyun/CopTea/),301,0
@@ -42475,7 +42475,7 @@ body,PLoS_Comput_Biol,25992893,2015,http://www.chem.unc.edu/rna/,200,0
 body,BMC_Genomics,19500410,2009,http://docs.appliedbiosystems.com/search.taf,302,0
 body,Nucleic_Acids_Res,24185702,2014,http://FunCoup.sbc.su.se/statistics/#data,200,0
 body,BMC_Genomics,23984645,2013,http://www.thellungiella.org/data,301,0
-body,PLoS_Comput_Biol,24039568,2013,http://dx.doi.org/10.5061/dryad.v6st3,303,0
+body,PLoS_Comput_Biol,24039568,2013,https://doi.org/10.5061/dryad.v6st3,303,0
 body,BMC_Genomics,26689587,2015,https://cge.cbs.dtu.dk/services/Restriction-ModificationFinder-1.0/,302,0
 body,BMC_Genomics,24498936,2014,http://www.ncbi.nlm.nih.gov/sra?term=DGRP,301,0
 body,BMC_Bioinformatics,26268224,2015,http://www.irisa.fr/dyliss/public/ASD/,200,0
@@ -42755,7 +42755,7 @@ body,BMC_Bioinformatics,28606054,2017,https://github.com/gitvarhmm/varhmm,301,0
 body,BMC_Genomics,28431529,2017,http://www.ebi.ac.uk/emboss/transeq/,301,0
 body,Nucleic_Acids_Res,17000636,2006,www.ncbi.nlm.nih.gov/RefSeq,-1,0
 body,Nucleic_Acids_Res,15608278,2005,http://www.masonhq.org,200,0
-body,BMC_Genomics,25409780,2014,http://dx.doi.org/10.6070/H4RB72KT,303,0
+body,BMC_Genomics,25409780,2014,https://doi.org/10.6070/H4RB72KT,303,0
 body,BMC_Bioinformatics,16776819,2006,http://gotax.bioinf.mpi-inf.mpg.de/raw_data/,200,0
 body,BMC_Genomics,25348288,2014,http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53291,301,1
 body,Nucleic_Acids_Res,21693557,2011,http://www.cs.technion.ac.il/~irit/,200,1
@@ -43042,7 +43042,7 @@ body,BMC_Bioinformatics,21342583,2011,http://www.hgc.jp/~park/research/,301,0
 body,BMC_Genomics,22455456,2012,http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE34169,301,0
 body,Nucleic_Acids_Res,25845595,2015,www.optflux.org/models,-1,0
 body,BMC_Bioinformatics,16549013,2006,http://www.2ddb.org,200,0
-body,Genome_Biol,25886852,2015,http://dx.doi.org/10.6084/m9.figshare.1154006,303,0
+body,Genome_Biol,25886852,2015,https://doi.org/10.6084/m9.figshare.1154006,303,0
 body,Genome_Biol,16879725,2006,http://www.charite.de/ch/medgen/ontologizer,301,0
 body,Genome_Med,27964746,2016,https://github.com/lh3/bwa/tree/master/bwakit,301,0
 body,Bioinformatics,24451626,2014,http://www.ibm.com/systems/technicalcomputing/platformcomputing/products/lsf/,301,0
@@ -43423,7 +43423,7 @@ body,Nucleic_Acids_Res,23275571,2013,www.nsf.gov,-1,1
 body,Genome_Med,25709717,2015,http://www.broadinstitute.org/mammals/haploreg/haploreg.php,301,0
 body,BMC_Bioinformatics,20550715,2010,http://penglab.janelia.org/proj/mRMR/index.htm,-1,0
 body,BMC_Genomics,22177423,2011,http://strimmerlab.org/software/genenet/,200,0
-body,Nucleic_Acids_Res,27190236,2016,http://dx.doi.org/10.1101/034694,303,0
+body,Nucleic_Acids_Res,27190236,2016,https://doi.org/10.1101/034694,303,0
 body,BMC_Bioinformatics,25073721,2014,http://rs.tdwg.org/dwc/terms/attributes/,303,0
 body,BMC_Syst_Biol,20478018,2010,http://www.sonivis.org/,301,0
 body,PLoS_Comput_Biol,23633938,2013,http://www.cs.waikato.ac.nz/~ml/weka/,302,0
@@ -43476,7 +43476,7 @@ body,Nucleic_Acids_Res,25294826,2015,http://dnamethylome.org/about,200,1
 body,Nucleic_Acids_Res,22021382,2012,http://nar.oxfordjournals.org/cgi/content/full/gkr865/DC1,301,0
 body,Nucleic_Acids_Res,24288371,2014,http://pfam.sanger.ac.uk/and,301,0
 body,BMC_Genomics,19232123,2009,ftp://ftp.ncbi.nih.gov/genomes/H_sapiens/ARCHIVE/BUILD.36.1/Assembled_chromosomes/,301,0
-body,BMC_Bioinformatics,26553107,2015,http://dx.doi.org/10.6084/m9.figshare.1245021,303,0
+body,BMC_Bioinformatics,26553107,2015,https://doi.org/10.6084/m9.figshare.1245021,303,0
 body,BMC_Bioinformatics,16707006,2006,http://www.telepathology.dcu.ie/VTM,-1,0
 body,BMC_Genomics,22165947,2011,http://en.wikipedia.org/w/api.php,301,0
 body,BMC_Bioinformatics,20202215,2010,http://www.cygwin.com,200,1
@@ -43760,7 +43760,7 @@ body,BMC_Bioinformatics,27534850,2016,https://hpcwebapps.cit.nih.gov/CPhos/,301,
 body,BMC_Syst_Biol,24564975,2013,http://www.ncbi.nlm.nih.gov/gene/29591,301,0
 body,Nucleic_Acids_Res,17986450,2008,http://www.arabidopsis.org/portals/genAnnotation/genome_snapshot.jsp,200,0
 body,Nucleic_Acids_Res,22110027,2012,http://dnatraffic.ibb.waw.pl/dnatraffic/,200,0
-body,PLoS_Comput_Biol,24339756,2013,http://dx.doi.org/10.5061/dryad.246qg,303,0
+body,PLoS_Comput_Biol,24339756,2013,https://doi.org/10.5061/dryad.246qg,303,0
 body,BMC_Bioinformatics,17999775,2007,http://www.umich.edu/~kondrash/Database/,301,0
 body,BMC_Genomics,24884676,2014,http://www.ricechip.org/,200,0
 body,Nucleic_Acids_Res,18625614,2008,http://ignm.ccbb.pitt.edu,200,0
@@ -43876,7 +43876,7 @@ body,Nucleic_Acids_Res,27638885,2017,http://grch37.ensembl.org/index.html,200,1
 body,Nucleic_Acids_Res,26304539,2015,http://sourceforge.net/projects/newdnaprot/,301,0
 body,Bioinformatics,19073593,2009,http://www.cis.upenn.edu/dbikel/software.html,409,0
 body,BMC_Genomics,26589361,2015,www.qiagen.com/ingenuity,-1,1
-body,BMC_Bioinformatics,24266891,2013,http://dx.doi.org,200,0
+body,BMC_Bioinformatics,24266891,2013,https://doi.org,200,0
 body,BMC_Bioinformatics,15268767,2004,(http://dtp.nci.nih.gov),-1,0
 body,Nucleic_Acids_Res,27794041,2017,http://bioinfo2.ugr.es/NGSmethDB_API/NGSmethDB_API_client.py,200,0
 body,Genome_Med,27506198,2016,ftp://ftp-mouse.sanger.ac.uk/,302,0
@@ -43918,7 +43918,7 @@ body,Nucleic_Acids_Res,23376933,2013,http://www.affymetrix.com/support/technical
 body,Nucleic_Acids_Res,17537824,2007,http://structure.pitt.edu/servers/fastcontact/,200,0
 body,Nucleic_Acids_Res,27899613,2017,http://www.bio-bigdata.com/nsdna/,200,0
 body,BMC_Genomics,25481772,2014,http://www.ncbi.nlm.nih.gov/nucest/?term=ralstonia,301,0
-body,BMC_Genomics,26934985,2016,http://dx.doi.org/10.5281/zenodo.46416,303,0
+body,BMC_Genomics,26934985,2016,https://doi.org/10.5281/zenodo.46416,303,0
 body,Nucleic_Acids_Res,28334823,2017,http://hgdownload.cse.ucsc.edu/goldenpath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHelas3H3k4me3StdSig.bigWig,200,0
 body,BMC_Genomics,24998381,2014,http://hs2.proteome.ca/tandem/archive/csterc2dproteogenomic.mgf.txt,200,0
 body,BMC_Syst_Biol,24690407,2014,http://mbostock.github.com/d3/,301,0
@@ -43980,7 +43980,7 @@ body,Nucleic_Acids_Res,17267406,2007,http://dylan.embl-heidelberg.de,200,0
 body,Nucleic_Acids_Res,22447446,2012,www.compbio.dundee.ac.uk/jpred,-1,0
 body,BMC_Genomics,27488180,2016,http://bioconductor.org/packages/devel/bioc/html/ABSSeq.html,200,0
 body,Nucleic_Acids_Res,19948758,2010,http://themedicalbiochemistrypage.org/,200,0
-body,PLoS_Comput_Biol,24339769,2013,http://dx.doi.org/10.6084/m9.figshare.814470,303,0
+body,PLoS_Comput_Biol,24339769,2013,https://doi.org/10.6084/m9.figshare.814470,303,0
 body,Nucleic_Acids_Res,26578557,2016,http://www.plantontology.org/,301,0
 body,BMC_Bioinformatics,22321652,2012,http://www.bioconductor.org/packages/devel/bioc/html/inveRsion.html,200,0
 body,BMC_Bioinformatics,22165866,2011,http://code.google.com/p/phlawd,405,0
@@ -44130,7 +44130,7 @@ body,BMC_Bioinformatics,NA,2012,http://www.bioguo.org/miRNASNP/,200,0
 body,BMC_Genomics,25286960,2014,http://www.broadinstitute.org/genome_bio/human_lincrnas/,301,0
 body,BMC_Syst_Biol,17683566,2007,http://www.cnd.mcgill.ca/~swain,404,0
 body,Nat_Methods,24097271,2013,http://www.embl.de/eamnet/html/bleach_correction.html,301,0
-body,BMC_Genomics,26315097,2015,http://dx.doi.org/10.5061/dryad.3948r.,404,0
+body,BMC_Genomics,26315097,2015,https://doi.org/10.5061/dryad.3948r.,404,0
 body,Nat_Biotechnol,26641531,2016,http://zifit.partners.org/,200,0
 body,BMC_Genomics,18154652,2007,http://www.umc.br/~shida/blast_hit_table_135GOE.htm,404,0
 body,Bioinformatics,25573922,2015,http://www.sanger.ac.uk/research/projects/cancergenome/,301,0
@@ -44332,7 +44332,7 @@ body,Genome_Med,28854952,2017,https://www.cancer.gov,301,0
 body,BMC_Genomics,24195767,2013,http://www.eppo.int/QUARANTINE/bacteria/Xanthomonas_phaseoli/XANTPH_ds.pdf,404,0
 body,BMC_Genomics,24433282,2014,http://sartorlab.ccmb.med.umich.edu/chip-enrich,200,0
 body,Nucleic_Acids_Res,24598255,2014,www.compbio.dundee.ac.uk,-1,0
-body,PLoS_Comput_Biol,25723545,2015,http://dx.doi.org/10.6084/m9.figshare.1249869,303,0
+body,PLoS_Comput_Biol,25723545,2015,https://doi.org/10.6084/m9.figshare.1249869,303,0
 body,BMC_Bioinformatics,20184736,2010,http://genome.jouy.inra.fr/texte/LLLchallenge/,200,0
 body,BMC_Bioinformatics,24564474,2013,http://developer.nvidia.com/cublas,301,0
 body,Nucleic_Acids_Res,23180781,2013,http://www.innatedb.com/downloads,302,0
@@ -44440,7 +44440,7 @@ body,Nat_Methods,26167643,2017,http://arep.med.harvard.edu/CasFinder/,200,0
 body,BMC_Bioinformatics,17134476,2006,http://www.ontogene.org/,200,1
 body,BMC_Genomics,28619070,2017,ftp://ftp.ensemblgenomes.org/pub/plants/release-31/fasta/sorghum_bicolor/pep/,-1,0
 body,BMC_Bioinformatics,18205924,2008,http://www.oracle.com/technology/software/products/berkeley-db/htdocs/bdboslicense.html,301,0
-body,BMC_Genomics,25887949,2015,http://dx.doi.org/10.12761/SGN.2015.1,303,1
+body,BMC_Genomics,25887949,2015,https://doi.org/10.12761/SGN.2015.1,303,1
 body,Nucleic_Acids_Res,16893952,2006,http://tilling.fhcrc.org:9366/arab/status.html,-1,0
 body,BMC_Bioinformatics,25096057,2014,https://sourceforge.net/p/morfeus/,302,1
 body,Bioinformatics,27506226,2016,https://www.bing.com/,200,0
@@ -44479,7 +44479,7 @@ body,Nucleic_Acids_Res,23175607,2013,http://cyanolyase.genouest.org,200,0
 body,Nucleic_Acids_Res,16407336,2006,http://www.disprot.org/,200,1
 body,Genome_Biol,27782827,2016,https://github.com/kdkorthauer/scDD,301,0
 body,Nucleic_Acids_Res,24423872,2014,http://www.euclock.org/,301,0
-body,Nucleic_Acids_Res,26507857,2016,http://dx.doi.org/10.1101/028191,303,0
+body,Nucleic_Acids_Res,26507857,2016,https://doi.org/10.1101/028191,303,0
 body,BMC_Syst_Biol,24758311,2014,http://www.oaslab.com/Drawing_funnels.html,301,1
 body,Nucleic_Acids_Res,27098039,2016,http://ccg.vital-it.ch/pwmscan,301,0
 body,BMC_Bioinformatics,24886131,2014,http://strategic.mit.edu/,200,0
@@ -44862,7 +44862,7 @@ body,Nucleic_Acids_Res,NA,2010,www.emouseatlas.org/emage/,-1,0
 body,Bioinformatics,19420054,2009,http://www.genoscope.cns.fr/cycsim/webservices.html,200,0
 body,Bioinformatics,28088763,2017,ftp://ftp.ensembl.org/pub/release-75/fasta/homo_sapiens/dna/,200,0
 body,PLoS_Comput_Biol,24676149,2014,https://surfer.nmr.mgh.harvard.edu/,200,0
-body,BMC_Genomics,25431190,2014,http://dx.doi.org/10.6084/m9.figshare.1053093,303,0
+body,BMC_Genomics,25431190,2014,https://doi.org/10.6084/m9.figshare.1053093,303,0
 body,Nucleic_Acids_Res,22039153,2012,http://www.pombase.org/downloads,302,0
 body,BMC_Genomics,18837997,2008,http://www.ulb.ac.be/sciences/lagev/aflp-surv.html,200,0
 body,BMC_Genomics,27401977,2016,http://www.cuilab.cn/lnctar,200,0
@@ -45357,7 +45357,7 @@ body,Nucleic_Acids_Res,22116062,2012,http://www.eupathdb.org,301,1
 body,PLoS_Comput_Biol,18166071,2007,http://isiwebofknowledge.com/,301,0
 body,Nucleic_Acids_Res,19465376,2009,http://jakarta.apache.org/commons/math,301,0
 body,Nucleic_Acids_Res,26476454,2016,ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/prokaryotes.txt,301,0
-body,BMC_Genomics,25270331,2014,http://dx.doi.org/105061/dryad.t1r3d,404,0
+body,BMC_Genomics,25270331,2014,https://doi.org/105061/dryad.t1r3d,404,0
 body,BMC_Genomics,27296290,2016,https://icgc.org,200,1
 body,BMC_Genomics,14519210,2003,http://www.tigr.org/tdb/tgi/hagi,301,0
 body,Nucleic_Acids_Res,17704127,2007,http://www.sbg.bio.ic.ac.uk/~phyre/,200,1
@@ -45546,7 +45546,7 @@ body,Nucleic_Acids_Res,23476028,2013,http://ideas.repec.org/p/dgr/kubcen/200770.
 body,BMC_Bioinformatics,26452124,2015,http://www.renyi.hu/~miklosi/SCJ-Gibbs/,302,0
 body,BMC_Syst_Biol,21545710,2011,http://www.rulesbasedmedicine.com,404,0
 body,BMC_Genomics,24555742,2014,http://bioinf.uni-greifswald.de/augustus/,200,1
-body,BMC_Genomics,25277546,2014,http://dx.doi.org/10.6084/m9.figshare.1185417,303,0
+body,BMC_Genomics,25277546,2014,https://doi.org/10.6084/m9.figshare.1185417,303,0
 body,BMC_Genomics,24507556,2014,http://www.ncbi.nlm.nih.gov/tools/epcr/,301,0
 body,BMC_Genomics,21208436,2011,http://potatodbase.dpw.wau.nl/potatopedigree,-1,0
 body,BMC_Bioinformatics,16351747,2005,http://kinweb.ceinge.unina.it,200,0
@@ -45644,7 +45644,7 @@ body,BMC_Bioinformatics,26498606,2015,http://www.ritf.ac.cn/sitecn/FZBJKYCG/1377
 body,Nucleic_Acids_Res,27899569,2017,https://github.com/cdeanj/snpfinder,301,0
 body,BMC_Bioinformatics,23965047,2013,http://jun2011.archive.ensembl.org,307,0
 body,Nucleic_Acids_Res,26400163,2016,https://jquery.com,200,1
-body,PLoS_Comput_Biol,26147205,2015,http://dx.doi.org/10.5061/dryad.v7817,303,1
+body,PLoS_Comput_Biol,26147205,2015,https://doi.org/10.5061/dryad.v7817,303,1
 body,Nucleic_Acids_Res,16381968,2006,http://mpss.udel.edu/at,-1,0
 body,Nucleic_Acids_Res,21593126,2011,http://hmmer.janelia.org/search/phmmer,404,0
 body,BMC_Bioinformatics,24669788,2014,http://www.promol.org/home/download/download-now,200,1
@@ -45704,7 +45704,7 @@ body,BMC_Genomics,24195767,2013,http://www.reseau-xantho.org/reseau_xantho/,404,
 body,PLoS_Comput_Biol,19096503,2008,http://www.smartcell-crg.es,-1,0
 body,BMC_Genomics,20659319,2010,http://genome.lbl.gov/vista/,302,1
 body,PLoS_Comput_Biol,27617835,2016,https://github.com/rjfy2/tracer_statistics,301,0
-body,Nucleic_Acids_Res,28334916,2017,http://dx.doi.org/10.1101/051847,303,1
+body,Nucleic_Acids_Res,28334916,2017,https://doi.org/10.1101/051847,303,1
 body,BMC_Bioinformatics,20158919,2010,http://www.life.nthu.edu.tw/~lslth,404,0
 body,Nucleic_Acids_Res,18682529,2008,http://www.physics.csbsju.edu/stats/contingency_NROW_NCOLUMN_form.html,200,0
 body,PLoS_Comput_Biol,25950739,2015,http://www.math.sci.hiroshima-u.ac.jp/m-mat/MT/emt.html,404,0
@@ -45816,7 +45816,7 @@ body,BMC_Genomics,24690401,2014,http://pedant.helmholtz-muenchen.de/index.jsp,20
 body,BMC_Bioinformatics,20438653,2010,http://math.nist.gov/javanumerics/jama/,200,0
 body,BMC_Bioinformatics,24267543,2013,http://www.nihs.go.jp/center/yougo/15.pdf,200,0
 body,BMC_Genomics,22805612,2012,http://www.genome.jp/tools/kaas/,200,1
-body,BMC_Bioinformatics,26911566,2016,http://dx.doi.org/10.5281/zenodo.32989,303,0
+body,BMC_Bioinformatics,26911566,2016,https://doi.org/10.5281/zenodo.32989,303,0
 body,BMC_Genomics,24433256,2014,http://aranet.mpimp-golm.mpg.de/wheatnet,200,0
 body,BMC_Syst_Biol,21352556,2011,http://genomatix.de,302,0
 body,BMC_Genomics,20122262,2010,http://www.ncbi.nlm.nih.gov/blast/blast.cgi,301,0
@@ -46485,13 +46485,13 @@ body,BMC_Bioinformatics,17338815,2007,http://gap.stat.sinica.edu.tw/Software/mvo
 body,Nucleic_Acids_Res,27899611,2017,https://github.com/macarthur-lab/exac_readviz_scripts,301,0
 body,BMC_Genomics,25952370,2015,https://planarian.bio.ub.edu/SmedDGE,301,0
 body,Nucleic_Acids_Res,16204448,2005,http://www.amershambiosciences.com,301,1
-body,Nucleic_Acids_Res,28472341,2017,http://dx.doi.org/10.5281/zenodo.47479,303,0
+body,Nucleic_Acids_Res,28472341,2017,https://doi.org/10.5281/zenodo.47479,303,0
 body,BMC_Genomics,24708222,2014,http://vcg.cbi.ac.cn/,200,0
 body,Nucleic_Acids_Res,19010966,2009,http://www.hgsc.bcm.tmc.edu/projects/seaurchin/,301,1
 body,Nucleic_Acids_Res,21036866,2011,http://wiki.zfin.org,301,0
 body,PLoS_Comput_Biol,19300476,2009,http://www-deletion.stanford.edu/YDPM/YDPM_index.html,200,0
 body,Nucleic_Acids_Res,28666376,2017,https://github.com/google/sparsehash.git,301,0
-body,Nucleic_Acids_Res,27994033,2017,http://dx.doi.org/10.1101/056291,303,0
+body,Nucleic_Acids_Res,27994033,2017,https://doi.org/10.1101/056291,303,0
 body,Nucleic_Acids_Res,19264796,2009,http://www3.oup.co.uk/nar/database/subcat/1/4,-1,0
 body,BMC_Genomics,25888426,2015,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808927/,301,0
 body,BMC_Bioinformatics,21342578,2011,http://www.proteomecenter.org,301,0
@@ -46750,7 +46750,7 @@ body,Nucleic_Acids_Res,24319147,2014,http://www.ictvonline.org/virusTaxonomy.asp
 body,Nucleic_Acids_Res,23143269,2013,http://synsysdb.genes2cognition.org,200,0
 body,BMC_Bioinformatics,24564704,2013,http://adni.loni.ucla.edu,301,0
 body,BMC_Genomics,24917120,2014,http://rth.dk/resources/rnannotator/susscr102/version1.03/,302,0
-body,PLoS_Comput_Biol,27078000,2016,http://dx.doi.org/10.7910/DVN/WPRDBZ,303,0
+body,PLoS_Comput_Biol,27078000,2016,https://doi.org/10.7910/DVN/WPRDBZ,303,0
 body,Bioinformatics,22718786,2012,http://projectreporter.nih.gov/reporter.cfm,302,0
 body,BMC_Genomics,19555467,2009,ftp://ftp.ncbi.nlm.nih.gov/genomes/,301,1
 body,BMC_Genomics,20459751,2010,http://bioruby.org,200,0
@@ -47149,7 +47149,7 @@ body,Bioinformatics,21498402,2011,http://predictioncenter.org/CASP9,301,0
 body,Genome_Biol,27169502,2016,http://citrus.hzau.edu.cn/orange,301,0
 body,Nucleic_Acids_Res,28402545,2017,https://orio.niehs.nih.gov/dashboard/analysis/850-sample-integration-over-chip-seq-peaks/,301,0
 body,Nucleic_Acids_Res,19671526,2009,http://www.biosino.org/~kanghu/DCR/,404,1
-body,BMC_Genomics,24498892,2014,http://dx.doi.org/10.6070/H4G44N7P,303,0
+body,BMC_Genomics,24498892,2014,https://doi.org/10.6070/H4G44N7P,303,0
 body,BMC_Genomics,19348669,2009,http://www.psb.ugent.be/cbd/papers/BiNGO/,301,1
 body,BMC_Genomics,28793856,2017,http://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.2.5/,301,0
 body,Nucleic_Acids_Res,20693530,2010,http://mfdata.ethz.ch/Model_Equations.doc,301,0
@@ -47234,7 +47234,7 @@ body,Nucleic_Acids_Res,24838562,2014,https://pubchem.ncbi.nlm.nih.gov/,301,1
 body,BMC_Bioinformatics,21486481,2011,http://www.millipore.com/drugdiscovery/svp3/kpservices,301,0
 body,BMC_Genomics,25287394,2014,http://emboss.sourceforge.net/apps/cvs/emboss/apps/getorf.html,200,1
 body,Nucleic_Acids_Res,25855807,2015,http://www.rssboard.org/rss-specification,200,0
-body,Nucleic_Acids_Res,25609699,2015,http://dx.doi.org/10.6084/m9.figshare.1284097,303,0
+body,Nucleic_Acids_Res,25609699,2015,https://doi.org/10.6084/m9.figshare.1284097,303,0
 body,BMC_Genomics,26763898,2016,http://www.drive5.com/usearch/manual/uparse_pipeline.html,200,0
 body,BMC_Genomics,15236666,2004,http://www.ncbi.nlm.nih.gov/Homology/,301,1
 body,BMC_Genomics,25887412,2015,http://bibs.snu.ac.kr/software/GRACOMICS,200,0
@@ -47254,7 +47254,7 @@ body,BMC_Bioinformatics,21466708,2011,http://cbsb.lombardi.georgetown.edu/filedo
 body,BMC_Genomics,27586503,2016,http://PDGene.org,200,0
 body,Nucleic_Acids_Res,23275550,2013,www.ccpn.ac.uk/ccpn,-1,0
 body,BMC_Genomics,25494611,2014,https://mulcyber.toulouse.inra.fr/projects/eugene/,200,0
-body,Genome_Biol,27215445,2016,https://dx.doi.org/10.6084/m9.figshare.3181504.v1,303,0
+body,Genome_Biol,27215445,2016,https://doi.org/10.6084/m9.figshare.3181504.v1,303,0
 body,Nucleic_Acids_Res,15608216,2005,http://genolist.pasteur.fr/CandidaDB/,200,0
 body,BMC_Bioinformatics,24460683,2014,http://kucse.in/hiv/,-1,0
 body,BMC_Bioinformatics,24994456,2014,http://sgb.fli-leibniz.de,302,0
@@ -47747,7 +47747,7 @@ body,Nucleic_Acids_Res,24194600,2014,http://www.mousephenotype.org/imits,302,1
 body,PLoS_Comput_Biol,21060855,2010,www.cs.uky.edu/~czhanb/research.html,-1,0
 body,BMC_Bioinformatics,20576140,2010,http://nucleosome.stats.northwestern.edu,-1,1
 body,Nucleic_Acids_Res,23193267,2013,http://ssu-rrna.org/downloads_eukaryotic_main_page.html,200,0
-body,Nucleic_Acids_Res,27899676,2017,http://dx.doi.org/10.1101/033142,303,0
+body,Nucleic_Acids_Res,27899676,2017,https://doi.org/10.1101/033142,303,0
 body,Nat_Biotechnol,23975157,2013,http://www.microbio.me/qiime/,301,1
 body,Nucleic_Acids_Res,25324305,2015,www.moonlightingprotiens.org,-1,0
 body,BMC_Genomics,28196481,2017,http://www.generegulation.info/index.php/nuctools,200,0
@@ -47913,7 +47913,7 @@ body,Nucleic_Acids_Res,21646335,2011,http://gene3d.biochem.ucl.ac.uk/Gene3DDataS
 body,PLoS_Comput_Biol,16193095,2005,http://mips.gsf.de/proj/thal/db/gv/rv/rv_frame.html,404,0
 body,PLoS_Comput_Biol,21738454,2011,http://sysbio3.fhms.surrey.ac.uk/,200,1
 body,Nucleic_Acids_Res,16381903,2006,http://dictybase.org/downloads/,404,0
-body,BMC_Genomics,26017153,2015,http://dx.doi.org/10.6084/m9.figshare.1406903,303,0
+body,BMC_Genomics,26017153,2015,https://doi.org/10.6084/m9.figshare.1406903,303,0
 body,BMC_Genomics,25887241,2015,http://www.mineduc.gob.gt/,200,0
 body,BMC_Genomics,28061751,2017,http://purl.org/phylo/treebase/phylows/study/TB2:S20306,302,0
 body,BMC_Genomics,26690364,2015,ftp://ftp.hgsc.bcm.tmc.edu/HapMap3-ENCODE/HapMap3/HapMap3v3,-1,0
@@ -48063,7 +48063,7 @@ body,BMC_Syst_Biol,22784567,2011,http://en.wikipedia.org/wiki/Hypergeometric_dis
 body,Nucleic_Acids_Res,19465396,2009,http://www.autodock.scripps.edu,-1,0
 body,Nucleic_Acids_Res,NA,2010,www.gudmap.org/index.html,-1,0
 body,Nucleic_Acids_Res,23074190,2012,ftp://us.expasy.org/databases/swiss-prot,302,0
-body,Nucleic_Acids_Res,28199687,2017,http://dx.doi.org/10.1101/022814,303,0
+body,Nucleic_Acids_Res,28199687,2017,https://doi.org/10.1101/022814,303,0
 body,Nucleic_Acids_Res,17452350,2007,http://kinemage.biochem.duke.edu,200,0
 body,BMC_Genomics,26935583,2016,www.fishbase.org,-1,0
 body,Nucleic_Acids_Res,22561374,2012,www.zincfingertools.org,-1,0

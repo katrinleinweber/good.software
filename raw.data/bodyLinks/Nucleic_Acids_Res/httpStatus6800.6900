@@ -47,7 +47,7 @@ NA 2010 NoLink
 20634200 2010 null www.pantherdb.org/ -1 null S7 -1 null S4 -1 null S7 -1 
 20660483 2010 available http://genome.ucsc.edu/ 200 null http://Dostielab.biochem.mcgill.ca -1 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE12889 301 download http://licr-renlab.ucsd.edu/download.html 404 available http://genome.ucsc.edu/cgi-bin/hgLiftOver 200 null http://dir.nhlbi.nih.gov/papers/lmi/epigenomes/hgtcell.aspx 302 null FigureS2 -1 null FigureS3 -1 null FigureS4 -1 
 NA 2010 NoLink
-NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals.org -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals.org -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 20576698 2010 
 20581116 2010 null S1 -1 null S1 -1 null S1 -1 null S1 -1 null FigureS1 -1 null FigureS1 -1 null FigureS1 -1 null FigureS2 -1 null FigureS2 -1 null FigureS3 -1 null FigureS3 -1 null FigureS3 -1 
 20591823 2010 null http://estivill_lab.crg.es/seqbuster 404 null http://microrna.sanger.ac.uk/sequences/ 301 available http://hgdownload.cse.ucsc.edu/goldenPath/hg18/bogZips/ 404 available http://estivill_lab.crg.es/Marti_etal/ 404 available https://hgdownload.cse.ucsc.edu/downloads/html 404 null www.targetscan.org -1 null TableS4 -1 null http://www.ncbi.nlm.nih.gov/geo/ 301 null TableS6 -1 null S9 -1 null TableS13 -1 null S9 -1 null FigureS5 -1 null http://diana.cslab.ece.ntua.gr/tarbase/ 404 available TableS15 -1 
@@ -67,7 +67,7 @@ NA 2010 null www.nar.oxfordjournals.org -1
 20660478 2010 
 20660477 2010 
 20802225 2010 null http://cara.gmi.ac.kr 200 null http://ccr.coriell.org 301 null http://genome.ucsc.edu 200 null http://cara.gmi.ac.kr 200 null http://cara.gmi.ac.kr 200 null http://cara.gmi.ac.kr 200 
-NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals.org -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2010 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals.org -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 20876691 2010 null www.phrap.org -1 null www.phrap.org -1 
 20587502 2010 null http://cbio.mskcc.org/Public/products/human_mapped/Mapback 301 null http://www.ensembl.org 301 null http://www.genome.ucsc.edu 200 
 20587501 2010 software http://prospector.ucsf.edu 200 

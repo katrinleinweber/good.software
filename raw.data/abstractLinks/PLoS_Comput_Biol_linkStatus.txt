@@ -4805,7 +4805,7 @@ NA 2009 abstractNotFound
 28406896 2017 available https://github.com/cbg-ethz/epiNEM 301 package https://bioconductor.org/packages/epiNEM/ 301 
 28410418 2017 NoLink
 28410363 2017 NoLink
-28394888 2017 code http://faculty.pieas.edu.pk/fayyaz/prank.html 200 available http://doi.org/10.5281/zenodo.167136 303 
+28394888 2017 code http://faculty.pieas.edu.pk/fayyaz/prank.html 200 available https://doi.org/10.5281/zenodo.167136 303 
 28486472 2017 NoLink
 28426660 2017 null http://michnick.bcm.umontreal.ca/dalel 301 
 28426669 2017 NoLink
@@ -5344,7 +5344,7 @@ NA 2008 abstractNotFound
 19360130 2009 NoLink
 19360093 2009 NoLink
 19360090 2009 NoLink
-19381256 2009 null http://purl.org/net/cito/ 502 available http://dx.doi.org/10.1371/journal.pntd.0000228.x001 303 
+19381256 2009 null http://purl.org/net/cito/ 502 available https://doi.org/10.1371/journal.pntd.0000228.x001 303 
 19390603 2009 NoLink
 19381268 2009 NoLink
 19360098 2009 NoLink

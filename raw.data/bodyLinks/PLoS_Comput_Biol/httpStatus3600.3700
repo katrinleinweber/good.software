@@ -58,7 +58,7 @@ NA 2014 NoLink
 25211206 2014 NoLink
 25211329 2014 NoLink
 25211452 2014 available http://keinanlab.cb.bscb.cornell.edu/content/tools-data 200 
-25211603 2014 null http://dx.doi.org/10.6084/m9.figshare.831432 303 
+25211603 2014 null https://doi.org/10.6084/m9.figshare.831432 303 
 25211773 2014 NoLink
 25210849 2014 null www.eucast.org -1 software www.lixoft.eu -1 
 25210764 2014 NoLink
@@ -86,7 +86,7 @@ NA 2014 NoLink
 25188385 2014 pipeline http://my.pgp-hms.org 302 null http://www.cdc.gov 301 null http://www.hhs.gov/ 301 download https://www.genome.gov/26525384 301 download http://diseases.jensenlab.org 302 null http://evs.gs.washington.edu/EVS/ 200 
 25188490 2014 NoLink
 25188267 2014 NoLink
-25188426 2014 available http://dx.doi.org/10.6084/m9.figshare.1119727 303 
+25188426 2014 available https://doi.org/10.6084/m9.figshare.1119727 303 
 25299598 2014 available http://perso.ibcp.fr/luca.monticelli 301 available http://perso.ibcp.fr/luca.monticelli/ 200 
 25188415 2014 available http://cellnet.cecad.uni-koeln.de/impact.html 200 code https://github.com/SimeoneMarsico/IMPACT 301 null www.autophagy.lu -1 
 25188228 2014 NoLink

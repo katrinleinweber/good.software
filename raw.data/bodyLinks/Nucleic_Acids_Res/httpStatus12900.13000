@@ -14,7 +14,7 @@
 25414331 2014 
 25429975 2014 
 25398904 2014 
-25414342 2014 null http://dx.doi.org/10.6084/m9.figshare.1197171. 404 null http://www.r-project.org/ 200 null http://sdittami.altervista.org/shapirotest/ShapiroTest.html 200 
+25414342 2014 null https://doi.org/10.6084/m9.figshare.1197171. 404 null http://www.r-project.org/ 200 null http://sdittami.altervista.org/shapirotest/ShapiroTest.html 200 
 25398895 2014 
 25428354 2014 
 25429974 2014 tool http://megasun.bch.umontreal.ca/cgi-bin/mfannot/mfannotInterface.pl 200 null http://onekp.com 303 method http://megasun.bch.umontreal.ca/People/lang/FMGP/methods.html 200 tool http://megasun.bch.umontreal.ca/cgi-bin/mfannot/mfannotInterface.pl 200 null http://www.ncbi.nlm.nih.gov/Traces/sra 301 null http://toxodb.org/toxo 302 null http://onekp.com 303 
@@ -73,7 +73,7 @@
 25488808 2015 
 25520195 2015 
 25505165 2015 NoLink
-25452337 2015 null www.mirbase.org -1 code http://code.google.com/p/cutadapt 405 code http://dx.doi.org/10.1101/002824 303 available https://bitbucket.org/sacgf/2014_thomson_nar 301 
+25452337 2015 null www.mirbase.org -1 code http://code.google.com/p/cutadapt 405 code https://doi.org/10.1101/002824 303 available https://bitbucket.org/sacgf/2014_thomson_nar 301 
 25435544 2015 
 25378317 2015 
 25378315 2015 

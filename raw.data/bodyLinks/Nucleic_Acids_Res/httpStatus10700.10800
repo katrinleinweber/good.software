@@ -58,7 +58,7 @@ NA 2013 NoLink
 23661681 2013 here http://code.google.com/p/mp-est/ 405 code http://code.google.com/p/phybase/ 405 
 NA 2013 null www.nar.oxfordjournals.org -1 
 NA 2013 NoLink
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 23771147 2013 null http://galaxy.raetschlab.org/ 302 null http://kmersvm.beerlab.org/tutorial/ -1 null http://kmersvm.beerlab.org -1 tool http://toolshed.g2.bx.psu.edu/ 307 null http://kmersvm.beerlab.org/install/ -1 
 23677619 2013 
 23677613 2013 null C -1 null F -1 null H -1 null S2 -1 null C -1 null S4 -1 null B -1 
@@ -88,7 +88,7 @@ NA 2013 NoLink
 23794635 2013 null http://www.genemania.org 301 tool http://pages.genemania.org/tools/ 404 null http://pages.genemania.org/contact/ 200 null http://beta.genemania.org 404 null http://pages.genemania.org/data/ 200 null http://webservice.baderlab.org:8180/psi-gm/webservices -1 null http://www.ebi.ac.uk/Tools/webservices/psicquic/registry/registry?action=STATUS 500 null http://pages.genemania.org/help/linking-to-genemania/ 404 library https://github.com/cytoscape/cytoscape.js 301 null http://pages.genemania.org/help/#Network_data_sources 200 tool http://pages.genemania.org/tools/ 404 null http://pages.genemania/data/ -1 null http://pages.genemania.org/contact/ 200 null http://www.genemania.org/data_reports/ 301 
 NA 2013 null www.nar.oxfordjournals.org -1 
 NA 2013 NoLink
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 23700313 2013 null S2 -1 null S2 -1 
 23700307 2013 available http://bioinf.uni-greifswald.de/augustus/binaries/scripts 301 
 23737449 2013 null http://antismash.secondarymetabolites.org 301 available http://antismash.secondarymetabolites.org/download.html#extras 301 null http://antismash.secondarymetabolites.org 301 

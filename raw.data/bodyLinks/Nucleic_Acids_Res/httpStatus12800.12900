@@ -9,7 +9,7 @@
 25352556 2014 available http://bioinformaticstools.mayo.edu/research/esnv-detect/ 200 null https://cghub.ucsc.edu/ 200 null https://tcga-data.nci.nih.gov/tcga/ 301 null http://www.geneimprint.com/site/genes-by-species 200 null www.ingenuity.com -1 
 25300484 2014 code http://tide.nki.nl 302 null http://crispr.mit.edu/ 200 null https://chopchop.rc.fas.harvard.edu/ 301 tool http://spark.rstudio.com/yostlab/PolyPeakParser/ 404 code http://tide.nki.nl 302 
 NA 2014 null www.nar.oxfordjournals.org -1 
-NA 2014 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2014 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 25013175 2014 available Supplementaldata -1 null http://yeastgenome.org 302 null http://yeastgenome.org 302 
 25147208 2014 
 25106868 2014 null http://genome.ucsc.edu/ 200 
@@ -71,7 +71,7 @@ NA 2015 null www.nar.oxfordjournals.org -1
 26130716 2015 NoLink
 25488810 2015 
 25897132 2015 package http://www.bioconductor.org 200 null http://www.broadinstitute.org/igv 301 null http://cufflinks.cbcb.umd.edu 200 
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 25429978 2015 null http://www.ncbi.nlm.nih.gov/geo 301 code http://hgdownload.cse.ucsc.edu/downloads.html 200 code http://www.gencodegenes.org/releases/11.html 200 
 25355517 2015 
 24861615 2014 null http://www.perseus-framework.org 301 null http://pandas.pydata.org 200 

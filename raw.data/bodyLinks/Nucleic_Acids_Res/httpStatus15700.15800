@@ -25,7 +25,7 @@
 27651453 2017 null http://human.brain-map.org 200 null http://genome.ucsc.edu/ 200 null http://genome.ucsc.edu/ 200 
 27899637 2017 NoLink
 27701075 2017 NoLink
-NA 2017 null https://academic.oup.com/nar 301 null https://academic.oup.com/nar/pages/Open_Access_Initiative 301 null https://academic.oup.com/nar/subscribe 301 null http://dx.doi.org/ 200 here https://academic.oup.com/journals/pages/about_us/ethical_policies 301 null https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions 301 
+NA 2017 null https://academic.oup.com/nar 301 null https://academic.oup.com/nar/pages/Open_Access_Initiative 301 null https://academic.oup.com/nar/subscribe 301 null https://doi.org/ 200 here https://academic.oup.com/journals/pages/about_us/ethical_policies 301 null https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions 301 
 NA 2017 NoLink
 NA 2017 null https://academic.oup.com/nar 301 
 28069995 2017 download http://bradbusse.net/sciencedownloads.html 200 null http://fiji.sc/Fiji 301 
@@ -71,14 +71,14 @@ NA 2017 null https://academic.oup.com/nar 301
 27325738 2016 code www.rcsb.org -1 null http://www.cuemol.org 200 
 27794043 2017 NoLink
 27466460 2016 NoLink
-NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2016 null www.nar.oxfordjournals.org -1 
 27924027 2017 NoLink
 NA 2017 null https://academic.oup.com/nar 301 
 27903899 2017 NoLink
 27738136 2017 NoLink
 27672039 2017 null http://www.genomics.agilent.com/primerDesignProgram.jsp 301 null http://rnaseq-mats.sourceforge.net/ 200 
-NA 2017 null https://academic.oup.com/nar 301 null https://academic.oup.com/nar/pages/Open_Access_Initiative 301 null https://academic.oup.com/nar/subscribe 301 null http://dx.doi.org/ 200 here https://academic.oup.com/journals/pages/about_us/ethical_policies 301 null https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions 301 
+NA 2017 null https://academic.oup.com/nar 301 null https://academic.oup.com/nar/pages/Open_Access_Initiative 301 null https://academic.oup.com/nar/subscribe 301 null https://doi.org/ 200 here https://academic.oup.com/journals/pages/about_us/ethical_policies 301 null https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions 301 
 28123036 2017 NoLink
 27899640 2017 null https://www.pymol.org/ 302 null http://ebi.ac.uk/pdbe/prot_int/pistart.html -1 
 27924031 2017 NoLink

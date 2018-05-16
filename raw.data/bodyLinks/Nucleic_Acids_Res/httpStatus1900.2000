@@ -4,7 +4,7 @@
 16870722 2006 null www.analyse-it.com -1 
 16845117 2006 null http://opaas.ibms.sinica.edu.tw/help/opaas.html -1 
 16845058 2006 null http://www.affymetrix.com 301 pipeline http://www.appliedbiosystems.com 301 tool http://www.R-project.org 200 null http://stats.math.uni-augsburg.de/Rserve/ -1 code http://www.ci.tuwien.ac.at/~leisch/Sweave 404 pipeline http://www.appliedbiosystems.com 301 here https://carmaweb.genome.tugraz.at/genesis 301 
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 16870719 2006 NoLink
 16870720 2006 NoLink
 16936317 2006 NoLink
@@ -62,7 +62,7 @@ NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/opena
 16540594 2006 NoLink
 16540595 2006 NoLink
 16670426 2006 null www.appliedbiosystems.com -1 
-NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 16547199 2006 NoLink
 16549873 2006 null http://cellcycle-www.stanford.edu -1 
 16547201 2006 null biomers.net -1 
@@ -78,7 +78,7 @@ NA 2012 null www.nar.oxfordjournals.org -1
 16547200 2006 null http://crd.lbl.gov/~cding/Spectral/ 302 null http://books.nips.cc/papers/files/nips15/AA26.pdf 301 null citeseer.ist.psu.edu/article/meila01random.html -1 null http://www-2.cs.cmu.edu/Groups/NIPS/NIPS2001/papers/psgz/AA35.ps.gz 302 null citeseer.ist.psu.edu/shi97normalized.html -1 
 16554555 2006 null http://www.fruitfly.org/seq_tools/splice.html 200 null http://genes.mit.edu/burgelab/rescue-ese/ 200 
 16549872 2006 NoLink
-NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 16571899 2006 package www.bioconductor.org -1 null http://dbtss.hgc.jp/index.html 301 null http://darwin.nmsu.edu -1 
 16554553 2006 NoLink
 16556909 2006 NoLink
@@ -89,7 +89,7 @@ NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null w
 16582101 2006 NoLink
 16556912 2006 NoLink
 NA 2006 NoLink
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2006 NoLink
 16582104 2006 NoLink
 16679448 2006 NoLink

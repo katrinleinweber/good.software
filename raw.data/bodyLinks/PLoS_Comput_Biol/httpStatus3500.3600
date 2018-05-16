@@ -62,7 +62,7 @@ NA 2014 null www.daad.de -1 null www.mdc-berlin.de -1 null www.nsf.gov -1
 25393293 2014 NoLink
 25393308 2014 NoLink
 25393408 2014 NoLink
-25393548 2014 download http://remoto.leb.usp.br/ 200 null http://dx.doi.org/10.6084/m9.figshare.1029085 303 null http://dx.doi.org/10.6084/m9.figshare.1027609 303 null http://dx.doi.org/10.6084/m9.figshare.1029084 303 
+25393548 2014 download http://remoto.leb.usp.br/ 200 null https://doi.org/10.6084/m9.figshare.1029085 303 null https://doi.org/10.6084/m9.figshare.1027609 303 null https://doi.org/10.6084/m9.figshare.1029084 303 
 25393661 2014 NoLink
 25393751 2014 NoLink
 25393874 2014 null https://github.com/nakae-k/glia-neuron 301 

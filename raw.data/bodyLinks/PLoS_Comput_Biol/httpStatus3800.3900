@@ -25,7 +25,7 @@
 25723389 2015 NoLink
 25729859 2015 null http://blanco.biomol.uci.edu/mpstruc/ 200 null www.gromacs.org -1 null http://www.pymol.org 302 
 NA 2015 NoLink
-25723545 2015 null http://m3d.mssm.edu/ 200 available http://dx.doi.org/10.6084/m9.figshare.1249869 303 
+25723545 2015 null http://m3d.mssm.edu/ 200 available https://doi.org/10.6084/m9.figshare.1249869 303 
 25734978 2015 NoLink
 25738731 2015 null http://www.ncbi.nlm.nih.gov/homologene 301 algorithm http://www.bhsai.org/downloads/hpia/ 302 
 25742563 2015 NoLink
@@ -38,7 +38,7 @@ NA 2015 NoLink
 25742003 2015 NoLink
 25768881 2015 null http://gru.brain.riken.jp/doku.php/mgl/overview -1 null http://senselab.med.yale.edu/ModelDB/ 302 available http://senselab.med.yale.edu/modeldb 302 available https://senselab.med.yale.edu/modeldb 302 available https://senselab.med.yale.edu/modeldb 302 
 25763816 2015 NoLink
-25768983 2015 null http://gdac.broadinstitute.org/runs/analyses__2013_02_22/ 200 null https://github.com/cdeboever3/svm-bpfinder 301 available https://github.com/cdeboever3/deboever-sf3b1-2015 301 null http://dx.doi.org/10.6084/m9.figshare.1120663 303 
+25768983 2015 null http://gdac.broadinstitute.org/runs/analyses__2013_02_22/ 200 null https://github.com/cdeboever3/svm-bpfinder 301 available https://github.com/cdeboever3/deboever-sf3b1-2015 301 null https://doi.org/10.6084/m9.figshare.1120663 303 
 25775355 2015 NoLink
 25768678 2015 null http://www.R-project.org 200 null http://www.ncbi.nlm.nih.gov/geo/info/linking.html 301 download http://kmplot.com 200 
 25786242 2015 tool http://broadinstitute.org/cmap/ 301 null http://ophid.utoronto.ca/cdip/ 302 available http://www.cs.utoronto.ca/~juris/data/cmapbatch 301 null http://ophid.utoronto.ca/cdip/ 302 null https://www.oncomine.org/ 302 null http://www.broadinstitute.org/cmap/ 301 
@@ -84,7 +84,7 @@ NA 2015 NoLink
 25876062 2015 null www.pymol.org -1 
 25831448 2015 code http://pillowlab.princeton.edu/code.html 200 
 25826753 2015 NoLink
-25837826 2015 null http://dx.doi.org/10.5061/dryad.s38n5 303 
+25837826 2015 null https://doi.org/10.5061/dryad.s38n5 303 
 25856076 2015 null www.mygoblet.org -1 null www.mygoblet.org -1 
 25837678 2015 null http://www.ploscollections.org/article/info:doi/10.1371/journal.pcbi.1003858 302 
 25853560 2015 null http://www.ncbi.nlm.nih.gov/omim 301 null http://www.ncbi.nlm.nih.gov/gap/PheGenI 301 download http://www.geneontology.org/ 200 

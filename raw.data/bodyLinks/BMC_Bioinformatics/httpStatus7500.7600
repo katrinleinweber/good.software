@@ -53,7 +53,7 @@
 26846597 2016 NoLink
 26911705 2016 code http://bjpop.github.io/methpat/ 200 code http://bjpop.github.io/methpat/ 200 code http://bjpop.github.io/methpat/ 200 
 26911289 2016 null http://genomics.wpi.edu/gemini 301 null https://bitbucket.org/flahertylab/gemini 301 null http://creativecommons.org/licenses/by/4.0/ 301 
-26911566 2016 null http://dx.doi.org/10.5281/zenodo.32989 303 null https://github.com/jeongchans/smrf 301 null http://dx.doi.org/10.5281/zenodo.45543 303 
+26911566 2016 null https://doi.org/10.5281/zenodo.32989 303 null https://github.com/jeongchans/smrf 301 null https://doi.org/10.5281/zenodo.45543 303 
 26908256 2016 NoLink
 26911862 2016 code http://transdecoder.github.io 200 pipeline http://trinotate.github.io 200 
 26911432 2016 available http://bioinfo.eie.polyu.edu.hk/SpaPredictorServer/ 200 null http://www.proteinatlas.org/ 200 null http://www.geneontology.org 200 null http://prosite.expasy.org/ 200 null http://www.ebi.ac.uk/GOA 301 null http://www.uniprot.org/ 200 download http://www2.imm.dtu.dk/projects/spasm/ 200 

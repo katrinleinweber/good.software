@@ -47,7 +47,7 @@ NA 2013 null www.nar.oxfordjournals.org -1
 23703216 2013 null S4 -1 null S5 -1 null S4 -1 
 NA 2013 NoLink
 23804766 2013 
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 21911355 2012 null http://www.ncbi.nlm.nih.gov/geo 301 null http://www-snorna.biotoul.fr 302 null http://trnadb.bioinf.uni-leipzig.de/ 200 null http://www.ncbi.nlm.nih.gov/ 301 null http://www.mirbase.org/ 200 
 NA 2014 NoLink
 21911361 2012 null www.neb.com -1 null C -1 null www.neb.com -1 
@@ -70,7 +70,7 @@ NA 2013 NoLink
 23742906 2013 algorithm S7 -1 
 NA 2013 null www.nar.oxfordjournals.org -1 
 NA 2013 NoLink
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 23748567 2013 null S5B -1 null C -1 null S5B -1 
 25389268 2014 
 23723245 2013 null http://hydra.icgeb.trieste.it/dna/bend_it.html 301 

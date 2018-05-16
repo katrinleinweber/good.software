@@ -3,7 +3,7 @@
 25392414 2015 available mechismo.russelllab.org -1 
 25567988 2015 
 25567982 2015 
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 25452338 2015 null http://scop.mrc-lmb.cam.ac.uk/scop/data/scop.b.b.j.e.gc.html 200 null ftp://ftp.ncbi.nih.gov/genomes/Bacteria/ 301 null http://www.ebi.ac.uk/Tools/msa/clustalo/ 301 null http://www.ebi.ac.uk/Tools/phylogeny/clustalw2_phylogeny/ 301 tool http://itol.embl.de/ 200 null http://weblogo.berkeley.edu/ 200 
 25505143 2015 
 25564528 2015 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 
@@ -26,7 +26,7 @@ NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/opena
 25690901 2015 
 25550434 2015 
 25550427 2015 null http://zfin.org/zf_info/zfbook/zfbk.html 403 
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 25567983 2015 null http://bioinformatics.istge.it/clima/ -1 
 25378305 2015 software http://omics.pnl.gov/software/protein-digestion-simulator 301 
 25552414 2015 software http://www.grc.nia.nih.gov/branches/rrb/dna/diane_software.pdf 302 
@@ -55,7 +55,7 @@ NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/opena
 25550430 2015 software http://bioviz.org/igb.html 404 package http://www.bioconductor.org/packages/2.11/bioc/html/tilingArray.html 200 
 25477382 2015 available http://tagc.univ-mrs.fr/remap/ 200 code http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeRegTfbsClustered/wgEncodeRegTfbsClusteredV3.bed.gz 200 null http://genome.ucsc.edu/ENCODE/qualityMetrics.html 200 code https://code.google.com/p/phantompeakqualtools/ 405 available http://tagc.univ-mrs.fr/remap/ 200 code http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeRegDnaseClustered/wgEncodeRegDnaseClusteredV2.bed.gz 200 tool http://genome.ucsc.edu/cgi-bin/hgLiftOver 200 tool great.stanford.edu -1 available http://tagc.univ-mrs.fr/remap/ 200 available http://tagc.univ-mrs.fr/remap/ 200 available http://tagc.univ-mrs.fr/remap/ 200 
 25916849 2015 
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 26602689 2016 
 25990720 2015 null ftp://ftp.informatics.jax.org/pub/reports/HMD_HumanPhenotype.rpt -1 download http://mendel.stanford.edu/SidowLab/downloads/gerp/ 200 null http://www.repeatmasker.org 200 
 25303992 2014 

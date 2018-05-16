@@ -73,7 +73,7 @@ reader=csv.reader(file)
 
 
 #['PLoS_Comput_Biol', '19381256', '2009', 'null', 'http://purl.org/net/cito/', '502',
-# 'available', 'http://dx.doi.org/10.1371/journal.pntd.0000228.x001', '303']
+# 'available', 'https://doi.org/10.1371/journal.pntd.0000228.x001', '303']
 
 for line in reader:
 
@@ -105,7 +105,7 @@ for line in reader:
                 if line[8] != '' and (line[8].isdigit() or line[8]=='-1'):
                     link2=line[7]
                     #['PLoS_Comput_Biol', '19381256', '2009', 'null', 'http://purl.org/net/cito/',  '502', 'available',
-                    # 'http://dx.doi.org/10.1371/journal.pntd.0000228.x001', '303']
+                    # 'https://doi.org/10.1371/journal.pntd.0000228.x001', '303']
 
                     #check if the link is not part of good links
                     if link2 in goodLinks:

@@ -86,7 +86,7 @@
 22747640 2012 NoLink
 22292986 2012 NoLink
 22784381 2012 NoLink
-22805712 2012 tool http://www.ebi.ac.uk/ena/about/cram_toolkit 301 null http://www.genomics.cn/FlexLab/html/gaea.html 200 null http://galaxy.psu.edu/ 302 here http://usegalaxy.org/cloud 302 null http://www.nectar.org.au/ 301 null http://cistrome.org/ap 302 null http://dx.doi.org/10.5524/100034 303 null http://www.completegenomics.com/public-data/ 200 available http://opengenome.net 301 null http://biolicense.org/ 301 
+22805712 2012 tool http://www.ebi.ac.uk/ena/about/cram_toolkit 301 null http://www.genomics.cn/FlexLab/html/gaea.html 200 null http://galaxy.psu.edu/ 302 here http://usegalaxy.org/cloud 302 null http://www.nectar.org.au/ 301 null http://cistrome.org/ap 302 null https://doi.org/10.5524/100034 303 null http://www.completegenomics.com/public-data/ 200 available http://opengenome.net 301 null http://biolicense.org/ 301 
 22805650 2012 NoLink
 22809392 2012 NoLink
 22809431 2012 null NC_005213 -1 null NC_005213 -1 null 490885 -1 null NC_005213 -1 null 490885 -1 

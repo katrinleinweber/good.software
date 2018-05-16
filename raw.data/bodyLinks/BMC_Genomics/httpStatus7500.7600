@@ -71,7 +71,7 @@
 25880556 2015 null www.biobancovasco.com -1 
 25887520 2015 null http://popgenie.org/ 200 null http://phytozome.jgi.doe.gov/pz/portal.html#!info?alias=Org_Ptrichocarpa 302 null http://psort.hgc.jp/ 301 tool http://web.expasy.org/compute_pi 301 null http://www.phytozome.net/poplar 302 null http://gsds.cbi.pku.edu.cn 200 null http://www.phytozome.net 302 null http://meme.sdsc.edu 301 tool http://aspendb.uga.edu/poparray 404 software http://frodo.wi.mit.edu/primer3/input.htm 301 
 25888292 2015 null http://broadinstitute.github.io/picard/ 200 
-25880986 2015 null http://dx.doi.org/10.1016/j.fgb.2008.04.005 303 
+25880986 2015 null https://doi.org/10.1016/j.fgb.2008.04.005 303 
 25887225 2015 NoLink
 25879542 2015 NoLink
 25886969 2015 tool http://hannonlab.cshl.edu/fastx_toolkit/ 200 null http://arxiv.org/abs/1207.3907 301 available ftp://ftp.bioinfo.wsu.edu/projects/RosBREED/strawberry/ -1 download http://media.affymetrix.com/support/downloads/manuals/axiom_2_assay_auto_workflow_user_guide.pdf 301 download http://media.affymetrix.com/support/downloads/manuals/axiom_genotyping_solution_analysis_guide.pdf 301 
@@ -88,7 +88,7 @@
 25514978 2014 null http://pfam.sanger.ac.uk 301 null http://gigadb.org/dataset/100030 200 
 25527327 2014 null http://www.geneontology.org 200 software http://trinityrnaseq.sf.net 301 null http://www.blast2go.org/ 403 
 25523483 2014 null http://bioinf.uni-greifswald.de/gb2/gbrowse/tcas4/ 200 
-25511458 2014 available http://dx.doi.org/10.5281/zenodo.12626 303 null http://www.bio.utexas.edu/research/matz_lab/matzlab/Methods_files/transcriptomeAssemblyAnnotation.v.1.1.tgz 200 pipeline http://sourceforge.net/projects/tag-based-rnaseq/ 301 available https://zenodo.org/badge/doi/10.5281/zenodo.12626.png 301 available http://dx.doi.org/10.5281/zenodo.12626 303 null https://github.com/grovesdixon/CpGoe.git 301 
+25511458 2014 available https://doi.org/10.5281/zenodo.12626 303 null http://www.bio.utexas.edu/research/matz_lab/matzlab/Methods_files/transcriptomeAssemblyAnnotation.v.1.1.tgz 200 pipeline http://sourceforge.net/projects/tag-based-rnaseq/ 301 available https://zenodo.org/badge/doi/10.5281/zenodo.12626.png 301 available https://doi.org/10.5281/zenodo.12626 303 null https://github.com/grovesdixon/CpGoe.git 301 
 25511286 2014 available http://img.jgi.doe.gov/ 302 software http://tree.bio.ed.ac.uk/software/figtree/ 200 available https://github.com/najoshi/sickle 301 available http://ggkbase.berkeley.edu/ 200 
 25511156 2014 NoLink
 25511933 2014 NoLink

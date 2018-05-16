@@ -32,7 +32,7 @@
 24005040 2013 null S2 -1 null S4 -1 here S6 -1 null S8 -1 
 NA 2013 null www.nar.oxfordjournals.org -1 
 NA 2013 NoLink
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 24013561 2013 null F -1 
 24013566 2013 null S9 -1 
 24013563 2013 null www.proteinatlas.org -1 null www.proteinatlas.org -1 
@@ -64,7 +64,7 @@ NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null w
 24711368 2014 null http://gtrnadb.ucsc.edu/ 200 null http://gtrnadb.ucsc.edu/ 200 
 NA 2013 NoLink
 NA 2013 null www.nar.oxfordjournals.org -1 
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 23161691 2013 null http://www.rslabs.org 200 null http://mfold.rna.albany.edu/?q=DINAMelt/Ensemble-calc 301 null http://mfold.rna.albany.edu/ 301 null http://bibiserv.techfak.uni-bielefeld.de/rnaforester/ 301 null http://sfold.wadsworth.org/cgi-bin/index.pl 200 null http://www.ecocyc.org 302 null Figure
 S10 -1 
 23254334 2013 null S3A -1 null B -1 software http://www.gwyddion.net/ 301 null B -1 null D -1 

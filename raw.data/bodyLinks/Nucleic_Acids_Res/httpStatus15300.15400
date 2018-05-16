@@ -84,11 +84,11 @@
 27151195 2016 code http://www.rcsb.org/pdb/ 302 
 27150810 2016 method http://www.ncbi.nlm.nih.gov/projects/mutabind/ 301 null ftp://ftp.ncbi.nih.gov/pub/panch/MutaBind 301 null http://www.ebi.ac.uk/msd-srv/capri/round26/ 200 
 27151201 2016 null http://ligin.weizmann.ac.il/cma/ -1 null https://www.pymol.org 302 
-27190236 2016 software http://www.broadinstitute.org/cancer/software/GENE-E/ 301 null http://dx.doi.org/10.1101/034694 303 null http://www.openheatmap.com -1 code https://code.google.com/p/google-gadget-heatmap/ 405 null http://mapletree.sourceforge.net 200 code https://github.com/sbabicki/heatmapper 301 
+27190236 2016 software http://www.broadinstitute.org/cancer/software/GENE-E/ 301 null https://doi.org/10.1101/034694 303 null http://www.openheatmap.com -1 code https://code.google.com/p/google-gadget-heatmap/ 405 null http://mapletree.sourceforge.net 200 code https://github.com/sbabicki/heatmapper 301 
 NA 2016 null www.nar.oxfordjournals.org -1 
 27185890 2016 available quadbase.igib.res.in -1 
 27141966 2016 null http://angularplasmid.vixis.com 200 null http://d3js.org 301 null http://sidekiq.org 301 
-NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 27106060 2016 null http://tcoffee.crg.cat/tmcoffee 302 null http://tcoffee.crg.cat/ 200 available www.tcoffee.org -1 null http://www.tcoffee.org/Projects/tcoffee/#DOCUMENTATION 200 here http://tcoffee.crg.cat/apps/tcoffee/result?rid=jobid 400 
 27098043 2016 null http://gnuplot.info 200 null https://www.r-project.org/ 200 library http://www.highcharts.com/ 302 null http://www.sqlite.org/ 200 null http://www.mysql.com 301 null http://edgar.computational.bio 301 
 27174932 2016 NoLink

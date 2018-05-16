@@ -5,7 +5,7 @@
 27140173 2016 available http://www.ncbi.nlm.nih.gov/gap/phegeni 301 null http://www.genome.gov/gwastudies/ 301 null http://www.broadinstitute.org/mammals/haploreg/haploreg_v3.php 301 
 27139883 2016 null http://www.gtexportal.org/home/ 302 
 27139692 2016 download http://www.uniprot.org/ 200 download http://www.thegpm.org/crap/ 200 null http://imagej.net 301 null http://www.adobe.com/ 200 software https://inkscape.org/en/ 301 null http://www.ebi.ac.uk/pride/archive/projects/PXD002215 301 
-27139377 2016 null http://chromnet.cs.washington.edu 200 null https://github.com/slundberg/ChromNet.jl 301 code http://dx.doi.org/10.5281/zenodo.45900 303 available http://dx.doi.org/10.5281/zenodo.45768 303 null http://chromnet.cs.washington.edu 200 
+27139377 2016 null http://chromnet.cs.washington.edu 200 null https://github.com/slundberg/ChromNet.jl 301 code https://doi.org/10.5281/zenodo.45900 303 available https://doi.org/10.5281/zenodo.45768 303 null http://chromnet.cs.washington.edu 200 
 27142433 2016 NoLink
 27142380 2016 method https://www.r-project.org 200 method https://github.com/GreenwoodLab/CellTypeAdjustment 301 available http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000779.v1.p1 301 null https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42861 301 null https://zenodo.org/record/46746%23.VtW8H2SAOko 301 software http://people.oregonstate.edu/~housemae/software/TutorialLondon2014 301 package http://bioconductor.org/packages/release/bioc/html/minfi.html 200 package http://cran.r-project.org/web/packages/RefFreeEWAS/index.html 200 package http://bioconductor.org/packages/release/bioc/html/sva.html 200 package http://cran.r-project.org/web/packages/isva/index.html 200 download http://research.microsoft.com/en-us/downloads/472fe637-7cb9-47d4-a0df-37118760ccd1 301 null https://github.com/jameswagner/CellCDec 301 null http://web.cbio.uct.ac.za/~renaud/CRAN 301 package https://cran.r-project.org/web/packages/ruv/index.html 200 
 27150269 2016 NoLink
@@ -34,7 +34,7 @@
 27215581 2016 NoLink
 27215396 2016 null https://github.com/IMTMarburg/rnaseqmixture 301 null http://kmplot.com 200 
 27176874 2016 null http://www-huber.embl.de/users/anders/HTSeq/ 200 package http://www.r-project.org/ 200 null http://scikit-learn.org/stable/about.html#citing-scikit-learn 200 null http://www.ebi.ac.uk/arrayexpress/ 301 
-27215445 2016 null https://dx.doi.org/10.6084/m9.figshare.3181504.v1 303 
+27215445 2016 null https://doi.org/10.6084/m9.figshare.3181504.v1 303 
 27215675 2016 NoLink
 27215799 2016 NoLink
 27224977 2016 null www.ncbi.nlm.nih.gov/biosystems/217173 -1 here www.ncbi.nlm.nih.gov/refseq/ -1 null www.ncbi.nlm.nih.gov/blast/html/megablast.html -1 null https://github.com/lh3/wgsim 301 null www.ncbi.nlm.nih.gov/nucleotide -1 
@@ -43,7 +43,7 @@
 27233632 2016 available http://zenodo.org/record/49767 301 null https://bitbucket.org/roygroup/arboretum-hic 301 null http://genome.ucsc.edu/ 200 null http://genome.ucsc.edu/ 200 
 27246460 2016 available http://bioconductor.org/packages/AneuFinder/ 301 
 27246704 2016 NoLink
-27250555 2016 null http://www.lua.org/ 200 null https://github.com/brentp/vcfanno 301 null https://github.com/brentp/vcfanno/releases 301 null http://brentp.github.io/vcfanno/ 200 null https://github.com/brentp/vcfanno/tree/master/scripts/paper 301 null http://dx.doi.org/10.5281/zenodo.49500 303 null https://golang.org 302 null https://github.com/brentp/vcfanno/blob/master/scripts/paper/example.conf 301 
+27250555 2016 null http://www.lua.org/ 200 null https://github.com/brentp/vcfanno 301 null https://github.com/brentp/vcfanno/releases 301 null http://brentp.github.io/vcfanno/ 200 null https://github.com/brentp/vcfanno/tree/master/scripts/paper 301 null https://doi.org/10.5281/zenodo.49500 303 null https://golang.org 302 null https://github.com/brentp/vcfanno/blob/master/scripts/paper/example.conf 301 
 27259512 2016 null https://b2b.hci.utah.edu/gnomex/ 200 here http://it-collab01.cshl.edu/shares/gingeraslab/www-data/dobin/ENCODE2/Public/ 404 package http://www.bioconductor.org/packages/release/bioc/html/topGO.html 200 null https://b2b.hci.utah.edu/gnomex/ 200 
 27259285 2016 NoLink
 27259475 2016 download http://www.ncbi.nlm.nih.gov/ 301 

@@ -74,7 +74,7 @@ reader=csv.reader(file)
 
 
 #['PLoS_Comput_Biol', '19381256', '2009', 'null', 'http://purl.org/net/cito/', '502',
-# 'available', 'http://dx.doi.org/10.1371/journal.pntd.0000228.x001', '303']
+# 'available', 'https://doi.org/10.1371/journal.pntd.0000228.x001', '303']
 
 
 linksSetAbstract=set()
@@ -191,7 +191,7 @@ reader=csv.reader(file)
 
 
 #['PLoS_Comput_Biol', '19381256', '2009', 'null', 'http://purl.org/net/cito/', '502',
-# 'available', 'http://dx.doi.org/10.1371/journal.pntd.0000228.x001', '303']
+# 'available', 'https://doi.org/10.1371/journal.pntd.0000228.x001', '303']
 
 
 linksSet=set()

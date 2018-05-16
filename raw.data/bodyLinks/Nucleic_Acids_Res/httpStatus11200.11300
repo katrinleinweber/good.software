@@ -13,7 +13,7 @@
 23921638 2013 null S5 -1 
 23877244 2013 null S6 -1 null FigureS1B -1 null B -1 null B -1 null S7 -1 
 NA 2013 NoLink
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 23868089 2013 null http://www.ebi.ac.uk/ena 301 null http://www.pymol.org/ 302 null http://plasma-gate.weizmann.ac.il/Grace/ 200 
 23868090 2013 null http://www.pymol.org 302 
 23863838 2013 null C -1 null B -1 null D -1 null F -1 null H -1 
@@ -58,7 +58,7 @@ NA 2013 null www.nar.oxfordjournals.org -1
 23907388 2013 null http://www.sanger.ac.uk/cosmic 301 
 23863843 2013 software http://imagej.nih.gov/ij/ 302 
 NA 2013 NoLink
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 23921631 2013 download http://clip.med.yale.edu/QuSAGE 301 
 23863846 2013 
 24880690 2014 

@@ -63,7 +63,7 @@ NA 2005 null http://www3.oup.co.uk/nar/openaccess -1 null http://nar.oupjournals
 15608282 2005 NoLink
 15608198 2005 null http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed 301 null http://gateway.ovid.com 301 null http://lethargy.swmed.edu/argh/argh.asp -1 null http://lethargy.swmed.edu/argh/Statistics.htm -1 null http://abbreviation.stanford.edu/ -1 code http://bionlp.stanford.edu/webservices.html -1 null http://medstract.med.tufts.edu/acro1.1/index.htm -1 null http://www.medstract.org 302 null http://www.hpl.hp.com/research/idl/projects/abbrev.html 200 
 15608210 2005 null http://EcoCyc.org/advisors.shtml 302 available http://Biocyc.org/ 302 null http://BioCyc.org/ecocyc/release-notes.shtml 302 null http://EcoCyc.org/contributors.shtml 302 tool http://bioinformatics.ai.sri.com/ptools/flatfile-format.html 200 null http://www.biopax.org 200 tool http://bioinformatics.ai.sri.com/ptools/ptools-resources.html 200 download http://BioCyc.org/download.shtml 302 
-15608200 2005 null http://rdp.cme.msu.edu/ 200 null http://dx.doi.org/10.1007/bergeysoutline 303 null http://rdp.cme.msu.edu/ 200 
+15608200 2005 null http://rdp.cme.msu.edu/ 200 null https://doi.org/10.1007/bergeysoutline 303 null http://rdp.cme.msu.edu/ 200 
 15608201 2005 available http://www.ebi.ac.uk/GenomeReviews 301 download http://www.ebi.ac.uk/integr8 301 null ftp://ftp.ebi.ac.uk/pub/databases/genome_reviews 301 null ftp://ftp.ebi.ac.uk/pub/databases/integr8 301 available http://www.ebi.ac.uk/biomart 301 
 15608202 2005 NoLink
 15608203 2005 null http://www.partigenedb.org 200 null http://www.partigenedb.org 200 

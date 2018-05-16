@@ -27,7 +27,7 @@
 19129232 2009 NoLink
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
+NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
 19129217 2009 
 19129218 2009 null http://genome.ucsc.edu/ 200 code http://swissmodel.expasy.org/SWISS-MODEL.html 302 null http://www.ebi.ac.uk/msd-srv/prot_int/pistart.html 200 
 18411202 2008 available http://stothard.afns.ualberta.ca/cgview_server/ 200 null http://www.sanger.ac.uk/Software/formats/GFF/ 301 available http://stothard.afns.ualberta.ca/cgview_server/ 200 
@@ -96,5 +96,5 @@ NA 2009 NoLink
 19295133 2009 
 19726584 2009 null TableS4 -1 null TableS4 -1 
 19880383 2010 null http://phosphat.mpimp-golm.mpg.de 301 code http://phosphat.mpimp-golm.mpg.de/phosphat.html?code=AtXGXXXXX 301 
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
 19304999 2009 

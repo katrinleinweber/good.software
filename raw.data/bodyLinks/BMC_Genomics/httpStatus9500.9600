@@ -70,7 +70,7 @@ NA 2013 available http://www.biomedcentral.com/bmcgenomics/supplements/14/S2 301
 27855648 2016 NoLink
 27863463 2016 NoLink
 27846794 2016 null http://www.phrap.org/phredphrapconsed.html 200 null https://img.jgi.doe.gov/ 302 null https://img.jgi.doe.gov/ 302 
-27846808 2016 null http://dx.doi.org/10.5061/dryad.5pv1k 303 
+27846808 2016 null https://doi.org/10.5061/dryad.5pv1k 303 
 27835941 2016 available http://wheat.pw.usda.gov/GG2/index.shtml 302 null http://bioinf.scri.ac.uk/barley_snpdb/index.html 200 null http://www.diversityarrays.com/ 200 software https://www.broadinstitute.org/gatk/guide/best-practices.php 301 
 27852215 2016 null http://www.ncbi.nlm.nih.gov/sra 301 null http://www.blast2go.org/ 403 
 27852222 2016 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 

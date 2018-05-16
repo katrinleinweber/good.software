@@ -89,7 +89,7 @@ NA 2015 NoLink
 25885484 2015 null http://gmlab.bio.rpi.edu 200 
 26153434 2015 NoLink
 25885646 2015 NoLink
-25887972 2015 package www.github.com/juliema/aTRAM -1 download http://www.github.com/juliema/aTRAM 301 null http://dx.doi.org/10.5061.dryad.kh886 404 null http://dx.doi.org/10.5061.dryad.kh886 404 
+25887972 2015 package www.github.com/juliema/aTRAM -1 download http://www.github.com/juliema/aTRAM 301 null https://doi.org/10.5061.dryad.kh886 404 null https://doi.org/10.5061.dryad.kh886 404 
 27842491 2016 NoLink
 25885037 2015 null www.biomart.org -1 null https://www.cosmoss.org/annotation/genonaut 200 available http://bar.utoronto.ca/interactions/cgi-bin/arabidopsis_interactions_viewer.cgi 200 
 25591988 2015 null http://www.ebi.ac.uk/ontology-lookup/ 301 null http://www.informatics.jax.org/ 200 

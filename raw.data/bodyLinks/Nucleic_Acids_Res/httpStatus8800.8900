@@ -18,7 +18,7 @@
 NA 2012 NoLink
 NA 2012 null www.nar.oxfordjournals.org -1 
 NA 2012 NoLink
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 21989406 2012 null http://www.exocarta.org 200 null http://www.exocarta.org/credits 200 
 22080547 2012 null S6 -1 null S4 -1 null S4 -1 null S4 -1 null S6 -1 null S13 -1 
 22084196 2012 null http://www.ncbi.nlm.nih.gov/projects/gv/rbc/xslcgi.fcgi?cmd=bgmut 301 null http://ibgrl.blood.co.uk/ISBT%20Pages/ISBT%20Terminology%20Pages/Table%20of%20blood%20group%20systems.htm 301 here http://www.ncbi.nlm.nih.gov/projects/gv/rbc/align.fcgi?cmd=aligndisplay 301 tool http://www.ncbi.nlm.nih.gov/projects/gv/rbc/sbt.cgi?cmd=main 301 
@@ -71,7 +71,7 @@ NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/opena
 22096230 2012 null http://www.wikipathways.org 301 
 22096231 2012 null http://genome.jgi-psf.org/ 302 available http://eggnog.embl.de 302 
 22096229 2012 null http://www.ebi.ac.uk/Tools/pfa/iprscan/ 301 null http://www.ebi.ac.uk/Tools/webservices/services/pfa/iprscan_soap 301 null http://www.ebi.ac.uk/Tools/webservices/services/pfa/iprscan_rest 301 software ftp://ftp.ebi.ac.uk/pub/software/unix/iprscan 301 null ftp://ftp.ebi.ac.uk/pub/databases/interpro/ParentChildTreeFile.txt 200 available http://wwwdev.ebi.ac.uk/interpro 404 code http://code.google.com/p/interproscan/wiki/RunningStandaloneInterProScan5 405 null http://www.biomart.org 200 null http://www.biodas.org/documents/spec-1.6.html 301 code http://code.google.com/p/mydas/ 405 null http://www.dasregistry.org/ 301 null http://www.ebi.ac.uk/das-srv/interpro/das/InterPro 301 null http://www.ebi.ac.uk/das-srv/interpro/das/InterPro-matches-overview 301 null http://www.ebi.ac.uk/dasty 301 null http://www.ebi.ac.uk/das-srv/interpro/das/InterPro-UniParc-matches 301 
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 22096233 2012 null http://www.minas.uzh.ch 200 null http://www.minas.uzh.ch 200 null http://merna.lbl.gov -1 null http://www.minas.uzh.ch 200 null http://www.minas.uzh.ch/search 301 null S8 -1 null S10 -1 null S16 -1 null http://www.minas.uzh.ch/search 301 null http://www.minas.uzh.ch/search 301 
 22009673 2012 null http://db-mml.sjtu.edu.cn/ICEberg/ 200 
 22096232 2012 null http://www.ebi.ac.uk/biosamples/documents/BioSampleDB_EBI_NCBI.pdf 301 available http://www.ebi.ac.uk/microarray-srv/biosd/static/st.html 301 available http://www.findmice.org/reportlist.jsp 404 

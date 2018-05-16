@@ -627,7 +627,7 @@ NA 2015 NoLink
 26209979 2015 NoLink
 26111937 2015 NoLink
 27460034 2016 NoLink
-26260760 2015 null http://dx.doi.org/10.6070/H4513W6X 303 
+26260760 2015 null https://doi.org/10.6070/H4513W6X 303 
 26259567 2015 download http://www.rxncon.org 200 null https://github.com/ialbert/booleannet 301 package http://www.r-project.org 200 download http://www.rxncon.org 200 
 26271256 2015 library http://bioinfo-out.curie.fr/projects/elmap/ 200 library http://acs.lbl.gov/ACSSoftware/colt/ 301 code http://bioinfo-out.curie.fr/projects/dedal/ 200 code http://bioinfo-out.curie.fr/projects/dedal/ 200 code http://bioinfo-out.curie.fr/projects/dedal/ 200 
 26319399 2015 package http://cran.r-project.org/web/packages/ppiPre/index.html. 404 
@@ -690,7 +690,7 @@ NA 2015 NoLink
 26704692 2015 null http://mpf.biol.vt.edu/research/budding_yeast_model/pp/ 200 null https://www.ebi.ac.uk/biomodels-main/BIOMD0000000056 200 null http://copasi.org/Projects/ 200 null http://mpf.biol.vt.edu/research/budding_yeast_model/pp/ 200 null http://www.copasi.org/Projects 301 null https://www.ebi.ac.uk/biomodels-main/BIOMD0000000056 200 
 26714638 2015 NoLink
 26714768 2015 NoLink
-26160520 2015 null http://sysmo.net/ 200 null http://www.virtual-liver.de/ 200 code https://bitbucket.org/seek4science/seek/wiki/Home 301 null http://www.sysmo-db.org/seek-vm 404 null http://fair-dom.org/ 302 null http://www.seek4science.org 200 null https://dx.doi.org/10.15490/seek.1.datafile.1152.2 303 null http://lucene.apache.org/ 200 null http://www.w3.org/RDF/ 301 null http://lod-cloud.net/ 200 null http://www.w3.org/TR/sparql11-overview/ 200 null https://wiki.sysmo-db.org/seek/sparql-examples 302 available http://seek4science.org/sites/default/files/seekdocs-0.22.0/doc/SETTING-UP-VIRTUOSO.html 404 null http://bioportal.bioontology.org/ontologies/1488 301 available https://seek.sysmo-db.org/help/templates 302 null https://sems.uni-rostock.de/bives/ 301 null https://demo.sysmo-db.org/models/33 302 null https://github.com/seek4science/seek/blob/master/lib/seek/config_setting_attributes.yml 301 here https://github.com/seek4science/seek/blob/master/config/initializers/seek_configuration.rb-openseek 301 null https://github.com/seek4science/seek/blob/master/Gemfile 301 null https://demo.sysmo-db.org/investigations/2.xml 302 available https://github.com/seek4science/seek/blob/master/public/2010/xml/rest/schema-v1.xsd 301 null https://demo.sysmo-db.org/investigations/2.rdf 302 null http://www.sysmo.net 200 available https://seek.sysmo-db.org/ 302 null https://seek.sysmo-db.org/investigations/51 302 null http://www.virtual-liver.de 200 null http://seek.virtual-liver.de 200 null https://seek.sysmo-db.org/studies/112 302 
+26160520 2015 null http://sysmo.net/ 200 null http://www.virtual-liver.de/ 200 code https://bitbucket.org/seek4science/seek/wiki/Home 301 null http://www.sysmo-db.org/seek-vm 404 null http://fair-dom.org/ 302 null http://www.seek4science.org 200 null https://doi.org/10.15490/seek.1.datafile.1152.2 303 null http://lucene.apache.org/ 200 null http://www.w3.org/RDF/ 301 null http://lod-cloud.net/ 200 null http://www.w3.org/TR/sparql11-overview/ 200 null https://wiki.sysmo-db.org/seek/sparql-examples 302 available http://seek4science.org/sites/default/files/seekdocs-0.22.0/doc/SETTING-UP-VIRTUOSO.html 404 null http://bioportal.bioontology.org/ontologies/1488 301 available https://seek.sysmo-db.org/help/templates 302 null https://sems.uni-rostock.de/bives/ 301 null https://demo.sysmo-db.org/models/33 302 null https://github.com/seek4science/seek/blob/master/lib/seek/config_setting_attributes.yml 301 here https://github.com/seek4science/seek/blob/master/config/initializers/seek_configuration.rb-openseek 301 null https://github.com/seek4science/seek/blob/master/Gemfile 301 null https://demo.sysmo-db.org/investigations/2.xml 302 available https://github.com/seek4science/seek/blob/master/public/2010/xml/rest/schema-v1.xsd 301 null https://demo.sysmo-db.org/investigations/2.rdf 302 null http://www.sysmo.net 200 available https://seek.sysmo-db.org/ 302 null https://seek.sysmo-db.org/investigations/51 302 null http://www.virtual-liver.de 200 null http://seek.virtual-liver.de 200 null https://seek.sysmo-db.org/studies/112 302 
 25880925 2015 null https://sites.google.com/site/biopredynbenchmarks/ 302 null https://sites.google.com/site/biopredynbenchmarks/ 302 
 26864072 2016 null 10.1038/nature11003 -1 null http://www.broadinstitute.org/ccle/home 301 null CancerCellLineEncyclopedia(CCLE) -1 software JFuzzy -1 null FCL(FuzzyControlLanguage) -1 
 26873593 2016 NoLink
@@ -701,7 +701,7 @@ NA 2015 NoLink
 26861122 2016 null http://cancergenome.nih.gov/ 301 null https://tcga-data.nci.nih.gov/tcga/tcgaHome2.jsp 301 
 26897366 2016 download https://mynotebook.labarchives.com/ 302 download https://mynotebook.labarchives.com/share_attachment/Bains_Data/MTkuNXwxNTAzOTUvMTUtMy9UcmVlTm9kZS83NjQwNTkxNDl8NDkuNQ 302 download https://mynotebook.labarchives.com/share_attachment/Bains_Data/MTkuNXwxNTAzOTUvMTUtNC9UcmVlTm9kZS8yMzAwNTAxMjU0fDQ5LjU 302 null http://www.rdkit.org/docs/index.html 200 
 26927448 2016 NoLink
-26935435 2016 null https://dx.doi.org/10.6084/m9.figshare.2070124 303 
+26935435 2016 null https://doi.org/10.6084/m9.figshare.2070124 303 
 27769238 2016 software http://ccb.nki.nl/software/bcm/ 200 
 26932448 2016 null https://yoric.mit.edu/dfbalab 200 download www.ecs.umass.edu/che/henson_group/downloads.html -1 
 26935321 2016 NoLink
@@ -1649,7 +1649,7 @@ NA 2017 NoLink
 22583864 2012 NoLink
 22591686 2012 NoLink
 22548736 2012 NoLink
-22640921 2012 null http://bioinformatics.istge.it/clima/ -1 null http://dx.doi.org/10.6070/H47P8W9B 303 
+22640921 2012 null http://bioinformatics.istge.it/clima/ -1 null https://doi.org/10.6070/H47P8W9B 303 
 25884595 2015 NoLink
 22548756 2012 NoLink
 23068602 2012 null http://www.prion.systemsbiology.net 301 null http://www.ariadnegenomics.com/ 302 null http://prion.systemsbiology.net 301 

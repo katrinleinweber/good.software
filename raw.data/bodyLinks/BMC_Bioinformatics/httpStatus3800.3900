@@ -73,7 +73,7 @@ NA 2010 NoLink
 20565847 2010 download 1S7B -1 null 2F2M -1 null 1JSQ -1 null 1PF4 -1 null 1Z2R -1 null 1L7V -1 null 2HYD -1 null 1s7bB -1 null 2f2mA -1 null 1jsqA -1 null 1pf4A -1 null 1z2rA -1 null 1l7vA -1 null 2hydA -1 
 20565873 2010 code 1UBD -1 code 2JP9 -1 code 2I13 -1 code 1ZAA -1 null 1alf -1 null 1mey -1 null 1jk1 -1 software http://www.bioinf.org.uk/software/profit/ 200 
 20565884 2010 
-20515448 2010 null http://brueghel.cnb.csic.es/envmine.html -1 null http://www.bckelk.ukfsn.org/words/wlist.zip 200 null http://dx.doi.org/ 200 null http://dx.doi.org/10.1016/j.femsle.2004.11.021 303 available http://brueghel.cnb.csic.es/envmine_corpuses/envmine_corpus_units.txt -1 available http://brueghel.cnb.csic.es/envmine_corpuses/envmine_corpus_locations.txt -1 
+20515448 2010 null http://brueghel.cnb.csic.es/envmine.html -1 null http://www.bckelk.ukfsn.org/words/wlist.zip 200 null https://doi.org/ 200 null https://doi.org/10.1016/j.femsle.2004.11.021 303 available http://brueghel.cnb.csic.es/envmine_corpuses/envmine_corpus_units.txt -1 available http://brueghel.cnb.csic.es/envmine_corpuses/envmine_corpus_locations.txt -1 
 20515463 2010 here http://www.genomatix.de/products/BiblioSphere/ 403 
 20565932 2010 tool http://www.psb.ugent.be/cbd/papers/BiNGO/ 301 null http://cbl-gorilla.cs.technion.ac.il/ 200 null http://cbl-gorilla.cs.technion.ac.il/ 200 algorithm http://www.matrixscience.com 200 null http://www.geneontology.org/GO.current.annotations.shtml 301 
 20565962 2010 NoLink

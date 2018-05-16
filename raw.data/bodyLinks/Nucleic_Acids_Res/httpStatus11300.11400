@@ -24,7 +24,7 @@
 23788678 2013 null http://www.rna.ccbb.utexas.edu/ 200 
 NA 2013 null www.nar.oxfordjournals.org -1 
 NA 2013 NoLink
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 23775797 2013 null http://bibiserv.techfak.uni-bielefeld.de/genefisher2/ 301 
 23793817 2013 
 23877246 2013 null http://sf.net/projects/prographmsa/ 301 null http://www.cbrg.ethz.ch/services/ProGraphMSA -1 
@@ -64,7 +64,7 @@ NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null w
 24163103 2014 
 27095200 2016 available http://csb.cs.mcgill.ca/arnhack 301 
 23828041 2013 
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2015 NoLink
 23842672 2013 null http://rna.urmc.rochester.edu/RNAstructure.html 200 
 17932051 2008 NoLink

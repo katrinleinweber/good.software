@@ -34,12 +34,12 @@
 25880642 2015 null http://potatometabolicpathways.webs.com/Metabolic_Pathways_of_Diseased_Potato.pdf 200 null http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 200 
 25879764 2015 null http://tanglab.csie.org/sorter/ -1 null http://www.r-project.org 200 method https://vamps.mbl.edu 301 null http://exon.gatech.edu 302 null http://camera.calit2.net 200 
 25885210 2015 NoLink
-25880816 2015 null http://www.ncbi.nlm.nih.gov/gquery/?term=Calliphora+stygia 301 null http://dx.doi.org/10.4225/08/54FF7B03DB181 303 
+25880816 2015 null http://www.ncbi.nlm.nih.gov/gquery/?term=Calliphora+stygia 301 null https://doi.org/10.4225/08/54FF7B03DB181 303 
 25887568 2015 NoLink
 25887781 2015 available http://efishgenomics.zoology.msu.edu 302 
 25887221 2015 null http://Brachypodium.org 200 null http://planttfdb.cbi.pku.edu.cn 200 null http://www.ricedata.cn/gene 301 null http://smart.embl-heidelberg.de 200 null http://pfam.sanger.ac.uk 301 null http://meme.nbcr.net/meme -1 null http://chibba.agtec.uga.edu/duplication 301 null http://purl.org/phylo/treebase/phylows/study/TB2:S17110 302 
 25880529 2015 null http://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi/ 200 null http://www.ncbi.nlm.nih.gov/nuccore/440224888?report=genbank 301 
-25887949 2015 null http://linux1.softberry.com/ 200 null http://www.repeatmasker.org/RepeatModeler.html 200 null http://www.repeatmasker.org/ 200 null http://transposonpsi.sourceforge.net/ 200 null http://www.genome.jp/kegg/kegg2.html 200 null http://www.brenda-enzymes.de/index.php4?page=information/introduction.php4 404 null http://linux1.softberry.com/ 200 null http://dx.doi.org/10.12761/SGN.2015.1 303 null http://dx.doi.org/10.12761/SGN.2015.1 303 
+25887949 2015 null http://linux1.softberry.com/ 200 null http://www.repeatmasker.org/RepeatModeler.html 200 null http://www.repeatmasker.org/ 200 null http://transposonpsi.sourceforge.net/ 200 null http://www.genome.jp/kegg/kegg2.html 200 null http://www.brenda-enzymes.de/index.php4?page=information/introduction.php4 404 null http://linux1.softberry.com/ 200 null https://doi.org/10.12761/SGN.2015.1 303 null https://doi.org/10.12761/SGN.2015.1 303 
 25880122 2015 null http://genomesonline.org 301 null http://www.uniprot.org/ 200 null http://orthomcl.org/ 302 null http://www.genome.jp/kegg/ 200 
 25886904 2015 null www.ncbi.nlm.nih.gov/geo -1 null https://mynotebook.labarchives.com/ 302 null http://www.gramene.org/ 200 software http://liulab.dfci.harvard.edu/MACS/00README.html 200 null http://www.ricearray.org/analysis/go_enrichment.shtml 404 
 25888408 2015 NoLink

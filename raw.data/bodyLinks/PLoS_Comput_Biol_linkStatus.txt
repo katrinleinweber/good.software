@@ -798,7 +798,7 @@ NA 2010 null http://www.cocomac.org/ -1 null http://www.hirn.uni-duesseldorf.de/
 20957028 2010 NoLink
 20941390 2010 null http://biology.berkeley.edu/crl/cell_sorters_analysers.html 301 
 20941387 2010 NoLink
-21079678 2010 available http://dx.doi.org/10.5061/dryad.1922 303 
+21079678 2010 available https://doi.org/10.5061/dryad.1922 303 
 21079666 2010 NoLink
 20941388 2010 NoLink
 21253559 2011 NoLink
@@ -1624,7 +1624,7 @@ NA 2012 null http://www.iscb.org 200 null http://www.iscb.org/ismb2012 200 null 
 22719241 2012 NoLink
 22761563 2012 NoLink
 22761562 2012 NoLink
-22761561 2012 null http://models.cellml.org/workspace/guyton_2008 200 null http://dx.doi.org/10.5061/dryad.h3s0r 303 
+22761561 2012 null http://models.cellml.org/workspace/guyton_2008 200 null https://doi.org/10.5061/dryad.h3s0r 303 
 22761564 2012 NoLink
 26829588 2016 NoLink
 23358700 2013 null http://cancergenome.nih.gov/ 301 null http://cancergenome.nih.gov/ 301 
@@ -1907,7 +1907,7 @@ NA 2013 NoLink
 27764097 2016 NoLink
 23592971 2013 null http://www.modelingimmunity.org/ 200 null www.modelingimmunity.org -1 null www.modelingimmunity.org -1 
 23592966 2013 software http://www.ebi.ac.uk/Tools/msa/clustalw2/ 301 
-23675291 2013 null http://dx.doi.org/10.5061/dryad.55t60 303 
+23675291 2013 null https://doi.org/10.5061/dryad.55t60 303 
 23592972 2013 NoLink
 23696720 2013 NoLink
 18020700 2007 NoLink
@@ -1980,7 +1980,7 @@ NA 2013 null scopestatement -1
 24385893 2013 here http://umrs872eq22.com/TPMT_PLOS/Phewas_codes_ICD10_ICD9.zip -1 
 24385894 2013 null www.bioinformatyk.eu -1 
 24339755 2013 NoLink
-24339756 2013 null http://dx.doi.org/10.5061/dryad.246qg 303 
+24339756 2013 null https://doi.org/10.5061/dryad.246qg 303 
 24339757 2013 NoLink
 24339770 2013 NoLink
 24339759 2013 NoLink
@@ -1995,7 +1995,7 @@ NA 2013 null scopestatement -1
 24339766 2013 NoLink
 24339767 2013 download http://www.drugbank.ca/downloads 301 available http://seeslab.info/downloads/drugraph/ 200 null http://github.com/seeslab/drugraph 301 
 24339768 2013 null www.3dmd.com/3dMDface -1 
-24339769 2013 available http://dx.doi.org/10.6084/m9.figshare.814470 303 
+24339769 2013 available https://doi.org/10.6084/m9.figshare.814470 303 
 24339758 2013 package www.sympy.org -1 package www.scipy.org -1 package www.numpy.org -1 
 23436991 2013 NoLink
 NA 2013 NoLink
@@ -2045,7 +2045,7 @@ NA 2013 NoLink
 23341769 2013 available https://github.com//bionomicron/Redirector.git 301 
 23341761 2013 NoLink
 23349625 2013 NoLink
-23365551 2013 null http://idconverter.bioinfo.cnio.es 302 null http://www.broadinstitute.org/gsea/msigdb/collections.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/collections.jsp 301 download http://www.broadinstitute.org/gsea/downloads.jsp 301 software http://bonsai.hgc.jp/~mdehoon/software/cluster/ 200 null http://jtreeview.sourceforge.net/ 200 null http://dx.doi.org/10.5061/dryad.mk471 303 null http://dx.doi.org/10.5061/dryad.mk471 303 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 
+23365551 2013 null http://idconverter.bioinfo.cnio.es 302 null http://www.broadinstitute.org/gsea/msigdb/collections.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/collections.jsp 301 download http://www.broadinstitute.org/gsea/downloads.jsp 301 software http://bonsai.hgc.jp/~mdehoon/software/cluster/ 200 null http://jtreeview.sourceforge.net/ 200 null https://doi.org/10.5061/dryad.mk471 303 null https://doi.org/10.5061/dryad.mk471 303 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 null http://www.broadinstitute.org/gsea/msigdb/search.jsp 301 
 23341758 2013 NoLink
 23341762 2013 download http://www.cathdb.info/download 200 null http://dunbrack.fccc.edu/PISCES.php 200 
 23341763 2013 NoLink
@@ -2162,7 +2162,7 @@ NA 2013 NoLink
 23785274 2013 NoLink
 23762021 2013 NoLink
 23754939 2013 NoLink
-24039568 2013 null http://dx.doi.org/10.5061/dryad.v6st3 303 
+24039568 2013 null https://doi.org/10.5061/dryad.v6st3 303 
 23762022 2013 NoLink
 23754941 2013 NoLink
 23516345 2013 NoLink
@@ -2373,7 +2373,7 @@ NA 2013 NoLink
 24204238 2013 NoLink
 24204241 2013 null www.epidemiologia.salud.gob.mx/dgae/infoepid/inicio_anuarios.html -1 
 24204220 2013 NoLink
-24391483 2014 null http://www.ode.org 200 available https://github.com/jauerb/CPPN_Trimesh 301 available http://dx.doi.org/10.6084/m9.figshare.858799 303 
+24391483 2014 null http://www.ode.org 200 available https://github.com/jauerb/CPPN_Trimesh 301 available https://doi.org/10.6084/m9.figshare.858799 303 
 24068912 2013 null http://cancergenome.nih.gov/ 301 
 24204237 2013 available http://cssb.biology.gatech.edu/pocketlib 200 
 24204244 2013 null www.apbionet.org -1 null http://bit.ly/10P6CVq 301 null http://incob.apbionet.org/incob11 301 null http://incob.apbionet.org/incob12 301 null http://incob.apbionet.org/incob13 301 null http://incob.apbionet.org/incob14 301 null http://docid.apbionet.org 301 null http://biodb100.apbionet.org 301 null http://aid.apbionet.org 301 null http://biocurator.org 301 null http://biocurator.org/biodbcore.shtml 301 null http://eabn.apbionet.org 301 null www.apbionet.org/s-star -1 null www.avist.org -1 null http://en.wikipedia.org/wiki/BioSLAX 301 null http://bit.ly/12eWyDe 301 null http://mygoblet.org 302 null www.apbionet.org/APAN/apan-apbionetMar98.html -1 null www.bio-mirror.net -1 null www.bic.nus.edu.sg/biogrid/biogrid01 -1 application www.euasiagrid.org -1 null http://trg.apbionet.org/euasiagrid 301 null http://dbtindia.nic.in/annual05-06/Ch-8-eng.pdf 301 
@@ -2388,12 +2388,12 @@ NA 2013 NoLink
 23505346 2013 null http://www.signalink.org/ 200 download https://www.genome.gov/26525384#download 301 download http://genetics.bwh.harvard.edu/pph2/dokuwiki/downloads 200 
 24244118 2013 NoLink
 24068909 2013 NoLink
-27814353 2016 null http://dx.doi.org/10.5061/dryad.92h5d 303 available https://github.com/ripple-neuro/mksort/ 301 
+27814353 2016 null https://doi.org/10.5061/dryad.92h5d 303 available https://github.com/ripple-neuro/mksort/ 301 
 24244146 2013 null http://www.mccauslandcenter.sc.edu/mricro/mricro/ 301 
 24244127 2013 NoLink
 24098097 2013 null http://hiv.lanl.gov 302 null http://res.illumina.com/documents/products/technotes/technote_phixcontrolv3.pdf 403 
-24098098 2013 null http://tops.sourceforge.net/ 200 null http://dx.doi.org/10.6084/m9.figshare.765452 303 null http://tops.sourceforge.net/tops-doc.pdf 200 
-24098102 2013 null http://dx.doi.org/10.6019/CHEMBL2095176 303 null http://dx.doi.org/10.6019/CHEMBL2095176 303 available http://www.tropicaldisease.org/TCAMSTB 301 available http://www.tropicaldisease.org/TCAMSTB 301 available http://www.tropicaldisease.org/TCAMSTB 301 null http://www.tropicaldisaes.org/TCAMSTB/ -1 null ftp://ftp.ebi.ac.uk/pub/databases/chembl/tb 301 null http://dx.doi.org/10.6019/CHEMBL2095176 303 
+24098098 2013 null http://tops.sourceforge.net/ 200 null https://doi.org/10.6084/m9.figshare.765452 303 null http://tops.sourceforge.net/tops-doc.pdf 200 
+24098102 2013 null https://doi.org/10.6019/CHEMBL2095176 303 null https://doi.org/10.6019/CHEMBL2095176 303 available http://www.tropicaldisease.org/TCAMSTB 301 available http://www.tropicaldisease.org/TCAMSTB 301 available http://www.tropicaldisease.org/TCAMSTB 301 null http://www.tropicaldisaes.org/TCAMSTB/ -1 null ftp://ftp.ebi.ac.uk/pub/databases/chembl/tb 301 null https://doi.org/10.6019/CHEMBL2095176 303 
 24244129 2013 null http://guanlab.ccmb.med.umich.edu/isoPred/ 200 null http://guanlab.ccmb.med.umich.edu/isoPred/ 200 null http://guanlab.ccmb.med.umich.edu/isoPred/ 200 null http://guanlab.ccmb.med.umich.edu/isoPred 301 
 23592964 2013 NoLink
 23637587 2013 null https://sourceforge.net/projects/tricheratops/ 301 null http://www.mathworks.com/matlabcentral/fileexchange/6110 301 
@@ -2962,7 +2962,7 @@ NA 2014 null www.daad.de -1 null www.mdc-berlin.de -1 null www.nsf.gov -1
 25393293 2014 NoLink
 25393308 2014 NoLink
 25393408 2014 NoLink
-25393548 2014 download http://remoto.leb.usp.br/ 200 null http://dx.doi.org/10.6084/m9.figshare.1029085 303 null http://dx.doi.org/10.6084/m9.figshare.1027609 303 null http://dx.doi.org/10.6084/m9.figshare.1029084 303 
+25393548 2014 download http://remoto.leb.usp.br/ 200 null https://doi.org/10.6084/m9.figshare.1029085 303 null https://doi.org/10.6084/m9.figshare.1027609 303 null https://doi.org/10.6084/m9.figshare.1029084 303 
 25393661 2014 NoLink
 25393751 2014 NoLink
 25393874 2014 null https://github.com/nakae-k/glia-neuron 301 
@@ -3058,7 +3058,7 @@ NA 2014 NoLink
 25211206 2014 NoLink
 25211329 2014 NoLink
 25211452 2014 available http://keinanlab.cb.bscb.cornell.edu/content/tools-data 200 
-25211603 2014 null http://dx.doi.org/10.6084/m9.figshare.831432 303 
+25211603 2014 null https://doi.org/10.6084/m9.figshare.831432 303 
 25211773 2014 NoLink
 25210849 2014 null www.eucast.org -1 software www.lixoft.eu -1 
 25210764 2014 NoLink
@@ -3086,7 +3086,7 @@ NA 2014 NoLink
 25188385 2014 pipeline http://my.pgp-hms.org 302 null http://www.cdc.gov 301 null http://www.hhs.gov/ 301 download https://www.genome.gov/26525384 301 download http://diseases.jensenlab.org 302 null http://evs.gs.washington.edu/EVS/ 200 
 25188490 2014 NoLink
 25188267 2014 NoLink
-25188426 2014 available http://dx.doi.org/10.6084/m9.figshare.1119727 303 
+25188426 2014 available https://doi.org/10.6084/m9.figshare.1119727 303 
 25299598 2014 available http://perso.ibcp.fr/luca.monticelli 301 available http://perso.ibcp.fr/luca.monticelli/ 200 
 25188415 2014 available http://cellnet.cecad.uni-koeln.de/impact.html 200 code https://github.com/SimeoneMarsico/IMPACT 301 null www.autophagy.lu -1 
 25188228 2014 NoLink
@@ -3225,7 +3225,7 @@ NA 2014 NoLink
 25723389 2015 NoLink
 25729859 2015 null http://blanco.biomol.uci.edu/mpstruc/ 200 null www.gromacs.org -1 null http://www.pymol.org 302 
 NA 2015 NoLink
-25723545 2015 null http://m3d.mssm.edu/ 200 available http://dx.doi.org/10.6084/m9.figshare.1249869 303 
+25723545 2015 null http://m3d.mssm.edu/ 200 available https://doi.org/10.6084/m9.figshare.1249869 303 
 25734978 2015 NoLink
 25738731 2015 null http://www.ncbi.nlm.nih.gov/homologene 301 algorithm http://www.bhsai.org/downloads/hpia/ 302 
 25742563 2015 NoLink
@@ -3238,7 +3238,7 @@ NA 2015 NoLink
 25742003 2015 NoLink
 25768881 2015 null http://gru.brain.riken.jp/doku.php/mgl/overview -1 null http://senselab.med.yale.edu/ModelDB/ 302 available http://senselab.med.yale.edu/modeldb 302 available https://senselab.med.yale.edu/modeldb 302 available https://senselab.med.yale.edu/modeldb 302 
 25763816 2015 NoLink
-25768983 2015 null http://gdac.broadinstitute.org/runs/analyses__2013_02_22/ 200 null https://github.com/cdeboever3/svm-bpfinder 301 available https://github.com/cdeboever3/deboever-sf3b1-2015 301 null http://dx.doi.org/10.6084/m9.figshare.1120663 303 
+25768983 2015 null http://gdac.broadinstitute.org/runs/analyses__2013_02_22/ 200 null https://github.com/cdeboever3/svm-bpfinder 301 available https://github.com/cdeboever3/deboever-sf3b1-2015 301 null https://doi.org/10.6084/m9.figshare.1120663 303 
 25775355 2015 NoLink
 25768678 2015 null http://www.R-project.org 200 null http://www.ncbi.nlm.nih.gov/geo/info/linking.html 301 download http://kmplot.com 200 
 25786242 2015 tool http://broadinstitute.org/cmap/ 301 null http://ophid.utoronto.ca/cdip/ 302 available http://www.cs.utoronto.ca/~juris/data/cmapbatch 301 null http://ophid.utoronto.ca/cdip/ 302 null https://www.oncomine.org/ 302 null http://www.broadinstitute.org/cmap/ 301 
@@ -3284,7 +3284,7 @@ NA 2015 NoLink
 25876062 2015 null www.pymol.org -1 
 25831448 2015 code http://pillowlab.princeton.edu/code.html 200 
 25826753 2015 NoLink
-25837826 2015 null http://dx.doi.org/10.5061/dryad.s38n5 303 
+25837826 2015 null https://doi.org/10.5061/dryad.s38n5 303 
 25856076 2015 null www.mygoblet.org -1 null www.mygoblet.org -1 
 25837678 2015 null http://www.ploscollections.org/article/info:doi/10.1371/journal.pcbi.1003858 302 
 25853560 2015 null http://www.ncbi.nlm.nih.gov/omim 301 null http://www.ncbi.nlm.nih.gov/gap/PheGenI 301 download http://www.geneontology.org/ 200 
@@ -3441,7 +3441,7 @@ NA 2007 null 10.1371/journal.pcbi.0020041 -1
 26107518 2015 NoLink
 26111244 2015 NoLink
 26111155 2015 NoLink
-26147205 2015 package https://github.com/bdearlove/treeImbalance 301 null http://dx.doi.org/10.5061/dryad.v7817 303 null http://dx.doi.org/10.5061/dryad.v7817 303 
+26147205 2015 package https://github.com/bdearlove/treeImbalance 301 null https://doi.org/10.5061/dryad.v7817 303 null https://doi.org/10.5061/dryad.v7817 303 
 26146996 2015 null http://citi.clemson.edu/palmetto/ 301 
 26115353 2015 download http://www.ims.u-tokyo.ac.jp/mathcancer/A-Cell/A-CellModels/index.html 200 
 26102287 2015 available https://bitbucket.org/gutmicrobiomepaper/microbiomenetworkmodelpaper/wiki/Home 301 
@@ -3600,7 +3600,7 @@ NA 2007 null doi:10.1371/journal.pcbi.0030172 -1
 18437198 2008 here http://iscbsc.org/scs3/index.htm 200 null http://www.twas.org/ 301 
 26267143 2015 software http://mloss.org/software/view/263/ 200 available http://helios.fmi.fi/~lainema/mcmc/ 200 
 26262582 2015 available cemrg.co.uk -1 
-26275208 2015 pipeline https://github.com/wilkelab/AG3C_starvation_tc_RNAseq 301 null david.abcc.ncifcrf.gov -1 download https://github.com/marcottelab/AG3C_starvation_tc 301 null http://dx.doi.org/10.5061/dryad.hj6mr 303 
+26275208 2015 pipeline https://github.com/wilkelab/AG3C_starvation_tc_RNAseq 301 null david.abcc.ncifcrf.gov -1 download https://github.com/marcottelab/AG3C_starvation_tc 301 null https://doi.org/10.5061/dryad.hj6mr 303 
 26274323 2015 null http://provean.jcvi.org 200 available https://github.com/tawfiklab/HTS_codon_analyzer 301 tool http://sift.jcvi.org 200 null http://provean.jcvi.org 200 available http://allostery.bii.a-star.edu.sg/ 200 
 26275289 2015 NoLink
 26275099 2015 NoLink
@@ -3648,7 +3648,7 @@ NA 2007 null doi:10.1371/journal.pcbi.0030172 -1
 26334993 2015 NoLink
 26340681 2015 tool http://arabidopsis.org/cgi-bin/patmatch/nph-patmatch.pl 301 null http://web.ecologia.unam.mx/achaos/Atalia/atalia.htm 404 
 26340565 2015 available https://github.com/combogenomics/rhizoreg/ 301 available https://github.com/combogenomics/rhizoreg/ 301 tool https://github.com/combogenomics/regtools/ 301 
-26335558 2015 null https://github.com/HullUni-bioinformatics/ReproPhylo 301 code http://goo.gl/yW6J1J 301 pipeline http://goo.gl/JcHMGN 301 null https://www.vagrantup.com/ 301 null http://dx.doi.org/10.6084/m9.figshare.1409423 303 null http://dx.doi.org/10.6084/m9.figshare.1419590 303 null http://goo.gl/g3XP5B 301 tool http://goo.gl/udsS3Q 301 code http://goo.gl/yW6J1J 301 null http://dx.doi.org/10.6084/m9.figshare.1419590 303 null http://goo.gl/g3XP5B 301 null http://figshare.com/ 301 null http://datadryad.org/ 200 null http://github.com/ 301 null http://figshare.com/ 301 null 10.6084/m9.figshare.1409423 -1 null goo.gl/KzFAvj -1 null http://goo.gl/aZeRXf 301 null 10.6084/m9.figshare.1409423 -1 null http://dx.doi.org/10.6084/m9.figshare.1409424 303 null http://dx.doi.org/10.6084/m9.figshare.1502477 303 null http://dx.doi.org/10.6084/m9.figshare.1409427 303 null http://goo.gl/KzFAvj. 301 null http://dx.doi.org/10.6084/m9.figshare.1409488 303 null http://dx.doi.org/10.6084/m9.figshare.1419590 303 null http://goo.gl/g3XP5B 301 
+26335558 2015 null https://github.com/HullUni-bioinformatics/ReproPhylo 301 code http://goo.gl/yW6J1J 301 pipeline http://goo.gl/JcHMGN 301 null https://www.vagrantup.com/ 301 null https://doi.org/10.6084/m9.figshare.1409423 303 null https://doi.org/10.6084/m9.figshare.1419590 303 null http://goo.gl/g3XP5B 301 tool http://goo.gl/udsS3Q 301 code http://goo.gl/yW6J1J 301 null https://doi.org/10.6084/m9.figshare.1419590 303 null http://goo.gl/g3XP5B 301 null http://figshare.com/ 301 null http://datadryad.org/ 200 null http://github.com/ 301 null http://figshare.com/ 301 null 10.6084/m9.figshare.1409423 -1 null goo.gl/KzFAvj -1 null http://goo.gl/aZeRXf 301 null 10.6084/m9.figshare.1409423 -1 null https://doi.org/10.6084/m9.figshare.1409424 303 null https://doi.org/10.6084/m9.figshare.1502477 303 null https://doi.org/10.6084/m9.figshare.1409427 303 null http://goo.gl/KzFAvj. 301 null https://doi.org/10.6084/m9.figshare.1409488 303 null https://doi.org/10.6084/m9.figshare.1419590 303 null http://goo.gl/g3XP5B 301 
 26340476 2015 NoLink
 26335304 2015 null https://github.com/vraj004/cardiac_ecc 301 available https://github.com/vraj004/RyR-simulator 301 available https://github.com/vraj004/RyR-simulator 301 null https://github.com/vraj004/cardiac_ecc 301 
 26335425 2015 NoLink
@@ -3779,7 +3779,7 @@ NA 2007 null doi:10.1371/journal.pcbi.0030172 -1
 26544687 2015 NoLink
 26545234 2015 NoLink
 26544847 2015 NoLink
-26536029 2015 null http://dx.doi.org/10.6084/m9.figshare.1570957 303 
+26536029 2015 null https://doi.org/10.6084/m9.figshare.1570957 303 
 26545295 2015 NoLink
 26529612 2015 NoLink
 26536123 2015 NoLink
@@ -3826,7 +3826,7 @@ NA 2007 null doi:10.1371/journal.pcbi.0030172 -1
 26606374 2015 available https://www.ucl.ac.uk/chemistry/research/group_pages/prot_dynamics/ 302 
 26600239 2015 null https://research.cchmc.org/pbge/sincera.html 302 null http://www.ncbi.nlm.nih.gov/geo/ 301 available https://research.cchmc.org/pbge/lunggens/default.html 302 tool http://lungmap.net 301 null https://www.genomatix.de 200 null http://igraph.org 200 null http://www.ebi.ac.uk/gxa 301 null http://www.genecards.org 200 null https://www.genomatix.de 200 code https://www.encodeproject.org 301 software https://cn.fluidigm.com/software 200 tool http://lungmap.net 301 null http://toppgene.cchmc.org 302 null http://david.abcc.ncifcrf.gov 301 null http://www.broadinstitute.org/gsea/msigdb 301 null http://www.genecards.org 200 null http://www.ebi.ac.uk/gxa 301 null https://toppgene.cchmc.org 302 null https://toppgene.cchmc.org 302 null https://toppgene.cchmc.org 302 null https://toppgene.cchmc.org 302 null https://toppgene.cchmc.org 302 null https://toppgene.cchmc.org 302 null https://toppgene.cchmc.org 302 null https://toppgene.cchmc.org 302 null https://toppgene.cchmc.org 302 null http://www.informatics.jax.org/mp/annotations/MP:0005388 200 null http://www.ebi.ac.uk/gxa 301 null http://www.informatics.jax.org/mp/annotations/MP:0005388 200 null http://www.ingenuity.com/products/ipa 302 null https://www.genomatix.de 200 
 26599007 2015 NoLink
-26599213 2015 null http://dx.doi.org/10.5281/zenodo.18898 303 
+26599213 2015 null https://doi.org/10.5281/zenodo.18898 303 
 26606115 2015 NoLink
 26600460 2015 NoLink
 26588000 2015 null http://www.pybytes.com/pywavelets 301 null https://github.com/JohnAbel/gillespy 301 method https://github.com/pstjohn/decay-methods 301 null http://scikit-learn.org/ 200 null http://statsmodels.sourceforge.net/ 301 null http://pandas.pydata.org/ 200 
@@ -3915,7 +3915,7 @@ NA 2007 null doi:10.1371/journal.pcbi.0030172 -1
 26735304 2016 NoLink
 26734937 2016 NoLink
 26720851 2015 NoLink
-26751373 2016 available http://dx.doi.org/10.5061/dryad.149m8 303 null http://yaml.org/ 200 available https://github.com/psathyrella/ham/ 301 available https://github.com/psathyrella/partis/ 301 available https://registry.hub.docker.com/u/psathyrella/partis/ 301 null http://git.io/vn9gf 301 available http://adaptivebiotech.com/link/mat2015 302 publicly http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000656.v1.p1 301 code python -1 code C++ -1 
+26751373 2016 available https://doi.org/10.5061/dryad.149m8 303 null http://yaml.org/ 200 available https://github.com/psathyrella/ham/ 301 available https://github.com/psathyrella/partis/ 301 available https://registry.hub.docker.com/u/psathyrella/partis/ 301 null http://git.io/vn9gf 301 available http://adaptivebiotech.com/link/mat2015 302 publicly http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000656.v1.p1 301 code python -1 code C++ -1 
 26735135 2016 NoLink
 26730727 2016 NoLink
 26761487 2016 NoLink
@@ -4097,12 +4097,12 @@ NA 2014 NoLink
 27081850 2016 code http://visant.bu.edu 200 null http://comets.bu.edu 301 null http://kbase.us/ 200 
 27092947 2016 null http://mflux.org 200 null https://bitbucket.org/forrestbao/influx 301 
 27093059 2016 null www.themathworks.com -1 null www.themathworks.com -1 null www.mathworks.com -1 
-27078000 2016 code http://huttenhower.sph.harvard.edu/cap 200 null http://dx.doi.org/10.7910/DVN/WPRDBZ 303 null http://gdac.broadinstitute.org 200 null https://tcga-data.nci.nih.gov 301 
+27078000 2016 code http://huttenhower.sph.harvard.edu/cap 200 null https://doi.org/10.7910/DVN/WPRDBZ 303 null http://gdac.broadinstitute.org 200 null https://tcga-data.nci.nih.gov 301 
 27096600 2016 software http://bis.ifc.unam.mx/en/software/dcf 200 null www.alglib.net -1 null www.dlib.net -1 null http://www.imtech.res.in/raghava/cellppd/dataset.php 301 null https://github.com/cdiener/dcf 301 software http://bis.ifc.unam.mx/software/dcf 404 null 10.5281/zenodo.30278 -1 software http://bis.ifc.unam.mx/software/dcf 404 null https://github.com/cdiener/dcf 301 null 10.5281/zenodo.30278 -1 null http://fiji.sc 200 software http://bis.ifc.unam.mx/software/dcf 404 available www.r-project.org -1 available http://github.com/cdiener/dcf 301 null www.fiji.sc -1 null http://fiji.sc/Downloads#Fiji 301 
 27096735 2016 null www.celldesigner.org -1 
 27100869 2016 null https://tcga-data.nci.nih.gov/tcga/ 301 null http://www.r-project.org/ 200 
 27100738 2016 code https://github.com/etal/cnvkit 301 null http://www.apache.org/licenses/LICENSE-2.0 200 available http://cnvkit.readthedocs.org/ 301 here http://github.com/etal/cnvkit-examples 301 null http://www.reportlab.com/opensource/ 200 null http://matplotlib.org 200 tool http://picard.sourceforge.net/ 200 pipeline https://bcbio-nextgen.readthedocs.org/en/latest/ 301 null http://genome.ucsc.edu/ 200 null http://repeatmasker.org 200 available http://cnvkit.readthedocs.org/ 301 
-27105344 2016 null http://dx.doi.org/10.5061/dryad.hf93c 303 
+27105344 2016 null https://doi.org/10.5061/dryad.hf93c 303 
 27104615 2016 null ftp://ftp.ncbi.nih.gov/pub/COG/COG2014/data 301 available https://sourceforge.net/projects/brasolia 301 
 27104350 2016 NoLink
 27517461 2016 NoLink
@@ -4352,7 +4352,7 @@ NA 2014 NoLink
 27673682 2016 NoLink
 27673331 2016 code https://code.google.com/p/phenomeblast/source/browse/trunk/phenotypenetwork/SimGIC-twosides.cc 405 null http://phenomebrowser.net/drugeffect-data.tar.bz2 -1 application http://mmtx.nlm.nih.gov 301 code https://code.google.com/p/phenomeblast/source/browse/trunk/phenotypenetwork/SimGIC-twosides.cc 405 null http://phenomebrowser.net/drugeffect-data.tar.bz2 -1 
 27684554 2016 NoLink
-27689803 2016 code https://github.com/dufourya/SwimTracker 301 available https://github.com/ 301 available https://dx.doi.org/10.6084/m9.figshare.3593046 303 
+27689803 2016 code https://github.com/dufourya/SwimTracker 301 available https://github.com/ 301 available https://doi.org/10.6084/m9.figshare.3593046 303 
 27690349 2016 NoLink
 27684477 2016 available http://allogenomics.campagnelab.org 301 null https://bitbucket.org/campagnelaboratory/allogenomicsanalyses 301 available http://allogenomics.campagnelab.org 301 null http://metaR.campagnelab.org 301 null https://hub.docker.com/r/fac2003/rocker-metar/ 301 null https://bitbucket.org/campagnelaboratory/allogenomicsanalyses 301 
 27689361 2016 NoLink
@@ -4431,7 +4431,7 @@ NA 2014 NoLink
 19763167 2009 NoLink
 23300430 2013 NoLink
 27984585 2016 NoLink
-28030541 2016 available https://dx.doi.org/10.6084/m9.figshare.3493010.v2 303 
+28030541 2016 available https://doi.org/10.6084/m9.figshare.3493010.v2 303 
 27880768 2016 null http://www.cstr.ed.ac.uk/research/projects/artic/mocha.html 200 tool http://sp-tk.sourceforge.net/ 200 null https://gna.org/projects/lliaphon -1 tool http://htk.eng.cam.ac.uk/ 200 available https://zenodo.org/record/154083 301 null 10.5281/zenodo.154083 -1 tool http://lvdmaaten.github.io/drtoolbox/ 200 null https://cycling74.com/products/max/ 301 
 27880785 2016 NoLink
 27880764 2016 NoLink
@@ -4556,7 +4556,7 @@ NA 2014 NoLink
 17069453 2006 null http://www.pdb.org 301 available http://deposit.rcsb.org 302 
 28085884 2017 NoLink
 28085876 2017 NoLink
-28166222 2017 code http://doi.org/10.5281/zenodo.250558 303 null www.dreamchallenges.org -1 
+28166222 2017 code https://doi.org/10.5281/zenodo.250558 303 null www.dreamchallenges.org -1 
 28125584 2017 null http://www.malariagen.net/projects/pf3k 302 available https://github.com/Greenhouse-Lab/THEREALMcCOIL 301 null https://www.malariagen.net/projects/p-falciparum-community-project 302 
 28129350 2017 null http://elm.eu.org/ 200 null http://www.uniprot.org/ 200 null http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/ 200 null http://www.hprd.org 200 null http://www.humanproteinpedia.org 200 null https://david.ncifcrf.gov/ 301 
 28129330 2017 method Meneco -1 package http://bioasp.github.io/meneco 301 download USCDrepository -1 null http://bioinformatics.psb.ugent.be/orcae/overview/Ectsi -1 null NCBIwebserver -1 
@@ -4821,7 +4821,7 @@ NA 2009 NoLink
 28542168 2017 NoLink
 28545083 2017 available www.github.com/donkeyshot/phybreak -1 available cran.r-project.org/web/packages/phybreak/index.html -1 
 28545146 2017 null humanbrain -1 null disease -1 null tissues -1 null cells -1 null ESTs -1 null hybridisation -1 null high-resolution -1 null featuredetection -1 null intron -1 null exon -1 null referencegenomes -1 null Denovoassemblyofreads -1 null sequencegraphs -1 algorithm parallelisedcomputation -1 null SequenceReadArchive -1 null publicdatabases -1 null transcripts -1 library Libraries -1 null silkmoth -1 null complementaryDNA -1 null reversetranscriptase -1 null Sangersequencing -1 null expressedsequencetags -1 null Sangermethodofsequencing -1 method high-throughputmethods -1 null sequencingbysynthesis -1 null genecontent -1 null sequencing -1 null genome -1 null northernblotting -1 null nylonmembranearrays -1 null reversetranscriptasequantitativePCR -1 null serialanalysisofgeneexpression -1 null Sangersequencing -1 null splicevariants -1 null microarrays -1 null RNA-Seq -1 null hybridisation -1 null complementary -1 null probes -1 null spottedoligonucleotidearrays -1 null Affymetrix -1 null model -1 null fluorescencedetection -1 null cDNAs -1 method high-throughputsequencingtechnologies -1 null Massivelyparallelsignaturesequencing -1 null bp -1 null http://en.wikipedia.org/w/index.php?title=Arabidopsis_thaliana 301 null 454technology -1 null Solexa/Illuminatechnologies -1 null quantitation -1 null RNAextraction -1 null disruptionofcells -1 null RNase -1 null chaotropicsalts -1 null biomolecules -1 null precipitation -1 null elutionfromasolidmatrix -1 null DNase -1 null ribosomalRNA -1 method poly-A -1 null Snap-freezing -1 null EST -1 null cDNA -1 null reversetranscriptase -1 null Sangermethodofsequencing -1 method high-throughputmethods -1 null sequencingbysynthesis -1 library ESTlibraries -1 null barley -1 null SAGE -1 null restrictionenzymes -1 null concatenated -1 null Sangersequencing -1 null deconvoluted -1 available referencegenome -1 null differentiallyexpressed -1 null Capanalysisofgeneexpression -1 null transcriptionalstartsite -1 null promoter -1 method cloning -1 null imageprocessing -1 null regulargrid -1 null intensity -1 null Imageartefacts -1 null Roche -1 method Pyrosequencing -1 software bioinformaticssoftware -1 null command-lineinterface -1 null Unix -1 null R -1 null Bioconductor -1 null quantitativePCR -1 null control -1 null amplicons -1 null primers -1 null phenotype -1 null knock-down -1 null rescue -1 null diagnosis -1 method profiling -1 null transcriptionalstartsites -1 null promoter -1 null splicingalterations -1 here regulatoryelements -1 null disease-associationstudies -1 null singlenucleotidepolymorphisms -1 null genefusions -1 null Retrotransposons -1 null transposableelements -1 null reversetranscription -1 null epigeneticmechanisms -1 null immune-relateddisease -1 null Tcell -1 null Bcellreceptor -1 method pathogens -1 null virulencefactors -1 null antibioticresistance -1 null host-pathogenimmuneinteractions -1 null infectioncontrol -1 null individualisedtreatment -1 null generegulatorynetworks -1 null pathways -1 null biotic -1 null abioticenvironmentalstresses -1 null chickpea -1 null drought -1 null salinity -1 null transcriptisoforms -1 null Apetela2 -1 null Ethylene-ResponsiveElementBindingProtein -1 null biofilm -1 null fungal -1 null http://en.wikipedia.org/w/index.php?title=Candida_albicans 301 null drugresistance -1 null http://en.wikipedia.org/w/index.php?title=Plasmodium_falciparum 301 null unfoldedproteinresponse -1 null developmentalcycle -1 null artemisininresistance -1 null SoutheastAsia -1 null identifyingthefunctionsofgenes -1 null ecotypes -1 null hyperaccumulatemetals -1 null metaluptake -1 null homeostasis -1 null cucumber -1 null koala -1 available referencegenome -1 null Douglasfir -1 null sequencedgenome -1 null proteincodingregions -1 null proteintranslation -1 null DNAreplication -1 null RNAsplicing -1 null transcriptionalregulation -1 null Microarrays -1 null oligomers -1 null probes -1 null fluorescently -1 null fluorescenceintensity -1 null annotated -1 null genome -1 null library -1 null micro -1 null nanofabrication -1 null picolitre -1 null cDNAs -1 null fluorophores -1 null Affymetrix -1 null -mer -1 null assay -1 method maskless-photochemistry -1 null RNA-Seq -1 null high-throughputsequencing -1 null deepsampling -1 null aligning -1 null denovoassembly -1 null ordersofmagnitude -1 null genome -1 here insitu -1 null fixed -1 null poly-Atails -1 null ribosomalRNAs -1 null taxon's -1 null microRNAs -1 null gelelectrophoresis -1 null hydrolysis -1 null nebulisation -1 null sonication -1 null fragmentation -1 null transposaseenzymes -1 null PCR -1 application pg -1 null guanine-cytosinecontent -1 null Uniquemolecularidentifiers -1 null isoform -1 null strand -1 null genesthatoverlap -1 null nanoporesequencing -1 null betatesting -1 null modifiedbases -1 null amplification -1 null numberofreads -1 here numberofgenes -1 null biologicalreplicates -1 null EncyclopediaofDNAElements -1 null k-mers -1 available aligned -1 available denovoaligned -1 software alignmentsoftware -1 null EBI -1 null primarytranscriptmRNA -1 null eukaryotes -1 null intron -1 null splicejunctions -1 null generegulation -1 null mRNAisoform -1 null N50 -1 null generalfeatureformat -1 null differentialgeneexpression -1 null binaryalignmentmap -1 null SAGE -1 null transcribed -1 null spliced -1 null eukaryotes -1 null mRNA -1 null reversetranscriptase -1 null double-s -1 null cDNA -1 null restrictionenzymes -1 null Sangersequencing -1 null deconvoluted -1 null transcription -1 null DNAmicroarrays -1 null measurementoffluorescentintensity -1 method RNAsequencing -1 method high-throughput -1 available aligned -1 null Heatmap -1 null ng -1 null probes -1 null Quantitation -1 null SNPs -1 null GeneExpressionOmnibus -1 null NCBI -1 null MIAME -1 null MINSEQE -1 null repeatability -1 null ENA -1 null ExpressionAtlas -1 null EBI -1 null GeneOntology -1 null InterPro -1 null Genevestigator -1 null DDBJ -1 null heatmaps -1 null 3Drepresentations -1 null NONCODE -1 null 454 -1 null Illumina -1 null SOLiD -1 null IonTorrent -1 null PacBio -1 
-28545068 2017 null 10.21227/H2901H -1 code http://dx.doi.org/10.21227/H2901H 303 pipeline https://github.com/leiferlab/NeRVEclustering 301 
+28545068 2017 null 10.21227/H2901H -1 code https://doi.org/10.21227/H2901H 303 pipeline https://github.com/leiferlab/NeRVEclustering 301 
 28481887 2017 NoLink
 28486504 2017 null http://www.fil.ion.ucl.ac.uk/spm/ 200 
 28481891 2017 NoLink
@@ -4866,7 +4866,7 @@ NA 2009 NoLink
 28557990 2017 download http://medicalgenomics.org/rna_seq_atlas/download 200 
 28640803 2017 NoLink
 28640825 2017 NoLink
-28640806 2017 null http://doi.org/doi:10.1371/journal.pone.0065848 303 null https://github.com/weecology/retriever 301 null https://github.com/dib-lab/khmer 301 
+28640806 2017 null https://doi.org/doi:10.1371/journal.pone.0065848 303 null https://github.com/weecology/retriever 301 null https://github.com/dib-lab/khmer 301 
 28640804 2017 NoLink
 28582469 2017 NoLink
 28582395 2017 NoLink
@@ -5077,7 +5077,7 @@ NA 2009 NoLink
 28957313 2017 null www.geneontology.org -1 null http://amp.pharm.mssm.edu/Enrichr/ 200 code https://github.com/andre-voigt/CSD 301 null http://cbl-gorilla.cs.technion.ac.il/ 200 null http://amp.pharm.mssm.edu/Enrichr/ 200 null http://amp.pharm.mssm.edu/Enrichr/ 200 
 28981514 2017 NoLink
 28957320 2017 NoLink
-28945740 2017 null http://dx.doi.org/10.5061/dryad.pd40m 303 
+28945740 2017 null https://doi.org/10.5061/dryad.pd40m 303 
 28957319 2017 NoLink
 29023448 2017 NoLink
 29023450 2017 NoLink
@@ -5211,7 +5211,7 @@ NA 2008 NoLink
 18463700 2008 NoLink
 18516277 2008 NoLink
 NA 2008 NoLink
-19478879 2009 null http://www.iscb.org/iscb-leadership-a-staff-/117 200 null http://www.ploscompbiol.org 301 null http://dx.doi.org/10.1371/journal.pntd.0000228.x001 303 null http://purl.org/net/cito/ 502 null http://www.febsletters.org/content/sda_summary 302 null http://www.elseviergrandchallenge.com/ 200 null http://www.elixir-europe.org/page.php?page=wp8 301 null http://www.cs.queensu.ca/biolink09 301 
+19478879 2009 null http://www.iscb.org/iscb-leadership-a-staff-/117 200 null http://www.ploscompbiol.org 301 null https://doi.org/10.1371/journal.pntd.0000228.x001 303 null http://purl.org/net/cito/ 502 null http://www.febsletters.org/content/sda_summary 302 null http://www.elseviergrandchallenge.com/ 200 null http://www.elixir-europe.org/page.php?page=wp8 301 null http://www.cs.queensu.ca/biolink09 301 
 18483611 2008 null http://senselab.yale.med.edu -1 
 18369420 2008 NoLink
 18369426 2008 NoLink
@@ -5309,7 +5309,7 @@ NA 2008 NoLink
 18989398 2008 null http://www.bdc.brain.riken.go.jp/~tani/mov/PLoS08.html -1 
 19180175 2009 null http://friendfeed.com/ 302 null http://twitter.com/ 301 null http://blog.openwetware.org/scienceintheopen/2008/06/12/friendfeed-for-scientists-what-why-and-how/ 302 available http://friendfeed.com/rooms/ismb-2008/ 302 null http://friendfeed.com/e/685a365c-9ef6-4ec1-b5b7-48e2619a0790/Keynote-2-enormous-amounts-of-sequencing/ 302 null http://friendfeed.com/e/60f95dea-7f5d-454d-a296-abddbeb69cab/Keynote-3-Eugene-Myers-imaging/ 302 null http://friendfeed.com/e/29b67aac-38f2-4dd5-8c19-b8596895d36e/Keynote-Aviv-Regev-on-Modular-Biology/ 302 null http://friendfeed.com/e/04150591-adf3-4e16-a6ed-7fbeaf7d5ac9/Keynote-5-Morag-Park-profiling-the-breast-tumor/ 302 null http://friendfeed.com/e/ef87914f-c3c5-4943-88ad-c518e9991fb4/Keynote-6-Bernhard-Palsson-systems-biology-an-era/ 302 null http://friendfeed.com/e/29ec0f3d-5a1c-4f2d-807a-5f42e959bf50/Keynote-7-Hana-Margalit-intriguing-roles-for/ 302 null http://friendfeed.com/e/d6af6373-897d-483d-975e-5204ef127f96/Keynote-8-David-Haussler-100-million-years-of/ 302 application http://tagcrowd.com/ 301 null http://friendfeed.com/e/d5b274e5-1d34-4108-853e-5974b2a4cccd/HL29-Phil-Bourne-off-targets-for-some-major/ 302 null http://www.biopathways.org/ -1 null http://www.emergence.ethz.ch/ 200 null http://metacyc.org/ 302 available http://biocyc.org/ 302 null http://www.wikipathways.org/index.php/WikiPathways 301 null http://www.pathogenomics.ca/cerebral/ 200 null http://netphorest.info/ 200 tool http://networkin.info/search.php 301 null http://string.embl.de/ 302 null http://shirleywho.wordpress.com/ 301 null http://pbeltrao.blogspot.com/ 301 null http://van.embl.de/cb/web_20_talk_series.shtml 404 null http://www.connotea.org/ -1 null http://www.citeulike.org/ 403 null http://www.labmeeting.com/signin 302 null http://www.epernicus.com/ 301 null http://network.nature.com/ -1 null http://www.openwetware.org/wiki/Main_Page 301 null http://friendfeed.com/e/44118735-65e8-0980-64c3-36247dd8dfab/Off-to-ISMB-2008/ 302 null http://friendfeed.com/e/4e094687-f68e-5c51-f3ce-fac663f18c23/STRING-and-STITCH-known-and-predicted/ 302 null http://www.eposters.net/ 301 null http://secondlife.com/ 200 null http://usefulchem.blogspot.com/2008/02/acs-island-on-second-life.html 200 
 18369436 2008 NoLink
-18974831 2008 null http://www.pnas.org 200 null http://portal.acm.org/citation.cfmdoid1242572.1242705 -1 null http://dx.doi.org/10.1109/TBME.2007.906494 303 null http://ieeexplore.ieee.org/search/wrapper.jsparnumber1416852 404 null http://dblp.uni-trier.de/rec/bibtex/journals/bib/Altman04 200 null PubMed.gov -1 null http://pubmed.gov/18045790 301 null http://www.pubmedcentral.nih.gov/articlerender.fcgiartid1781113 301 null http://isiknowledge.com 302 null Scopus.com -1 null http://www.scopus.com/scopus/openurl/document.urlissn03029743volume3298spage350 301 null http://citeseer.ist.psu.edu/apweiler04uniprot.html 302 null http://scholar.google.com/scholarcites9856542662207029505 302 null arXiv.org -1 available http://arxiv.org/abs/cond-mat/0205383 301 null http://nar.oxfordjournals.org/cgi/content/full/36/suppl_1/D13 301 null http://www.ncbi.nlm.nih.gov/pubmed/18045790 301 null http://www.pubmedcentral.nih.gov/articlerender.fcgiartid1781113 301 here http://dx.doi.org/10.1093/nar/gkm1000 303 null Zotero.org -1 null CiteULike.org -1 null delicious.com -1 null http://www.citeulike.org/article/1708098 403 null Connotea.org -1 null http://www.connotea.org/uri/685b90ae66cfbc3fc8ebeed0a5def571 -1 null HubMed.org -1 null http://www.hubmed.org/display.cgiuids16845111 404 null http://www.doi.org/ 200 null http://dtd.nlm.nih.gov/ 301 null http://dublincore.org/ 200 null http://www.ietf.org/ 200 null http://www.nlm.nih.gov/mesh/ 301 null http://www.loc.gov/standards/mods/ 200 null http://www.plos.org 301 null http://www.w3.org/ 200 null myExperiment.org -1 null http://portal.acm.org -1 null http://ieeexplore.ieee.org 301 null http://dblp.uni-trier.de 200 null http://pubmed.gov 301 null http://pubmedcentral.gov -1 null http://apps.isiknowledge.com -1 null http://www.scopus.com 301 null http://citeseer.ist.psu.edu 302 null http://scholar.google.com 302 null http://www.arxiv.org/ 301 
+18974831 2008 null http://www.pnas.org 200 null http://portal.acm.org/citation.cfmdoid1242572.1242705 -1 null https://doi.org/10.1109/TBME.2007.906494 303 null http://ieeexplore.ieee.org/search/wrapper.jsparnumber1416852 404 null http://dblp.uni-trier.de/rec/bibtex/journals/bib/Altman04 200 null PubMed.gov -1 null http://pubmed.gov/18045790 301 null http://www.pubmedcentral.nih.gov/articlerender.fcgiartid1781113 301 null http://isiknowledge.com 302 null Scopus.com -1 null http://www.scopus.com/scopus/openurl/document.urlissn03029743volume3298spage350 301 null http://citeseer.ist.psu.edu/apweiler04uniprot.html 302 null http://scholar.google.com/scholarcites9856542662207029505 302 null arXiv.org -1 available http://arxiv.org/abs/cond-mat/0205383 301 null http://nar.oxfordjournals.org/cgi/content/full/36/suppl_1/D13 301 null http://www.ncbi.nlm.nih.gov/pubmed/18045790 301 null http://www.pubmedcentral.nih.gov/articlerender.fcgiartid1781113 301 here https://doi.org/10.1093/nar/gkm1000 303 null Zotero.org -1 null CiteULike.org -1 null delicious.com -1 null http://www.citeulike.org/article/1708098 403 null Connotea.org -1 null http://www.connotea.org/uri/685b90ae66cfbc3fc8ebeed0a5def571 -1 null HubMed.org -1 null http://www.hubmed.org/display.cgiuids16845111 404 null http://www.doi.org/ 200 null http://dtd.nlm.nih.gov/ 301 null http://dublincore.org/ 200 null http://www.ietf.org/ 200 null http://www.nlm.nih.gov/mesh/ 301 null http://www.loc.gov/standards/mods/ 200 null http://www.plos.org 301 null http://www.w3.org/ 200 null myExperiment.org -1 null http://portal.acm.org -1 null http://ieeexplore.ieee.org 301 null http://dblp.uni-trier.de 200 null http://pubmed.gov 301 null http://pubmedcentral.gov -1 null http://apps.isiknowledge.com -1 null http://www.scopus.com 301 null http://citeseer.ist.psu.edu 302 null http://scholar.google.com 302 null http://www.arxiv.org/ 301 
 18846203 2008 software http://www.lsm.tugraz.at/pcsim 301 
 18818725 2008 available http://mouseNET.princeton.edu 301 available http://mouseNET.princeton.edu 301 null http://mouseNET.princeton.edu/supplement/supplemental_data.htm 301 available http://mouseNET.princeton.edu 301 
 18833292 2008 package http://www.r-project.org/ 200 download http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.ebi.ac.uk/microarray-as/aer/#ae-main0 301 download http://www.targetscan.org/ 200 
@@ -5344,7 +5344,7 @@ NA 2008 NoLink
 19360130 2009 available http://www.nii.res.in/pred_pks_orf_order.html 404 
 19360093 2009 NoLink
 19360090 2009 NoLink
-19381256 2009 null http://dx.doi.org/10.1371/journal.pntd.0000228 303 null http://creativecommons.org/ 301 null http://www.doi.org/ 200 null http://www.crossref.org/ 302 null http://www.plos.org/cms/blog 301 null http://www.mozilla.com/en-US/firefox/ 301 null http://dx.doi.org/10.1371/journal.pntd.0000228 303 null http://dx.doi.org/10.1371/journal.pntd.0000228.x001 303 application http://developer.yahoo.com/yui/ 301 code http://code.google.com/apis/maps/index.html 404 null http://www.elseviergrandchallenge.com/team1.html 200 null http://reflect.ws 200 null http://www.elseviergrandchallenge.com/team5.html 200 null http://www.foresight.gov.uk/Infectious%20Diseases/E1_ID_Executive_Summary.pdf 301 null http://www.rcsb.org/pdb/ 302 null http://www.stm-assoc.org/brussels-declaration/ 301 null http://mint.bio.uniroma2.it/ 200 null http://www.uniprot.org/ 200 null http://www.psidev.info/index.php?q=node/31 200 null http://medline.cos.com/ -1 null http://www.ncbi.nlm.nih.gov/pubmed/ 301 null http://dx.doi.org/10.1039/b613673g 303 null http://goldbook.iupac.org/ 200 null http://journals.iucr.org/a/issues/2003/01/00/au0308/index.html 200 null http://reference.iucr.org/dictionary/ 301 null http://www.sourceoecd.org/ 302 null http://www.oecd.org/ 200 null http://www.elseviergrandchallenge.com/ 200 null http://www.eb2009.org/ 200 null http://dx.doi.org/10.1371/journal.pntd.0000228.t001.x001 303 null http://dx.doi.org/10.1371/journal.pntd.0000228.g002.x001 303 null http://dx.doi.org/10.1371/journal.pntd.0000228.s002.x001 303 null http://www.geneontology.org/ 200 null http://gensc.org/gsc/gcat 404 null http://www.obofoundry.org/ 200 null http://www.w3.org/2001/sw/hcls/ 200 null http://bio2rdf.org 200 null http://semanticweb.org/wiki/VoiD 404 null http://www.infectiousdiseaseontology.org/ 302 null http://www.biocaster.org -1 null http://www.cochrane.org/ 200 library http://www.thecochranelibrary.com 301 null http://dx.doi.org/10.1371/journal.pntd.0000228.x002 303 null http://www.mibbi.org/ 301 null http://www.mibbi.org/index.php/Projects/MIMIx 301 null http://tinyurl.com/5szjly 301 code http://ucsdbiolit.codeplex.com/ 200 null http://biocreative.sourceforge.net/ 200 null http://www.biocreative.org/ 200 null http://genomebiology.com/supplements/9/S2 301 null http://www.biocreative.org/news/chapter/biocreative-ii5/ 200 null http://www.ubio.org/index.php?pagename=xml_services 200 null http://www.opencalais.com/ 200 null http://dx.doi.org/10.1371/journal.pntd.0000228 303 null http://dx.doi.org/10.1371/journal.pntd.0000228.g003.x002 303 null http://dx.doi.org/10.1371/journal.pntd.0000228.g003.x003 303 null http://dx.doi.org/10.1371/journal.pntd.0000228.x006 303 null http://dx.doi.org/10.1371/journal.pntd.0000228.x007 303 null http://dx.doi.org/10.1371/journal.pntd.0000228.x008 303 null http://www.ubio.org/ 200 tool http://www.kawa.net/works/js/tips/yui-tooltips-e.html 200 null http://dx.doi.org/10.1371/journal.pntd.0000228.x002 303 null http://www.infectiousdiseaseontology.org 302 null http://dx.doi.org/10.1371/journal.pntd.0000228.x005 303 null http://scholar.google.com 302 null http://apps.isiknowledge.com/ -1 available http://purl.org/net/cito/ 502 null http://protege.stanford.edu/ 301 null http://purl.org/NET/cito/Citation_typing_using_CiTO.doc 302 null http://scholar.google.com/ 302 null http://www.isiwebofknowledge.com/ 301 null http://dx.doi.org/10.1371/journal.pntd.0000228.s003.x001 303 null http://dx.doi.org/10.1371/journal.pntd.0000228.g003 303 null http://dx.doi.org/10.1371/journal.pntd.0000228.g003.x001 303 null http://dx.doi.org/10.1186/1472-698X-7-2 303 null http://www.biomedcentral.com/1472-698X/7/2 302 null http://www.ncbi.nlm.nih.gov/pubmed/17343758 301 null http://ibrg.zoo.ox.ac.uk/ -1 null http://www.w3.org/RDF/ 301 null http://www.w3.org/2004/OWL/ 302 null http://en.wikipedia.org/wiki/RDFa 301 null http://www.w3.org/TR/xhtml-rdfa-primer/ 200 method http://www.w3.org/TR/rdfa-syntax 301 available http://dx.doi.org/10.1371/journal.pntd.0000228.x003 303 null http://www.w3.org/DesignIssues/Notation3.html 200 null http://www.w3.org/2000/10/swap/Primer.html 200 available http://dx.doi.org/10.1371/journal.pntd.0000228.x004 303 null http://dublincore.org/ 200 null http://dublincore.org/documents/dcmi-terms/ 200 null http://www.foaf-project.org/ 200 null http://www.prismstandard.org/ 200 null http://www.ifla.org/VII/s13/frbr/frbr.htm 302 null http://www.w3schools.com/tags/html5_time.asp 301 null http://geotags.com/geo/geotags2.html 200 available http://purl.org/net/cito/ 502 library http://gis.esri.com/library/userconf/proc05/papers/pap1628.pdf 301 null http://en.wikipedia.org/wiki/Colorblind#Types 301 null http://dx.doi.org/10.1371/journal.pntd.0000228#s4 303 null http://dtd.nlm.nih.gov/publishing/ 200 library http://dtd.nlm.nih.gov/publishing/tag-library/3.0/index.html 200 available http://dx.doi.org/10.1371/journal.pntd.0000228.x004 303 here http://citeseerx.ist.psu.edu/ 302 null http://maps.mlst.net/ -1 null http://collections.plos.org/plosbiology/gos-2007.php 404 null http://iphylo.blogspot.com/2007/06/google-earth-phylogenies.html 200 
+19381256 2009 null https://doi.org/10.1371/journal.pntd.0000228 303 null http://creativecommons.org/ 301 null http://www.doi.org/ 200 null http://www.crossref.org/ 302 null http://www.plos.org/cms/blog 301 null http://www.mozilla.com/en-US/firefox/ 301 null https://doi.org/10.1371/journal.pntd.0000228 303 null https://doi.org/10.1371/journal.pntd.0000228.x001 303 application http://developer.yahoo.com/yui/ 301 code http://code.google.com/apis/maps/index.html 404 null http://www.elseviergrandchallenge.com/team1.html 200 null http://reflect.ws 200 null http://www.elseviergrandchallenge.com/team5.html 200 null http://www.foresight.gov.uk/Infectious%20Diseases/E1_ID_Executive_Summary.pdf 301 null http://www.rcsb.org/pdb/ 302 null http://www.stm-assoc.org/brussels-declaration/ 301 null http://mint.bio.uniroma2.it/ 200 null http://www.uniprot.org/ 200 null http://www.psidev.info/index.php?q=node/31 200 null http://medline.cos.com/ -1 null http://www.ncbi.nlm.nih.gov/pubmed/ 301 null https://doi.org/10.1039/b613673g 303 null http://goldbook.iupac.org/ 200 null http://journals.iucr.org/a/issues/2003/01/00/au0308/index.html 200 null http://reference.iucr.org/dictionary/ 301 null http://www.sourceoecd.org/ 302 null http://www.oecd.org/ 200 null http://www.elseviergrandchallenge.com/ 200 null http://www.eb2009.org/ 200 null https://doi.org/10.1371/journal.pntd.0000228.t001.x001 303 null https://doi.org/10.1371/journal.pntd.0000228.g002.x001 303 null https://doi.org/10.1371/journal.pntd.0000228.s002.x001 303 null http://www.geneontology.org/ 200 null http://gensc.org/gsc/gcat 404 null http://www.obofoundry.org/ 200 null http://www.w3.org/2001/sw/hcls/ 200 null http://bio2rdf.org 200 null http://semanticweb.org/wiki/VoiD 404 null http://www.infectiousdiseaseontology.org/ 302 null http://www.biocaster.org -1 null http://www.cochrane.org/ 200 library http://www.thecochranelibrary.com 301 null https://doi.org/10.1371/journal.pntd.0000228.x002 303 null http://www.mibbi.org/ 301 null http://www.mibbi.org/index.php/Projects/MIMIx 301 null http://tinyurl.com/5szjly 301 code http://ucsdbiolit.codeplex.com/ 200 null http://biocreative.sourceforge.net/ 200 null http://www.biocreative.org/ 200 null http://genomebiology.com/supplements/9/S2 301 null http://www.biocreative.org/news/chapter/biocreative-ii5/ 200 null http://www.ubio.org/index.php?pagename=xml_services 200 null http://www.opencalais.com/ 200 null https://doi.org/10.1371/journal.pntd.0000228 303 null https://doi.org/10.1371/journal.pntd.0000228.g003.x002 303 null https://doi.org/10.1371/journal.pntd.0000228.g003.x003 303 null https://doi.org/10.1371/journal.pntd.0000228.x006 303 null https://doi.org/10.1371/journal.pntd.0000228.x007 303 null https://doi.org/10.1371/journal.pntd.0000228.x008 303 null http://www.ubio.org/ 200 tool http://www.kawa.net/works/js/tips/yui-tooltips-e.html 200 null https://doi.org/10.1371/journal.pntd.0000228.x002 303 null http://www.infectiousdiseaseontology.org 302 null https://doi.org/10.1371/journal.pntd.0000228.x005 303 null http://scholar.google.com 302 null http://apps.isiknowledge.com/ -1 available http://purl.org/net/cito/ 502 null http://protege.stanford.edu/ 301 null http://purl.org/NET/cito/Citation_typing_using_CiTO.doc 302 null http://scholar.google.com/ 302 null http://www.isiwebofknowledge.com/ 301 null https://doi.org/10.1371/journal.pntd.0000228.s003.x001 303 null https://doi.org/10.1371/journal.pntd.0000228.g003 303 null https://doi.org/10.1371/journal.pntd.0000228.g003.x001 303 null https://doi.org/10.1186/1472-698X-7-2 303 null http://www.biomedcentral.com/1472-698X/7/2 302 null http://www.ncbi.nlm.nih.gov/pubmed/17343758 301 null http://ibrg.zoo.ox.ac.uk/ -1 null http://www.w3.org/RDF/ 301 null http://www.w3.org/2004/OWL/ 302 null http://en.wikipedia.org/wiki/RDFa 301 null http://www.w3.org/TR/xhtml-rdfa-primer/ 200 method http://www.w3.org/TR/rdfa-syntax 301 available https://doi.org/10.1371/journal.pntd.0000228.x003 303 null http://www.w3.org/DesignIssues/Notation3.html 200 null http://www.w3.org/2000/10/swap/Primer.html 200 available https://doi.org/10.1371/journal.pntd.0000228.x004 303 null http://dublincore.org/ 200 null http://dublincore.org/documents/dcmi-terms/ 200 null http://www.foaf-project.org/ 200 null http://www.prismstandard.org/ 200 null http://www.ifla.org/VII/s13/frbr/frbr.htm 302 null http://www.w3schools.com/tags/html5_time.asp 301 null http://geotags.com/geo/geotags2.html 200 available http://purl.org/net/cito/ 502 library http://gis.esri.com/library/userconf/proc05/papers/pap1628.pdf 301 null http://en.wikipedia.org/wiki/Colorblind#Types 301 null https://doi.org/10.1371/journal.pntd.0000228#s4 303 null http://dtd.nlm.nih.gov/publishing/ 200 library http://dtd.nlm.nih.gov/publishing/tag-library/3.0/index.html 200 available https://doi.org/10.1371/journal.pntd.0000228.x004 303 here http://citeseerx.ist.psu.edu/ 302 null http://maps.mlst.net/ -1 null http://collections.plos.org/plosbiology/gos-2007.php 404 null http://iphylo.blogspot.com/2007/06/google-earth-phylogenies.html 200 
 19390603 2009 NoLink
 19381268 2009 here http://bionetgen.org 200 
 19360098 2009 NoLink

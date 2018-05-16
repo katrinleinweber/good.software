@@ -11,7 +11,7 @@
 26679539 2015 available https://github.com/huangyh09/diceseq 301 null http://www.yeastgenome.org/ 302 null http://mfold.rna.albany.edu/?q=DINAMelt/Quickfold 301 
 26679168 2015 here http://docs.mineotaur.org 302 software http://www.tableau.com/ 301 null http://www.moleculardevices.com/systems/high-content-imaging/acuityxpress-high-content-informatics-software 301 software http://spotfire.tibco.com/ 301 null http://java.oracle.com 301 null http://www.neo4j.com 301 tool http://docs.mineotaur.org/en/latest/plot_tools.html#download 200 null https://github.com/antalbalint/Mineotaur/ 301 null http://demo.mineotaur.org/ 200 
 26714646 2015 null http://genome.ucsc.edu/ 200 package https://github.com/iontorrent/TS 301 null http://genetics.bwh.harvard.edu/pph/ 200 null http://sift.bii.a-star.edu.sg/ 200 null http://www.mutationtaster.org/ 200 null http://icy.bioimageanalysis.org/ 200 null https://zenodo.org/record/33941 301 
-26673150 2015 pipeline http://dx.doi.org/10.1101/019596 303 null http://www.r-project.org/ 200 null http://graphpad.com/quickcalcs/grubbs2/ 301 null https://www.cog-genomics.org/plink2 200 tool http://hannonlab.cshl.edu/fastx_toolkit/index.html 200 null http://bioinfo.vanderbilt.edu/webgestalt/ 200 
+26673150 2015 pipeline https://doi.org/10.1101/019596 303 null http://www.r-project.org/ 200 null http://graphpad.com/quickcalcs/grubbs2/ 301 null https://www.cog-genomics.org/plink2 200 tool http://hannonlab.cshl.edu/fastx_toolkit/index.html 200 null http://bioinfo.vanderbilt.edu/webgestalt/ 200 
 25853934 2015 NoLink
 26025440 2015 NoLink
 25316263 2014 NoLink
@@ -58,7 +58,7 @@ NA 2005 null http://genomebiology.com/reports/F1000/gb-2005-6-12-363.asp#Villas-
 26922637 2016 tool http://broadinstitute.github.io/picard/ 200 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE72141 301 
 26926526 2016 NoLink
 26936472 2016 NoLink
-26936376 2016 code http://ouyanglab.jax.org/hsa/ 200 null http://dx.doi.org/10.5281/zenodo.45514 303 code http://ouyanglab.jax.org/hsa/ 200 download http://sgt.cnag.cat/3dg/datasets/ 200 code http://ouyanglab.jax.org/hsa/ 200 null http://dx.doi.org/10.5281/zenodo.45513 303 
+26936376 2016 code http://ouyanglab.jax.org/hsa/ 200 null https://doi.org/10.5281/zenodo.45514 303 code http://ouyanglab.jax.org/hsa/ 200 download http://sgt.cnag.cat/3dg/datasets/ 200 code http://ouyanglab.jax.org/hsa/ 200 null https://doi.org/10.5281/zenodo.45513 303 
 26931545 2016 NoLink
 26944702 2016 null http://www.ncbi.nlm.nih.gov/gap 301 null http://www.ncbi.nlm.nih.gov/bioproject 301 
 26944856 2016 NoLink
@@ -78,7 +78,7 @@ NA 2005 null http://genomebiology.com/reports/F1000/gb-2005-6-12-363.asp#Villas-
 27072794 2016 null http://phantomjs.org 200 null https://www.w3counter.com/ 301 null http://jbrowse.org 200 null http://jbrowse.org 200 null http://jbrowse.org 200 null http://jbrowse.org 200 null http://jbrowse.org 200 null http://jbrowse.org/demos 301 null atom -1 
 27036880 2016 null http://www.mqtldb.org/ 200 null http://www.mqtldb.org/ 200 null http://www.ariesepigenomics.org.uk/ 200 null http://www.mqtldb.org/ 200 null https://github.com/MRCIEU/ariesmqtl 301 download http://orange.biolab.si/download/ 301 download http://www.gtexportal.org/ 302 null http://www.mqtldb.org 200 null http://www.bristol.ac.uk/alspac/researchers/data-access/ 302 
 27036623 2016 available bioplanet.com -1 null it.informatik.uni-tuebingen.de -1 null docker.io -1 available https://it.informatik.uni-tuebingen.de 200 code https://github.com/apeltzer/EAGER-GUI 301 software https://ccb.jhu.edu/software/FLASH/ 200 available bioplanet.com -1 
-27036497 2016 null http://dx.doi.org/10.7488/ds/1306 303 code http://lammps.sandia.gov 200 
+27036497 2016 null https://doi.org/10.7488/ds/1306 303 code http://lammps.sandia.gov 200 
 27150130 2016 NoLink
 27039378 2016 available http://hapmap.ncbi.nlm.nih.gov/ 301 code https://sourceforge.net/projects/multitrans/files/ 301 available http://genetics.cs.ucla.edu/multiTrans/ 200 null https://www.gnu.org/licenses/why-affero-gpl.html 200 
 27044591 2016 NoLink

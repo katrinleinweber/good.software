@@ -1,5 +1,5 @@
 28806913 2017 NoLink
-28807002 2017 download ftp://ftp.sra.ebi.ac.uk/vol1/fastq 301 null ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/ 200 code https://github.com/dpastling/plethora 301 available https://github.com/dpastling/DUF1220_simulation 301 available https://github.com/IleaHeft/DUF1220annotator 301 null http://doi.org/10.5281/zenodo.840606 303 
+28807002 2017 download ftp://ftp.sra.ebi.ac.uk/vol1/fastq 301 null ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/ 200 code https://github.com/dpastling/plethora 301 available https://github.com/dpastling/DUF1220_simulation 301 available https://github.com/IleaHeft/DUF1220annotator 301 null https://doi.org/10.5281/zenodo.840606 303 
 28810828 2017 available http://leonxie.esy.es/RefFinder/ 200 available http://leonxie.esy.es/RefFinder/ 200 
 28806931 2017 null http://tcdb.org 200 
 28806970 2017 download http://www.uniprot.org 200 download http://marinegenomics.oist.jp/symb/viewer/info?project_id=21 500 null http://genome.jgi-psf.org 302 null http://hmmer.janelia.org 200 null http://www.brenda-enzymes.org/index.php 200 null http://metacyc.ai.sri.com -1 null http://www.cbs.dtu.dk/services/TargetP/ 200 

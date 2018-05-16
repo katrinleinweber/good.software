@@ -66,7 +66,7 @@
 21087991 2011 null http://www.fusariumdb.org/ 200 null http://isolate.fusariumdb.org/ 200 null http://genomics.fusariumdb.org/ 200 null http://www.arabidopsis.org/ 200 null http://www.iplantcollaborative.org/ 301 null http://www.phi-base.org/about.php 404 null http://gmod.org/wiki/Main_Page 200 null http://www.aspergillus.org.uk/ 200 null http://blog.fusariumdb.org/ 200 null http://www.fusariumdb.org/ 200 null http://www.cbs.knaw.nl/fusarium/ 301 null http://www.phytophthoradb.org/ 200 null http://www.broadinstitute.org/annotation/genome/fusarium_group/MultiHome.html 301 null http://genome.jgi-psf.org/Necha2/Necha2.home.html 302 null http://cfgp.snu.ac.kr/ 200 null http://genomebrowser.snu.ac.kr/ 200 null http://ftfd.snu.ac.kr/ 200 null http://p450.riceblast.snu.ac.kr/ 200 null http://fsd.snu.ac.kr/ 200 
 NA 2011 null www.nar.oxfordjournals.org -1 
 NA 2011 NoLink
-NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 20959296 2011 
 20855290 2011 
 21051340 2011 available http://crfpp.sourceforge.net/ 301 available http://ibiza.biw.kuleuven.be/crossed/webtool.html -1 

@@ -16,14 +16,14 @@
 19264808 2009 null http://www.gene-regulation.com/ 301 null http://research.dfci.harvard.edu/brownlab/datasets/index.php?dir=ER_MCF7_whole_human_genome/ 302 here http://lcsciences.com/ 301 null http://microrna.sanger.ac.uk/sequences/ 301 
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19666720 2009 null FigureS1 -1 
 19270070 2009 null http://www.chemcomp.com 200 null http://kinemage.biochem.duke.edu/molprobity 301 null www.plasmodb.org/plasmo -1 null www.chemcomp.com -1 
 19273535 2009 NoLink
 19270068 2009 
 18854352 2009 null http://modomics.genesilico.pl 200 available http://genesilico.pl/modomics 302 
 19270065 2009 null http://www.uniprot.org 200 null FigureS1 -1 null FigureS1 -1 null FigureS2A -1 null FigureS2C -1 null FigureS2B -1 null FigureS3 -1 null FigureS4 -1 null FigureS5A -1 null FigureS5B -1 
-NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 null www.blender.org -1 
+NA 2011 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 null www.blender.org -1 
 19270062 2009 null http://data.cgt.duke.edu/5sage.php 404 null http://yeast.utgenome.org/] 404 null www.yeastgenome.org/ -1 null http://harlequin.jax.org/polyA/] 404 null http://microarray-pubs.stanford.edu/vnorth/] -1 
 NA 2009 null www.nar.oxfordjournals.org -1 
 19671527 2009 software http://www.r-project.org/ 200 download http://dir.nhlbi.nih.gov/papers/lmi/epigenomes/hgtcellnucleosomes.html 302 download http://dir.nhlbi.nih.gov/papers/lmi/epigenomes/hgtcell.html 302 
@@ -37,7 +37,7 @@ NA 2009 null www.nar.oxfordjournals.org -1
 19740771 2009 NoLink
 19745056 2009 
 NA 2009 null www.nar.oxfordjournals.org -1 
-NA 2008 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2008 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2009 NoLink
 19752155 2009 NoLink
 19755502 2009 code www.mitomap.org -1 null http://ihg2.helmholtz-muenchen.de/ihg/mitoprot.html -1 available www.mrc-cpe.cam.ac.uk -1 null http://www.pymol.org/ 302 null http://ihg2.helmholtz-muenchen.de/ihg/mitoprot.html -1 null TableS3 -1 package http://www.cgl.ucsf.edu/home/sparky/ 200 

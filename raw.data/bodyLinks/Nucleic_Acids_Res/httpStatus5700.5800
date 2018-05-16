@@ -5,7 +5,7 @@
 19740770 2009 download http://people.cs.ubc.ca/~irmtraud/hmmconverter 301 
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19740762 2009 null http://www.biosearchtech.com/products/probe_design.asp 301 software http://www.softgenetics.com/mutationSurveyor.html 404 
 23193293 2013 null http://genomics.senescence.info 200 null http://ageing-map.org 200 null http://genomics.senescence.info 200 null http://netage-project.org 200 null http://www.fli-leibniz.de/IMAGE.html 200 null http://eol.org 200 null http://biologyofaging.org 200 null http://animaldiversity.ummz.umich.edu 301 null http://genomics.brocku.ca/ccmbl/ 200 null http://genomics.senescence.info/genes/ 200 available http://genomics.senescence.info/genes/longevity.html 301 null http://genomics.senescence.info/diet/ 200 null http://genomics.senescence.info/species/ 200 null http://www.senescence.info 200 null http://whoswho.senescence.info/ 200 software http://genomics.senescence.info/software/ 200 
 19740765 2009 null FigureS3 -1 null http://genome.ucsc.edu/cgi-bin/hgTables 200 
@@ -51,7 +51,7 @@ NA 2008 null www.nar.oxfordjournals.org -1
 19706732 2009 null FigureS8 -1 null TableS1 -1 null FigureS1 -1 null FiguresS2andS3 -1 null FiguresS2andS3 -1 null FigureS4 -1 null FigureS4 -1 null FigureS5 -1 null FigureS6 -1 null FigureS6 -1 null FigureS7 -1 null FigureS8 -1 null FigureS9 -1 
 19706733 2009 null http://www.bioconductor.org 200 
 19710035 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19713438 2009 NoLink
 19717545 2009 
 NA 2009 null www.nar.oxfordjournals.org -1 
@@ -88,11 +88,11 @@ NA 2010 null www.nar.oxfordjournals.org -1
 24848018 2014 NoLink
 24078250 2014 null S4 -1 null S8 -1 
 25925575 2015 
-NA 2008 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2008 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19592424 2009 NoLink
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
 19620211 2009 null http://maq.sourceforge.net/index.shtml 200 null http://www.genomic.ch/edena.php 200 null http://mummer.sourceforge.net 200 null http://maq.sourceforge.net/index.shtml 200 
 19596811 2009 
 19596810 2009 null http://www.berkeleymadonna.com 200 

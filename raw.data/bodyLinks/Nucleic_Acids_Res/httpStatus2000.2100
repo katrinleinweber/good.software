@@ -42,7 +42,7 @@ NA 2013 NoLink
 16845027 2006 available http://bio.cs.washington.edu/software.html 404 
 16707664 2006 null AJ238799 -1 
 16707658 2006 available http://faculty.washington.edu/pozhit/default.htm 404 
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 16709732 2006 NoLink
 16714447 2006 NoLink
 26117545 2015 
@@ -77,11 +77,11 @@ NA 2006 NoLink
 NA 2012 NoLink
 16670430 2006 null http://rulai.cshl.edu/CSHLmpd2/ 200 null http://www.biobase.de 200 null http://repeatmasker.org 200 null http://www.biobase.de 200 
 23666625 2013 null http://genome.ucsc.edu/ 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2012 null www.nar.oxfordjournals.org -1 
 NA 2012 NoLink
 16738127 2006 NoLink
-NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2012 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 16738129 2006 NoLink
 16738130 2006 null http://yeastgenome.org/ 302 null http://www.scioncorp.com/ -1 
 16738131 2006 NoLink

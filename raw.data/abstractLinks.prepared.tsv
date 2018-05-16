@@ -5232,7 +5232,7 @@ Nucleic_Acids_Res	25414349 2015 available github.com/sanger-pathogens/Gubbins -1
 Nucleic_Acids_Res	25414351 2015 available http://sourceforge.net/projects/grasp-release 301 
 Nucleic_Acids_Res	25634892 2015 abstractNotFound
 Nucleic_Acids_Res	NA 2015 abstractNotFound
-Nucleic_Acids_Res	25578962 2015 software http://dx.doi.org/10.6084/m9.figshare.1061917 303 null https://bitbucket.org/regulatorygenomicsupf/iso-ktsp. 301 
+Nucleic_Acids_Res	25578962 2015 software https://doi.org/10.6084/m9.figshare.1061917 303 null https://bitbucket.org/regulatorygenomicsupf/iso-ktsp. 301 
 Nucleic_Acids_Res	25662212 2015 abstractNotFound
 Nucleic_Acids_Res	25510498 2015 available http://sourceforge.net/projects/tlex 301 
 Nucleic_Acids_Res	NA 2015 abstractNotFound
@@ -9790,7 +9790,7 @@ PLoS_Comput_Biol	28472033 2017 abstractNotFound
 PLoS_Comput_Biol	28448496 2017 abstractNotFound
 PLoS_Comput_Biol	28362877 2017 null https://github.com/LeonidSavtchenko/Arachne 301 
 PLoS_Comput_Biol	28406896 2017 available https://github.com/cbg-ethz/epiNEM 301 package https://bioconductor.org/packages/epiNEM/ 301 
-PLoS_Comput_Biol	28394888 2017 code http://faculty.pieas.edu.pk/fayyaz/prank.html 200 available http://doi.org/10.5281/zenodo.167136 303 
+PLoS_Comput_Biol	28394888 2017 code http://faculty.pieas.edu.pk/fayyaz/prank.html 200 available https://doi.org/10.5281/zenodo.167136 303 
 PLoS_Comput_Biol	28426660 2017 null http://michnick.bcm.umontreal.ca/dalel 301 
 PLoS_Comput_Biol	28459850 2017 available https://github.com/ymatts/phyC 301 
 PLoS_Comput_Biol	28542168 2017 abstractNotFound
@@ -9875,7 +9875,7 @@ PLoS_Comput_Biol	19180175 2009 abstractNotFound
 PLoS_Comput_Biol	18818725 2008 available http://mouseNET.princeton.edu 301 
 PLoS_Comput_Biol	19119411 2009 available http://function.princeton.edu/growthrate 301 
 PLoS_Comput_Biol	19360128 2009 code http://metastats.cbcb.umd.edu/ 302 
-PLoS_Comput_Biol	19381256 2009 null http://purl.org/net/cito/ 502 available http://dx.doi.org/10.1371/journal.pntd.0000228.x001 303 
+PLoS_Comput_Biol	19381256 2009 null http://purl.org/net/cito/ 502 available https://doi.org/10.1371/journal.pntd.0000228.x001 303 
 PLoS_Comput_Biol	19390598 2009 abstractNotFound
 PLoS_Comput_Biol	19390613 2009 null http://www.mitophenome.org/ 200 
 PLoS_Comput_Biol	19390599 2009 abstractNotFound

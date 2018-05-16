@@ -6,7 +6,7 @@
 24852252 2014 NoLink
 NA 2014 null www.nar.oxfordjournals.org -1 
 24838565 2014 tool http://www.genome.jp/tools/dinies/ 200 tool http://www.genome.jp/tools/dinies/help.html 200 software http://www.cytoscape.org/ 200 
-NA 2014 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2014 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 24728998 2014 
 24792170 2014 null http://cancer.sanger.ac.uk/cancergenome/projects/census/ 301 null http://www.genome.gov/gwastudies 301 
 24682824 2014 download ftp://ftp.ensembl.org/pub/release-63/emf/ensembl-compara/epo_12_eutherian 301 null http://www.biostat.wisc.edu/cdewey/fly_CAF1/data 302 download ftp://ftp.ensembl.org/pub/release-64/gtf/mus_musculus 301 null ftp://ftp.flybase.net/releases/FB2011_06/dmel_r5.38/gff -1 download http://hgdownload.cse.ucsc.edu/goldenPath/mm9/database 301 null www.ensembl.org -1 null http://enhancer.lbl.gov 301 available http://github.com/hrouault/Imogene 301 available http://hrouault.github.io/Imogene/ 200 null http://mobyle.pasteur.fr/cgi-bin/portal.py#forms::imogene 301 null http://enhancer.lbl.gov 301 null http://enhancer.lbl.gov 301 available http://github.com/hrouault/Imogene 301 null http://mobyle.pasteur.fr/cgi-bin/portal.py#forms::imogene 301 
@@ -60,13 +60,13 @@ NA 2014 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/opena
 24782524 2014 
 24792154 2014 software http://bit.ly/PROGNOS 301 
 24792158 2014 
-NA 2014 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2014 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 24895433 2014 
 26673712 2016 NoLink
 24170809 2014 method S2 -1 null S3 -1 
 24178033 2014 null http://plantgrn.noble.org/GPLEXUS 302 null http://plantgrn.noble.org/GPLEXUS/ 200 null http://plantgrn.noble.org/GPLEXUS/dataset.jsp 200 null http://plantgrn.noble.org/GPLEXUS/dataset.jsp 200 null http://plantgrn.noble.org/GPLEXUS 302 null S3 -1 available http://plantgrn.noble.org/GPLEXUS/Result.jsp?sessionid=Arabidopsis 200 download http://plantgrn.noble.org/GPLEXUS/Result.jsp?sessionid=Arabidopsis_gaussian_new 200 null http://plantgrn.noble.org/GPLEXUS/dataset.jsp 200 
 NA 2014 NoLink
-NA 2014 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2014 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 24353315 2014 available http://www.sanger.ac.uk/resources/downloads/protozoa/trypanosoma-brucei.html 200 
 24609383 2014 software https://github.com/jstjohn/SimSeq 301 software https://github.com/zd1/telseq 301 
 NA 2014 null www.nar.oxfordjournals.org -1 

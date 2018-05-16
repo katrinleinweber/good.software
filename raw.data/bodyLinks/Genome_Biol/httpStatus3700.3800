@@ -26,7 +26,7 @@
 27855690 2016 NoLink
 26424194 2015 null http://longlab.uchicago.edu/?q=SD_GB 403 
 27832824 2016 software https://www.hgsc.bcm.edu/software/ 302 null https://www.hgsc.bcm.edu/asian-long-horned-beetle-genome-project 302 null https://i5k.nal.usda.gov 301 null https://apollo.nal.usda.gov/anogla/jbrowse/ 301 null https://i5k.nal.usda.gov/Anoplophora_glabripennis 301 null https://apollo.nal.usda.gov/anogla/jbrowse 301 null https://expressionanalysis.github.io/ea-utils/ 200 null http://www.phylogeny.fr 200 available https://github.com/NAL-i5K/AGLA_GB_supp-scripts 301 
-26429547 2015 available http://dx.doi.org/10.6084/m9.figshare.1529822 303 
+26429547 2015 available https://doi.org/10.6084/m9.figshare.1529822 303 
 26392177 2015 NoLink
 26429765 2015 NoLink
 26429597 2015 NoLink
@@ -65,7 +65,7 @@
 26537248 2015 NoLink
 26541409 2015 download ftp://ftp.ensembl.org/pub/release-75 301 
 26541286 2015 NoLink
-26541514 2015 null http://dx.doi.org/10.5061/dryad.d3j00 303 
+26541514 2015 null https://doi.org/10.5061/dryad.d3j00 303 
 26553202 2015 NoLink
 26553065 2015 NoLink
 26556628 2015 NoLink

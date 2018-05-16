@@ -84,7 +84,7 @@
 25880192 2015 null http://epi.minsal.cl/vigilancia-epidemiologica/enfermedades-de-notificacion-obligatoria/vibrio-parahaemolyticus/ 404 tool http://www.ncbi.nlm.nih.gov/tools/vecscreen/about/#aboutvecScreen 301 tool http://blast.ncbi.nlm.nih.gov/Blast.cgi 301 software http://github.com/indraniel/sff2FASTQ 301 null http://bioinf.comav.upv.es/sff_extract/ 302 algorithm http://github.com/iontorrent/TMAP 301 tool http://samtools.sourceforge.net/SAM1.pdf 301 tool http://samtools.sourceforge.net/ 200 tool http://hannonlab.cshl.edu/fastx_toolkit/ 200 null http://emboss.bioinformatics.nl/cgi-bin/emboss/infoseq 200 tool http://blast.ncbi.nlm.nih.gov 301 
 25879614 2015 available http://trace.ddbj.nig.ac.jp/DRASearch/submission?acc=DRA001215 200 null http://trace.ddbj.nig.ac.jp/DRASearch/submission?acc=DRA002961 200 
 25879484 2015 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE54023 301 
-25480530 2014 null http://www.genoscope.cns.fr 301 null http://www.genoscope.cns.fr 301 null http://dx.doi.org/10.5061/dryad.s1f22 303 
+25480530 2014 null http://www.genoscope.cns.fr 301 null http://www.genoscope.cns.fr 301 null https://doi.org/10.5061/dryad.s1f22 303 
 25496766 2014 NoLink
 25495781 2014 null http://genomes.cribi.unipd.it/DATA/GFF/V1.tar.gz 200 tool http://bioinfogp.cnb.csic.es/tools/grapegendb/ 200 null http://genomes.cribi.unipd.it/DATA/GFF/V1.tar.gz 200 null http://www.broadinstitute.org/igv/ 301 null http://www.ncbi.nlm.nih.gov/geo/ 301 
 25888366 2015 NoLink

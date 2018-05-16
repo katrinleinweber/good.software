@@ -4,7 +4,7 @@
 25653157 2015 
 25653164 2015 code http://codeblue.umich.edu/hoomd-blue 301 
 25662226 2015 
-NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://www.ks.uiuc.edu/Research/vmd/ 200 null https://inkscape.org/ 301 
+NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://www.ks.uiuc.edu/Research/vmd/ 200 null https://inkscape.org/ 301 
 25653165 2015 
 25662211 2015 null http://www.proteinatlas.org/ENSG00000102021-LUZP4/tissue 200 null http://www.proteinatlas.org/ENSG00000183684/tissue/testis 301 null http://prohitsms.com/ 302 null https://www.virtualbox.org/ 301 
 25662215 2015 null http://bioinfo.ccs.usherbrooke.ca/setCD.html 200 
@@ -81,7 +81,7 @@ NA 2015 null www.nar.oxfordjournals.org -1
 25628354 2015 
 25578968 2015 download http://www.arabidopsis.org/ 200 download http://www.arabidopsis.org 200 null http://genetics.mgh.harvard.edu/sheenweb/protocols_reg.html 301 
 25618850 2015 
-25609699 2015 code http://rvista.dcode.org/ 301 code http://www.dcode.org/tfSearch/tfSearch.tgz 301 here http://dx.doi.org/10.6084/m9.figshare.1284097 303 
+25609699 2015 code http://rvista.dcode.org/ 301 code http://www.dcode.org/tfSearch/tfSearch.tgz 301 here https://doi.org/10.6084/m9.figshare.1284097 303 
 25628365 2015 
 25539915 2015 null http://integratedproteomics.com/products/ip2/ 404 tool http://toolkit.tuebingen.mpg.de/hhpred 301 
 25589545 2015 null http://biobricks.org 301 null http://partsregistry.org -1 null http://partsregistry.org -1 null http://partsregistry.org -1 null http://www.addgene.org/ 200 null http://partsregistry.org -1 
@@ -91,7 +91,7 @@ NA 2015 null www.nar.oxfordjournals.org -1
 25609694 2015 null http://btb.uhnres.utoronto.ca 200 
 25564525 2015 null http://www.bmrb.wisc.edu/ 200 null http://www.bmrb.wisc.edu/ 200 null http://www.bioinf.org.uk/profit/ 200 null http://www.bmrb.wisc.edu/ 200 null http://www.ebi.ac.uk/msd-srv/prot_int/cgi-bin/piserver 500 
 25589546 2015 null http://ygob.ucd.ie/ 200 null ftp://ftp.ensembl.org/pub/release-77/fasta/saccharomyces_cerevisiae/dna/ 200 null http://www.pondr.com/index 404 
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 25414332 2015 null my.personalgenomes.org -1 
 25605798 2015 null http://www.biobase-international.com/product/transcription-factor-binding-sites 302 null http://genome.ucsc.edu/ 200 
 25628356 2015 

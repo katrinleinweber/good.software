@@ -21,7 +21,7 @@
 26018764 2015 software http://frodo.wi.mit.edu/primer3/ 301 null http://camera.crbs.ucsd.edu/mmetsp/list.php 200 tool http://data.imicrobe.us/sample/view/1867 404 null http://camera.crbs.ucsd.edu/mmetsp/list.php 200 tool http://data.imicrobe.us/sample/view/1867 404 
 26018580 2015 software http://bioinfo.ut.ee/primer3-0.4.0/ 200 
 26016672 2015 NoLink
-26017153 2015 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65042 301 null http://figshare.com/ 301 null http://dx.doi.org/10.6084/m9.figshare.1406903 303 null https://www.qiagen.com/nl/products/catalog/sample-technologies/dnasample-technologies/genomic-dna/qiaamp-dna-stool-mini-kit/ 302 package http://cran.r-project.org/web/packages/vegan/ 200 
+26017153 2015 null http://www.ncbi.nlm.nih.gov/geo/ 301 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65042 301 null http://figshare.com/ 301 null https://doi.org/10.6084/m9.figshare.1406903 303 null https://www.qiagen.com/nl/products/catalog/sample-technologies/dnasample-technologies/genomic-dna/qiaamp-dna-stool-mini-kit/ 302 package http://cran.r-project.org/web/packages/vegan/ 200 
 25880915 2015 null ftp://ftp.sanger.ac.uk/pub/databases/Pfam/Tools -1 
 26024923 2015 null www.ebi.ac.uk/arrayexpress -1 tool http://meme.nbcr.net/meme/tools/meme -1 tool http://rna.igmors.u-psud.fr/toolbox/arnold/ 200 null http://transterm.cbcb.umd.edu/ 200 null http://weblogo.berkeley.edu/logo.cgi 200 
 26025194 2015 null http://evs.gs.washington.edu/EVS/ 200 null www.labcorp.com -1 null http://www.r-project.org/ 200 null http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000090.v2.p1 301 
@@ -44,7 +44,7 @@
 25886285 2015 null https://webapps.fhcrc.org/science/tilling/ 404 null https://github.com/jstjohn/SeqPrep 301 software http://novocraft.com 403 tool http://samtools.sourceforge.net/ 200 null https://github.com/jstjohn/SeqPrep 301 software http://novocraft.com 403 tool http://samtools.sourceforge.net/ 200 
 17598915 2007 NoLink
 26048416 2015 null http://www.generationscotland.org/ 301 
-25887584 2015 null http://doi.org/10.5285/b6900166-ded6-4f7a-8734-484b6f77b2f1 303 null http://doi.org/10.5285/b6900166-ded6-4f7a-8734-484b6f77b2f1 303 
+25887584 2015 null https://doi.org/10.5285/b6900166-ded6-4f7a-8734-484b6f77b2f1 303 null https://doi.org/10.5285/b6900166-ded6-4f7a-8734-484b6f77b2f1 303 
 26048573 2015 null http://broadinstitute.github.io/picard/ 200 
 26048403 2015 NoLink
 26047617 2015 null http://bioinf.uni-greifswald.de/augustus/ 200 null http://www.softberry.com/ 200 null http://genome.jgi-psf.org 302 

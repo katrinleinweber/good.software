@@ -37,7 +37,7 @@
 28379481 2017 null http://www.haloarchaea.com/resources/halohandbook/Halohandbook_2009_v7.2mds.pdf 200 null http://weblogo.berkeley.edu/logo.cgi 200 
 28115626 2017 null phosphosite.org -1 
 28115637 2017 null www.ribovision.org -1 
-28334916 2017 null http://dx.doi.org/10.1101/051847 303 null https://github.com/xc406/Mocap 301 code http://compbio.mit.edu/encode-motifs 301 null http://cisbp.ccbr.utoronto.ca 200 code ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeMapability/ 200 null https://genome.ucsc.edu/ENCODE/qualityMetrics.html 200 code ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19 301 code ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeMapability/ 200 null http://dx.doi.org/10.1101/051847 303 
+28334916 2017 null https://doi.org/10.1101/051847 303 null https://github.com/xc406/Mocap 301 code http://compbio.mit.edu/encode-motifs 301 null http://cisbp.ccbr.utoronto.ca 200 code ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeMapability/ 200 null https://genome.ucsc.edu/ENCODE/qualityMetrics.html 200 code ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19 301 code ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeMapability/ 200 null https://doi.org/10.1101/051847 303 
 28334937 2017 algorithm http://docpollard.org/ 200 null http://157.82.78.238/refexa/ 301 null http://www.ingenuity.com/science/knowledge-base 302 null https://david.ncifcrf.gov/ 301 null http://david.abcc.ncifcrf.gov/ 301 
 28108657 2017 library https://github.com/y-256/libdivsufsort 301 
 28115623 2017 NoLink

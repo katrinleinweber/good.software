@@ -56,7 +56,7 @@
 17069453 2006 null http://www.pdb.org 301 available http://deposit.rcsb.org 302 
 28085884 2017 NoLink
 28085876 2017 NoLink
-28166222 2017 code http://doi.org/10.5281/zenodo.250558 303 null www.dreamchallenges.org -1 
+28166222 2017 code https://doi.org/10.5281/zenodo.250558 303 null www.dreamchallenges.org -1 
 28125584 2017 null http://www.malariagen.net/projects/pf3k 302 available https://github.com/Greenhouse-Lab/THEREALMcCOIL 301 null https://www.malariagen.net/projects/p-falciparum-community-project 302 
 28129350 2017 null http://elm.eu.org/ 200 null http://www.uniprot.org/ 200 null http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/ 200 null http://www.hprd.org 200 null http://www.humanproteinpedia.org 200 null https://david.ncifcrf.gov/ 301 
 28129330 2017 method Meneco -1 package http://bioasp.github.io/meneco 301 download USCDrepository -1 null http://bioinformatics.psb.ugent.be/orcae/overview/Ectsi -1 null NCBIwebserver -1 

@@ -1,5 +1,5 @@
 19389725 2009 
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19073702 2009 NoLink
 18842632 2009 null http://lowelab.ucsc.edu/GtRNAdb/ 200 null http://gib.genes.nig.ac.jp/ -1 null http://lowelab.ucsc.edu/GtRNAdb/ 200 null http://trna.nagahama-i-bio.ac.jp 301 null http://das.hgc.jp/ -1 
 19151087 2009 null www.cisred.org -1 null www.cisred.org -1 null www.cisred.org -1 null http://www.cisred.org/c.elegans4/siteseq?fid=157071 503 null http://www.cisred.org/c.elegans4/siteseq?fid=130462 503 null http://www.cisred.org/c.elegans4/siteseq?fid=92832 503 null http://www.cisred.org/c.elegans4/gene_view?ensembl_id=F02D8.3 503 null http://www.cisred.org/c.elegans4/siteseq?fid=151292 503 null http://www.cisred.org/c.elegans4/siteseq?fid=71907 503 null http://www.cisred.org/c.elegans4/siteseq?fid=17781 503 null http://www.cisred.org/c.elegans4/siteseq?fid=102892 503 null http://www.cisred.org/c.elegans4/siteseq?fid=136618 503 null http://www.cisred.org/c.elegans4/siteseq?fid=37257 503 
@@ -19,7 +19,7 @@ NA 2009 null www.nar.oxfordjournals.org -1
 18757888 2009 null http://python.org 301 null http://djangoproject.com 301 null http://mysql.com 301 available http://spore.swmed.edu/dejavu -1 available http://spore.swmed.edu/dejavu/help -1 null http://spore.swmed.edu/dejavu/statistics/ -1 
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19015128 2009 null http://www.ncbi.nlm.nih.gov/genomes/FLU/FLU.html 301 null http://influenza.genomics.org.cn -1 null http://www.biohealthbase.org 200 null http://www.immuneepitope.org/home.do 301 null http://www.jmol.org 302 null http://influenza.korea.ac.kr -1 
 18845571 2009 null http://extjs.com/products/extjs 301 
 18782832 2009 tool http://ctd.mdibl.org 200 
@@ -34,14 +34,14 @@ NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null w
 19443450 2009 NoLink
 19435883 2009 NoLink
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
 19465391 2009 NoLink
 19435881 2009 NoLink
 19465393 2009 
 19443451 2009 
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19443444 2009 available http://katahdin.cshl.org:9331/siRNA/RNAi.cgi?type=shRNA -1 
 19443441 2009 
 19443439 2009 null TableIS -1 null Table1S -1 null Figure1S-A -1 null Figure1S-C -1 null Figure2S -1 

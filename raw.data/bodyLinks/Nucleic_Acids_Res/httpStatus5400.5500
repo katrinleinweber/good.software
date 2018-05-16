@@ -55,7 +55,7 @@
 19380375 2009 
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19383879 2009 
 19321502 2009 null http://socserv.mcmaster.ca/adna/labs.htm 301 null http://socserv.mcmaster.ca/adna/labs.htm 301 
 18842629 2009 available http://bioinformatics.charite.de/supersite 301 null http://mychem.sf.net 301 tool http://www.chemaxon.com/ 200 null http://scientific.thomsonreuters.com 301 null http://www.mdl.com 301 null http://dtp.nci.nih.gov 301 null http://openbabel.org 301 null http://mychem.sf.net 301 null http://jmol.org -1 
@@ -91,7 +91,7 @@ NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/opena
 19357092 2009 
 19359357 2009 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 NA 2009 null www.nar.oxfordjournals.org -1 
 19443443 2009 available http://zhang.bioinformatics.ku.edu/MM-align 302 available http://zhang.bioinformatics.ku.edu/MM-align/benchmark 302 
 19429895 2009 null http://eutils.ncbi.nlm.nih.gov/entrez/query/static/eutils_help.html 301 algorithm http://tartarus.org/~martin/PorterStemmer/ 301 null http://www.pakora.cf.ac.uk/pakora.php -1 tool http://david.abcc.ncifcrf.gov/home.jsp 301 

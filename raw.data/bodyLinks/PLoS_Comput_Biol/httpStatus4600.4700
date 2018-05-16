@@ -2,7 +2,7 @@
 27096735 2016 null www.celldesigner.org -1 
 27100869 2016 null https://tcga-data.nci.nih.gov/tcga/ 301 null http://www.r-project.org/ 200 
 27100738 2016 code https://github.com/etal/cnvkit 301 null http://www.apache.org/licenses/LICENSE-2.0 200 available http://cnvkit.readthedocs.org/ 301 here http://github.com/etal/cnvkit-examples 301 null http://www.reportlab.com/opensource/ 200 null http://matplotlib.org 200 tool http://picard.sourceforge.net/ 200 pipeline https://bcbio-nextgen.readthedocs.org/en/latest/ 301 null http://genome.ucsc.edu/ 200 null http://repeatmasker.org 200 available http://cnvkit.readthedocs.org/ 301 
-27105344 2016 null http://dx.doi.org/10.5061/dryad.hf93c 303 
+27105344 2016 null https://doi.org/10.5061/dryad.hf93c 303 
 27104615 2016 null ftp://ftp.ncbi.nih.gov/pub/COG/COG2014/data 301 available https://sourceforge.net/projects/brasolia 301 
 27104350 2016 NoLink
 27517461 2016 NoLink

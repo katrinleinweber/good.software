@@ -2,7 +2,7 @@
 19223329 2009 
 19223327 2009 
 19223322 2009 null http://www.sanger.ac.uk/Software/Rfam/index.shtml 301 
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19223324 2009 publicly http://www.gene-quantification.com 200 available http://www.rdml.org/ 200 available http://www.rdml.org 200 null http://www.rdml.org/chooseTool.php?new 200 available http://www.rdml.org/validate.php 200 null http://www.ncbi.nlm.nih.gov/geo/ 301 available http://www.rdml.org 200 null http://sourceforge.net/projects/rdml/ 301 
 19223331 2009 null http://expression.gnf.org/cgi-bin/index.cgi#Q -1 
 19223333 2009 null http://rsb.info.nih.gov/ij/ 301 
@@ -36,7 +36,7 @@ NA 2009 null www.nar.oxfordjournals.org -1
 19264801 2009 null http://www.promega.com/biomath/calc11.htm 301 tool http://www.basic.northwestern.edu/biotools/oligocalc.html 302 null http://www.promega.com/biomath/calc11.htm 301 null http://www.promega.com/biomath/calc11.htm 301 
 19321497 2009 NoLink
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://www.pymol.org 302 
+NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://www.pymol.org 302 
 19244309 2009 
 19244310 2009 
 19246540 2009 
@@ -69,7 +69,7 @@ NA 2009 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/opena
 19190090 2009 
 19208645 2009 null ftp://ftp.ncbi.nih.gov/refseq/M_musculus/mRNA_Prot/ 301 null http://genome.jgi-psf.org/Trire2/Trire2.home.html 302 null http://tiling.gersteinlab.org/OligoTiler/oligotiler.cgi 200 null http://www.ebi.ac.uk/~graef/arraydesign/ 301 
 NA 2009 null www.nar.oxfordjournals.org -1 
-NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 19264799 2009 
 19264806 2009 download http://yass.sdu.dk/RMM/ -1 null http://rdp.cme.msu.edu/ 200 null http://rdp.cme.msu.edu/ 200 
 19223323 2009 NoLink

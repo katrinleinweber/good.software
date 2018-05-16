@@ -50,7 +50,7 @@
 16381868 2006 null www.otago.ac.nz/IGC -1 
 16381982 2006 null http://www.isrec.isb-sib.ch/BCF/Delorenzi/Mamot.html -1 null ftp://ftp.isrec.isb-sib.ch/pub/databases/htpselex -1 null http://www.isrec.isb-sib.ch/htpselex -1 
 16381919 2006 null http://hmmer.wustl.edu -1 null http://pfam.wustl.edu/ -1 null http://cnidbase.bu.edu -1 
-NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2013 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 16381823 2006 available www.insdc.org -1 
 16381931 2006 null http://www.cisred.org 503 here www.biosapiens.info -1 null http://das.sanger.ac.uk/registry/ 301 
 16381944 2006 available http://cgap.nci.nih.gov 301 null http://epi.grants.cancer.gov/BPC3/ 301 null http://cgf.nci.nih.gov/cohort.cfm 301 null http://www.ncbi.nlm.nih.gov/SNP 301 null http://cabig.nci.nih.gov -1 null http://egp.gs.washington.edu/ 200 null http://www.broad.mit.edu/mpg/tagger/ 301 null ftp://ftp-snp500cancer.nci.nih.gov -1 

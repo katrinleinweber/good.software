@@ -62,7 +62,7 @@
 27595709 2016 NoLink
 27585810 2016 NoLink
 27585456 2016 NoLink
-27604083 2016 null http://dx.doi.org/10.5061/dryad.b34s4 303 software http://bioconductor.org/packages/2.13/bioc/html/DESeq.html 200 null http://www.cbs.dtu.dk/services/SignalP/ 200 null www.uniprot.org -1 tool www.ncbi.nlm.nih.gov/ -1 null http://pfam.xfam.org/ 200 null http://www.ebi.ac.uk/interpro/ 405 
+27604083 2016 null https://doi.org/10.5061/dryad.b34s4 303 software http://bioconductor.org/packages/2.13/bioc/html/DESeq.html 200 null http://www.cbs.dtu.dk/services/SignalP/ 200 null www.uniprot.org -1 tool www.ncbi.nlm.nih.gov/ -1 null http://pfam.xfam.org/ 200 null http://www.ebi.ac.uk/interpro/ 405 
 27604267 2016 NoLink
 27604351 2016 NoLink
 27586129 2016 null www.genomic.ch/edena/results2013/ReferenceSequences/ -1 

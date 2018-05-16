@@ -31,7 +31,7 @@ NA 2016 null www.nar.oxfordjournals.org -1
 27557709 2016 null www.R-project.org -1 
 27694620 2016 
 27694626 2016 apply https://www.R-project.org/ 200 package https://CRAN.R-project.org/package=dplyr 303 apply https://www.R-project.org/ 200 package https://CRAN.R-project.org/package=dplyr 303 package https://CRAN.R-project.org/package=pwr 303 
-NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 27488188 2016 null https://tetrahymena.vet.cornell.edu/ 301 null http://ciliate.org 302 null http://www.broadinstitute.org/annotation/genome/Tetrahymena/MultiHome.html 301 software http://genie.weizmann.ac.il/software/nucleo_prediction.html 302 
 27915289 2016 NoLink
 27492288 2016 tool https://github.com/ncbi/sratoolkit 301 null http://www.beerlab.org/gkmsvm/ 200 download http://folk.uio.no/junbaiw/BayesPI-BAR/ 200 
@@ -46,7 +46,7 @@ NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/opena
 27580719 2016 software http://smb.slac.stanford.edu/facilities/software/xds 301 null http://www.pymol.org 302 
 27543075 2016 null www.schrodinger.com -1 null http://imagej.nih.gov/ij/index.html 302 
 27694308 2016 tool https://npsa-prabi.ibcp.fr/cgi-bin/npsa_automat.pl?page=npsa_pattinprot.html 301 null http://www.uniprot.org/ 200 available http://www.bioimaging-center.uni-konstanz.de 301 
-NA 2016 null https://academic.oup.com/nar 301 null https://academic.oup.com/nar/pages/Open_Access_Initiative 301 null https://academic.oup.com/nar/subscribe 301 null http://dx.doi.org/ 200 here https://academic.oup.com/journals/pages/about_us/ethical_policies 301 null https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions 301 
+NA 2016 null https://academic.oup.com/nar 301 null https://academic.oup.com/nar/pages/Open_Access_Initiative 301 null https://academic.oup.com/nar/subscribe 301 null https://doi.org/ 200 here https://academic.oup.com/journals/pages/about_us/ethical_policies 301 null https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions 301 
 27492287 2016 null ncbi.nlm.nih.gov/geo -1 download http://www.ncbi.nlm.nih.gov/ 301 download http://www.ncbi.nlm.nih.gov/ 301 
 27672040 2016 
 27655632 2016 null https://www.thermofisher.com/content/dam/LifeTech/Documents/geneart/geneart-vector-map.pdf 200 

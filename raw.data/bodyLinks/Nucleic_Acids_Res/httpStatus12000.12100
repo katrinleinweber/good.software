@@ -43,7 +43,7 @@ NA 2014 NoLink
 24203703 2014 null http://drupal.org 301 null http://tripal.info 200 null http://www.ncbi.nlm.nih.gov/pubmed 301 null http://agricola.nal.usda.gov/ 301 tool wwwBLAST -1 tool http://www.ncbi.nlm.nih.gov/staff/tao/URLAPI/wwwblast/ 301 null http://compbio.dfci.harvard.edu/tgi/plant.html 404 null http://www.plantgdb.org/ 200 
 NA 2014 NoLink
 24198250 2014 null http://pogo.ece.drexel.edu 200 null http://pogo.ece.drexel.edu/query.php 200 null http://pogo.ece.drexel.edu/api_doc.php 200 download http://pogo.ece.drexel.edu/downloads.php 200 null http://pogo.ece.drexel.edu/api_doc.php 200 
-24311565 2014 null http://dx.doi.org/10.5772/52050 303 available http://www.ncbi.nlm.nih.gov/pubmed 301 package http://mychem.sourceforge.net/ 200 null http://openbabel.org/ 301 null http://www.daylight.com/dayhtml/doc/theory/theory.finger.html 200 null http://www.chemdoodle.com 301 null http://www.kegg.jp/ 200 
+24311565 2014 null https://doi.org/10.5772/52050 303 available http://www.ncbi.nlm.nih.gov/pubmed 301 package http://mychem.sourceforge.net/ 200 null http://openbabel.org/ 301 null http://www.daylight.com/dayhtml/doc/theory/theory.finger.html 200 null http://www.chemdoodle.com 301 null http://www.kegg.jp/ 200 
 25122746 2014 
 25159617 2014 NoLink
 24170810 2014 tool http://www.bioinformatics.org/primerx/ 200 software www.schrodinger.com -1 software www.tripos.com -1 null www.ccdc.cam.ac.uk -1 
@@ -91,7 +91,7 @@ NA 2014 NoLink
 27084937 2016 null http://www.mathworks.co.uk/matlabcentral/fileexchange/25500-peakfinder 301 
 24265223 2014 null www.emouseatlas.org -1 null http://thomsonreuters.com/web-of-knowledge/ 301 null http://toppgene.cchmc.org 302 null http://www.r-project.org/ 200 
 24243849 2014 null b -1 
-NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2015 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 25262354 2014 
 24799437 2014 null rna.tbi.univie.ac.at/cgi-bin/RNAfold.cgi -1 algorithm http://www.targetscan.org 200 null http://www.microrna.org 302 
 24753423 2014 available https://github.com/JialiUMassWengLab/TEMP.git 301 null http://zlab.umassmed.edu/TEMP/ 301 null http://zlab.umassmed.edu/TEMP/ 301 null http://www.girinst.org/repbase/ 200 null http://genome.ucsc.edu/ 200 code https://code.google.com/p/popoolationte/ 405 null https://github.com/tk2/RetroSeq 301 null http://variationhunter.sourceforge.net/Home 200 code http://code.google.com/p/gasv/ 405 code https://code.google.com/p/popoolationte/wiki/ 405 null https://github.com/tk2/RetroSeq/wiki/RetroSeq-Tutorial 301 null http://mrfast.sourceforge.net/ 200 null http://dgv.tcag.ca/dgv/app/home 200 

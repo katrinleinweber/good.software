@@ -51,7 +51,7 @@ NA 2016 NoLink
 26792896 2016 NoLink
 26896801 2016 null www.uniprot.org -1 
 26681688 2016 NoLink
-NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null http://dx.doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2016 null www.nar.oxfordjournals.org -1 here www.nar.oxfordjournals.org/openaccess -1 null www.oxfordjournals.org/nar/access_purchase/price_list.html -1 null https://doi.org/ 200 here http://www.oxfordjournals.org/ethicalpolicies.html 302 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 26609136 2016 null http://wiki.thegpm.org/wiki/False_positive_rate 200 null www.proteomeXchange.org -1 null www.gimp.org -1 null http://ecocyc.org 302 null https://asap.ahabs.wisc.eduasap/sim_search_query.php -1 null http://www.ncbi.nlm.nih.gov/sutils/genom_table.cgi?organism=microb 301 null http://www.clcbio.com 302 null http://www.clustal.org/clustal2/ 200 algorithm http://www.drive5.com/muscle/ 200 algorithm http://mafft.cbrc.jp/alignment/server 301 null http://www.jalview.org/ 200 null http://rna.tbi.univie.ac.at/ 200 null http://www.ccg.unam.mx/Computational_Genomics/PromoterTools/ 200 null http://weblogo.berkeley.edu 200 
 26687720 2016 NoLink
 26656489 2016 null www.softberry.com -1 software http://weblogo.berkeley.edu 200 

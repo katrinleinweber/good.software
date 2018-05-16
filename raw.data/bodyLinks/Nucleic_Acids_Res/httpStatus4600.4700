@@ -57,7 +57,7 @@ NA 2008 NoLink
 18689861 2008 null www.ambion.com/techlib/resources/RNAi -1 
 26400168 2016 null http://trace.ddbj.nig.ac.jp/dra/index_e.html 200 null http://trace.ddbj.nig.ac.jp/dra/index_e.html 200 software http://bio-bwa.sourceforge.net/ 200 null https://www.broadinstitute.org/gatk/ 301 software http://www.softgenetics.com/mutationSurveyor.html 404 
 26681692 2016 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
+NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 
 18689440 2008 NoLink
 18689439 2008 tool http://geno3d-pbil-ibcp.fr -1 null http://pymol.sourceforge.net/ 200 tool http://geno3d-pbil.ibcp.fr 301 
 18689438 2008 
@@ -90,7 +90,7 @@ NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null w
 19282452 2009 NoLink
 NA 2009 null www.nar.oxfordjournals.org -1 
 NA 2009 NoLink
-NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null http://dx.doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
+NA 2009 null www.nar.oxfordjournals.org -1 null www.nar.oxfordjournals -1 null www.oxfordjournals.org/nar/access_purchase/price_list -1 null https://doi.org/ 200 null http://www.oxfordjournals.org/jnls/permissions/ 404 null http://darwin-online.org.uk/ 200 
 19208643 2009 NoLink
 19151090 2009 available http://acgt.cs.tau.ac.il/allegro 301 download http://www.yeastgenome.org 302 null http://microrna.sanger.ac.uk/sequences 301 null http://genome-www.stanford.edu/Human-CellCycle/HeLa 301 null http://symatlas.gnf.org/SymAtlas -1 
 19129236 2009 null https://genome.ulaval.ca/qrtpcr 302 

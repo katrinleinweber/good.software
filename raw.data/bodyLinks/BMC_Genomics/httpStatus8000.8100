@@ -78,7 +78,7 @@
 26263897 2015 null http://www.soybase.org 302 package www.genevestigator.com -1 
 26265206 2015 null http://www.genome.jp/kegg/ 200 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE59214 301 
 26268438 2015 null http://www.ncbi.nlm.nih.gov/sra 301 
-26265132 2015 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE70261 301 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE70261 301 null http://www.ingenuity.com 302 null http://www.exiqon.com 200 available http://dx.doi.org/10.6070/H4GH9FZ9 303 
+26265132 2015 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE70261 301 null http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE70261 301 null http://www.ingenuity.com 302 null http://www.exiqon.com 200 available https://doi.org/10.6070/H4GH9FZ9 303 
 26265378 2015 null http://mips.helmholtz-muenchen.de/plant/barley 302 null http://korflab.ucdavis.edu/datasets/cegma 301 download http://lipm-bioinfo.toulouse.inra.fr/download/glint/ 200 available https://iant.toulouse.inra.fr/A.myosuroides2013?download=1 301 null http://rice.plantbiology.msu.edu/ 200 
 26268547 2015 NoLink
 26265254 2015 tool http://www.wheatgenome.org/ 200 null http://komugigsp.dna.affrc.go.jp/index.html 200 null https://urgi.versailles.inra.fr/gb2/gbrowse/wheat_phys_pub/ 302 null http://komugigsp.dna.affrc.go.jp/index.html 200 null http://olomouc.ueb.cas.cz/dna-libraries/cereals 200 null https://urgi.versailles.inra.fr/gb2/gbrowse/wheat_phys_pub/ 302 null http://wheat.pw.usda.gov/cmap/ 302 null http://www.shigen.nig.ac.jp/wheat/komugi/ 301 null http://plug.dna.affrc.go.jp/ -1 null http://plug.dna.affrc.go.jp/ -1 null http://www.ncbi.nlm.nih.gov/unigene 301 null http://www.pdb.org/pdb/home/home.do 301 null http://www.ddbj.nig.ac.jp 200 

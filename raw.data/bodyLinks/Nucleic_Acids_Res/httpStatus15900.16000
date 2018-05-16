@@ -8,7 +8,7 @@
 27899632 2017 NoLink
 28053116 2017 NoLink
 27903897 2017 null http://www.repeatmasker.org 200 
-27994038 2017 null http://dx.doi.org/10.13140/RG.2.2.22940.49286 303 null www.graphpad.com -1 
+27994038 2017 null https://doi.org/10.13140/RG.2.2.22940.49286 303 null www.graphpad.com -1 
 28062855 2017 NoLink
 28334906 2017 NoLink
 28119418 2017 NoLink
@@ -81,7 +81,7 @@
 28158555 2017 null http://swissmodel.expasy.org/ 302 null http://cancer.sanger.ac.uk/cosmic 200 
 28115630 2017 NoLink
 27980100 2017 available https://www.R-project.org/ 200 available http://CRAN.R-project.org/package=vegan 303 available http://CRAN.R-project.org/package=MASS 303 available http://CRAN.R-project.org/package=HH 303 available http://CRAN.R-project.org/package=ggplot2 303 
-27899659 2017 null http://dx.doi.org/10.5281/zenodo.49234 303 null https://www.mutationforecaster.com 302 
+27899659 2017 null https://doi.org/10.5281/zenodo.49234 303 null https://www.mutationforecaster.com 302 
 27899652 2017 null http://jaspar.binf.ku.dk 200 method http://www.itl.nist.gov/div898/handbook/index.htm 200 
 28132026 2017 NoLink
 28003476 2017 null http://david.abcc.ncifcrf.gov/ 301 
